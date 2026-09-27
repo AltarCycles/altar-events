@@ -1,5 +1,5 @@
 {
- "at": "2026-09-26T13:45:42.355065+00:00",
+ "at": "2026-09-27T14:42:53.182765+00:00",
  "events": [
   {
    "title": "Catawba View Volunteer Trail Day",
@@ -22,7 +22,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "fc6597dffab95964",
-   "last_seen": "2026-09-26"
+   "last_seen": "2026-09-27"
   },
   {
    "title": "Bernard Mountain Volunteer Trail Day",
@@ -45,15 +45,15 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "7281360418a623b8",
-   "last_seen": "2026-09-26"
+   "last_seen": "2026-09-27"
   },
   {
-   "title": "Women's + Trail Skills Workshop - Intro Class: Trail Maintenance 101",
+   "title": "Women's + Trail Skills Workshop",
    "start": "2026-10-17T09:00:00",
    "end": "2026-10-17T15:00:00",
    "all_day": false,
    "url": "https://www.g5trailcollective.org/volunteer",
-   "description": "Registration full",
+   "description": "Intro Class: Trail Maintenance 101. REGISTRATION FULL",
    "venue": "Allison Trailhead Parking - Meetup",
    "city": "Old Fort",
    "state": "NC",
@@ -67,8 +67,8 @@
    "category": "clinic",
    "category_basis": "rule",
    "discipline": "mtb",
-   "uid": "2d942221ff77fefb",
-   "last_seen": "2026-09-26"
+   "uid": "58085b166d26dbaf",
+   "last_seen": "2026-09-27"
   },
   {
    "title": "G5 Fall Trail Weekend!",
@@ -91,15 +91,15 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "950ebae34683eda4",
-   "last_seen": "2026-09-26"
+   "last_seen": "2026-09-27"
   },
   {
-   "title": "Women's + Trail Skills Workshop",
+   "title": "Women's + Trail Skills Workshop - Intro Class: Trail Maintenance 101",
    "start": "2026-10-17T09:00:00",
    "end": "2026-10-17T15:00:00",
    "all_day": false,
    "url": "https://www.g5trailcollective.org/volunteer",
-   "description": "Intro Class: Trail Maintenance 101. G5 Community Education Program. REGISTRATION FULL",
+   "description": "Registration full",
    "venue": "Allison Trailhead Parking - Meetup",
    "city": "Old Fort",
    "state": "NC",
@@ -113,9 +113,9 @@
    "category": "clinic",
    "category_basis": "rule",
    "discipline": "mtb",
-   "uid": "58085b166d26dbaf",
-   "last_seen": "2026-09-25",
-   "held_since": "2026-09-25"
+   "uid": "2d942221ff77fefb",
+   "last_seen": "2026-09-26",
+   "held_since": "2026-09-26"
   }
  ]
 }
