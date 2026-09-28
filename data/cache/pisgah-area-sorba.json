@@ -1,6 +1,27 @@
 {
- "at": "2026-09-27T14:42:44.850800+00:00",
+ "at": "2026-09-28T17:39:59.394091+00:00",
  "events": [
+  {
+   "title": "Explorer Loop Work Day - Bent Creek",
+   "start": "2026-10-01T08:30:00",
+   "end": "2026-10-01T13:00:00",
+   "all_day": false,
+   "url": "https://www.pisgahareasorba.org/",
+   "description": "Join Pisgah Area SORBA for a work day on the! No experience is necessary - our Pisgah SORBA Trail Crew Leaders will provide all tools, guidance, and instruction. Date: Thursday, October 1st Time: 8:30 AM \u2013 1:00 PM Trail Work Location: Explorer Loop in Bent Creek Meetup Location: Ledford Parking Lot in Bent Creek Work description: Packing, raking, hand finishing, brushing, naturalizing, and more TCL: Craig Ruhland (and his dog Maple) Required items: Long pants, boots that cover your ankles, safety glasses (can be provided), gloves (can be provided), hardhat (bike helmets DO NOT count, but climbing helmets do, also can be provided), snacks/lunch and water. All tools will be provided. Come out and give back to the trails!",
+   "venue": "https://share.google/T7tlSL7a8wKAVKQX0",
+   "city": "",
+   "state": "",
+   "source": "pisgah-area-sorba",
+   "source_name": "Pisgah Area SORBA",
+   "source_url": "https://www.pisgahareasorba.org/",
+   "trust": 80,
+   "bucket": "local",
+   "category": "trail-work",
+   "category_basis": "rule",
+   "discipline": "mtb",
+   "uid": "f40e3641a356bc14",
+   "last_seen": "2026-09-28"
+  },
   {
    "title": "Carolina Mountain Club Joint Work Day",
    "start": "2026-10-09T08:30:00",
@@ -20,7 +41,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "798af262c46ed07e",
-   "last_seen": "2026-09-27"
+   "last_seen": "2026-09-28"
   }
  ]
 }
