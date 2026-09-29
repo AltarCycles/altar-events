@@ -1,5 +1,5 @@
 {
- "at": "2026-09-28T17:40:04.198961+00:00",
+ "at": "2026-09-29T15:52:59.297338+00:00",
  "events": [
   {
    "title": "Catawba View Volunteer Trail Day",
@@ -22,7 +22,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "fc6597dffab95964",
-   "last_seen": "2026-09-28"
+   "last_seen": "2026-09-29"
   },
   {
    "title": "Bernard Mountain Volunteer Trail Day",
@@ -45,7 +45,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "7281360418a623b8",
-   "last_seen": "2026-09-28"
+   "last_seen": "2026-09-29"
   },
   {
    "title": "Women's + Trail Skills Workshop - Intro Class: Trail Maintenance 101",
@@ -53,7 +53,7 @@
    "end": "2026-10-17T15:00:00",
    "all_day": false,
    "url": "https://www.g5trailcollective.org/volunteer",
-   "description": "Registration full",
+   "description": "REGISTRATION FULL",
    "venue": "Allison Trailhead Parking - Meetup",
    "city": "Old Fort",
    "state": "NC",
@@ -68,7 +68,30 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "2d942221ff77fefb",
-   "last_seen": "2026-09-28"
+   "last_seen": "2026-09-29"
+  },
+  {
+   "title": "G5 Fall Trail Work Weekend!",
+   "start": "2026-11-06T15:00:00",
+   "end": "2026-11-08T13:00:00",
+   "all_day": false,
+   "url": "https://www.g5trailcollective.org/volunteer",
+   "description": "Pisgah Grandfather Outdoor Community & Stewardship Party! Volunteer Projects. Appreciation. Recreation Activities. Camp Hospitality. All around good times!",
+   "venue": "Camp Grier",
+   "city": "Old Fort",
+   "state": "NC",
+   "cost": null,
+   "extracted_by": "llm",
+   "source": "g5-trail-collective",
+   "source_name": "G5 Trail Collective",
+   "source_url": "https://www.g5trailcollective.org/",
+   "trust": 80,
+   "bucket": "local",
+   "category": "trail-work",
+   "category_basis": "rule",
+   "discipline": "mtb",
+   "uid": "135b22c437e79833",
+   "last_seen": "2026-09-29"
   },
   {
    "title": "G5 Fall Trail Weekend!",
@@ -91,7 +114,8 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "950ebae34683eda4",
-   "last_seen": "2026-09-28"
+   "last_seen": "2026-09-28",
+   "held_since": "2026-09-28"
   },
   {
    "title": "Women's + Trail Skills Workshop",

@@ -1,5 +1,5 @@
 {
- "at": "2026-09-28T17:39:52.746173+00:00",
+ "at": "2026-09-29T15:52:35.796046+00:00",
  "events": [
   {
    "title": "October Group Ride + Social",
@@ -22,7 +22,30 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "b150ddbea280cbb5",
-   "last_seen": "2026-09-28"
+   "last_seen": "2026-09-29"
+  },
+  {
+   "title": "Test + Tune with Cane Creek Components (Again)",
+   "start": "2026-11-07T11:00:00",
+   "end": "2026-11-07T14:00:00",
+   "all_day": false,
+   "url": "https://www.dirtskrrts.com/schedule",
+   "description": "Suspension test and tune event with Cane Creek Components. For riders with suspension bikes comfortable riding downhill on rocky/rooty trails. E-bikes not allowed. 8 spots available.",
+   "venue": "Bent Creek Experimental Forest",
+   "city": "Asheville",
+   "state": "NC",
+   "cost": null,
+   "extracted_by": "llm",
+   "source": "blue-ridge-dirt-skrrts",
+   "source_name": "Blue Ridge Dirt Skrrts",
+   "source_url": "https://www.dirtskrrts.com/",
+   "trust": 80,
+   "bucket": "local",
+   "category": "race",
+   "category_basis": "rule",
+   "discipline": "mtb",
+   "uid": "db8cbeababc1d3b3",
+   "last_seen": "2026-09-29"
   },
   {
    "title": "November Group Ride + Social",
@@ -45,7 +68,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "e6ecfc09dd6c5bf2",
-   "last_seen": "2026-09-28"
+   "last_seen": "2026-09-29"
   },
   {
    "title": "December Group Ride + Social",
@@ -68,7 +91,7 @@
    "category_basis": "rule",
    "discipline": "other",
    "uid": "b68ee4e9e36aad4a",
-   "last_seen": "2026-09-28"
+   "last_seen": "2026-09-29"
   }
  ]
 }
