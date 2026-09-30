@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:Pisgah 111 / 555
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260929T155447Z
+DTSTAMP:20260930T155749Z
 UID:c6d05d9f51734aa6@altar.bike
 CATEGORIES:race
 DESCRIPTION:The Pisgah 111 is the quintessential crusher of a cross-countr
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Gran Fondo Hincapie-Greenville
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261017
-DTSTAMP:20260929T155447Z
+DTSTAMP:20260930T155749Z
 UID:f2acb77c16a22d1c@altar.bike
 CATEGORIES:race
 DESCRIPTION:Not sure which distance is right for you? Visit our website to
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:2026 NCCX Race #3 Boone
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260929T155447Z
+DTSTAMP:20260930T155749Z
 UID:0b3f52f489b0c6d2@altar.bike
 CATEGORIES:race
 DESCRIPTION:Welcome to the 30th season of the NCCX series. We are excited 
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:2026 BRAGco Cycling Event
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20260929T155447Z
+DTSTAMP:20260930T155749Z
 UID:743ac628878c17c6@altar.bike
 CATEGORIES:race
 DESCRIPTION:Bike Ride Across Greene County Sunday\, October 25\, 2026 Star
@@ -98,13 +98,13 @@ BEGIN:VEVENT
 SUMMARY:The Middle Fork Fondo 2026
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20260929T155447Z
+DTSTAMP:20260930T155749Z
 UID:0186abed2e6b428b@altar.bike
 CATEGORIES:race
 DESCRIPTION:The Middle Fork Fondo 2026 benefits Bikes 4 Kids NC\, supporti
  ng the year-round work that makes it possible to provide bicycles to child
  ren in need at Christmas. There are four scenic routes with minimal elevat
- ion to choose from at distances of 62\, 50\, 35\, 21 miles. An aid station
+ ion to choose from at distances of 64\, 50\, 35\, 21 miles. An aid station
   will be available for hydration and snacks. There will be 3 optional time
  d sectors for those that want to test their fitness and win the bragging r
  ights for this years event! Must have Strava if you want your time recorde
@@ -122,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:1000 Mile BikeWalk for Prevention
 DTSTART:20261031T000000
 DTEND:20261031T000000
-DTSTAMP:20260929T155447Z
+DTSTAMP:20260930T155749Z
 UID:ca69c113117cd0e8@altar.bike
 CATEGORIES:race
 DESCRIPTION:The 1000 Mile BikeWalk for Prevention to be held October 31\, 
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:Couch Potato
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20260929T155447Z
+DTSTAMP:20260930T155749Z
 UID:2e02b8a758b849f1@altar.bike
 CATEGORIES:race
 DESCRIPTION:Welcome to the 14th Annual Couch Potato race! We're very excit
@@ -170,14 +170,14 @@ BEGIN:VEVENT
 SUMMARY:Test + Tune with Cane Creek Components (Again)
 DTSTART:20261107T110000
 DTEND:20261107T140000
-DTSTAMP:20260929T155447Z
+DTSTAMP:20260930T155749Z
 UID:db8cbeababc1d3b3@altar.bike
 CATEGORIES:race
-DESCRIPTION:Suspension test and tune event with Cane Creek Components. For
-  riders with suspension bikes comfortable riding downhill on rocky/rooty t
- rails. E-bikes not allowed. 8 spots available.\n\nMore: https://www.dirtsk
- rrts.com/schedule\n\nSource: Blue Ridge Dirt Skrrts\n\nListed by Altar Cyc
- les — altar.bike/calendar
+DESCRIPTION:Suspension test + tune event for riders with suspension bikes 
+ comfortable riding downhill. Meet at Explorer Loop parking lot. No e-bikes
+  allowed. 8 spots available.\n\nMore: https://www.dirtskrrts.com/schedule
+ \n\nSource: Blue Ridge Dirt Skrrts\n\nListed by Altar Cycles — altar.bik
+ e/calendar
 LOCATION:Bent Creek Experimental Forest\, Asheville\, NC
 URL:https://www.dirtskrrts.com/schedule
 END:VEVENT
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:Swank 65
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20260929T155447Z
+DTSTAMP:20260930T155749Z
 UID:808d5262f339b592@altar.bike
 CATEGORIES:race
 DESCRIPTION:Welcome to the 28th Annual Swank 65! We're very excited for an
@@ -209,7 +209,7 @@ BEGIN:VEVENT
 SUMMARY:2026 NCCX Race #8 Hickory
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20260929T155447Z
+DTSTAMP:20260930T155749Z
 UID:6ce7ed1f4106eec0@altar.bike
 CATEGORIES:race
 DESCRIPTION:Welcome to the 30th season of the NCCX series. We are excited 
@@ -233,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:We Shred Rock Creek
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20260929T155447Z
+DTSTAMP:20260930T155749Z
 UID:0a67e54dee113b1a@altar.bike
 CATEGORIES:race
 DESCRIPTION:We Shred Rock Creek is back for 2026 – and it is shaping up 
@@ -257,7 +257,7 @@ BEGIN:VEVENT
 SUMMARY:XCC GVL - Greenville\, SC.\, Short Track
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20260929T155447Z
+DTSTAMP:20260930T155749Z
 UID:86cf16c78645fbfd@altar.bike
 CATEGORIES:race
 DESCRIPTION:XCC/GVL — Race Day Information Saturday\, November 14\, 2026
@@ -282,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:Pisgah DOUBLE DARE
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20260929T155447Z
+DTSTAMP:20260930T155749Z
 UID:59bf1e39a66ae34b@altar.bike
 CATEGORIES:race
 DESCRIPTION:Every year an event comes along that tests mental and physical
@@ -307,7 +307,7 @@ SUMMARY:2026 NORTH CAROLINA GRAND PRIX - R#1 & R#2 - NCCX Race #10 & Race
  #11 Hendersonville
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20260929T155447Z
+DTSTAMP:20260930T155749Z
 UID:1ea4003af619eb35@altar.bike
 CATEGORIES:race
 DESCRIPTION:Review the event website here. The 2026 guide will be posted c
@@ -330,23 +330,24 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pisgah Rage Regular Season
 DTSTART;VALUE=DATE:20261201
-DTSTAMP:20260929T155447Z
+DTSTAMP:20260930T155749Z
 UID:670937aa0418b08a@altar.bike
 CATEGORIES:race
-DESCRIPTION:Runs 1 Dec 2026 to 30 May 2027. Regular season with practices 
- and races. January: 2-4 indoor training opportunities. February: 1 weekend
-  practice per week (2 hours). March-May: 2 rides per week with races start
- ing in early March. Typically 5-6 races across North Carolina through end 
- of May.\n\nMore: https://www.pisgahrage.com/\n\nSource: Pisgah Rage (NICA 
- composite team)\n\nListed by Altar Cycles — altar.bike/calendar
-LOCATION:Multiple locations across North Carolina\, Asheville\, NC
+DESCRIPTION:Runs 1 Dec 2026 to 30 May 2027. Regular season with races and 
+ practices. Races typically start in March with 5-6 races across North Caro
+ lina through end of May. January includes 2-4 indoor training opportunitie
+ s. February has 1 weekend practice per week. March-May has 2 rides per wee
+ k including weeknight and weekend practices.\n\nMore: https://www.pisgahra
+ ge.com/\n\nSource: Pisgah Rage (NICA composite team)\n\nListed by Altar Cy
+ cles — altar.bike/calendar
+LOCATION:Asheville\, Asheville\, NC
 URL:https://www.pisgahrage.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pisgah Stage Race
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270410
-DTSTAMP:20260929T155447Z
+DTSTAMP:20260930T155749Z
 UID:b96fc2f355480948@altar.bike
 CATEGORIES:race
 DESCRIPTION:Pisgah Stage Race is now running as a Three-Day Race. It's not
@@ -370,7 +371,7 @@ BEGIN:VEVENT
 SUMMARY:Bootlegger
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270417
-DTSTAMP:20260929T155447Z
+DTSTAMP:20260930T155749Z
 UID:f0fa19e43a2adce0@altar.bike
 CATEGORIES:race
 DESCRIPTION:The Bootlegger is one of the most challenging and scenic grave
@@ -394,7 +395,7 @@ BEGIN:VEVENT
 SUMMARY:Pisgah Mountain Bike Adventure Race
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270501
-DTSTAMP:20260929T155447Z
+DTSTAMP:20260930T155749Z
 UID:996261671a499518@altar.bike
 CATEGORIES:race
 DESCRIPTION:The Pisgah Mountain Bike Adventure Race (PMBAR) is the absolut
@@ -419,7 +420,7 @@ BEGIN:VEVENT
 SUMMARY:Carolina Reaper Road Race
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270515
-DTSTAMP:20260929T155447Z
+DTSTAMP:20260930T155749Z
 UID:6cb81637a4faee67@altar.bike
 CATEGORIES:race
 DESCRIPTION:Please visit www.reaperroadrace.com for more information.\n\nM
@@ -434,7 +435,7 @@ SUMMARY:2027 Gran Fondo Asheville\, p/b Applewood Manor Foundation\, a SEN
  A Gran Fondo National Series event
 DTSTART;VALUE=DATE:20270718
 DTEND;VALUE=DATE:20270718
-DTSTAMP:20260929T155447Z
+DTSTAMP:20260930T155749Z
 UID:19cc3e2cb7f4ed33@altar.bike
 CATEGORIES:race
 DESCRIPTION:THIS REGISTRATION IS FOR 2027 THESE DETAILS ARE FOR 2026 EVENT
@@ -458,7 +459,7 @@ BEGIN:VEVENT
 SUMMARY:HARDford 50 and HARDERford 75
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270801
-DTSTAMP:20260929T155447Z
+DTSTAMP:20260930T155749Z
 UID:fbb7b952544d9b16@altar.bike
 CATEGORIES:race
 DESCRIPTION:Riders have two course options: The HARDford 50 and the HARDER
@@ -482,7 +483,7 @@ BEGIN:VEVENT
 SUMMARY:2027 Boone Gran Fondo\, a SENA Gran Fondo National Series event
 DTSTART;VALUE=DATE:20270808
 DTEND;VALUE=DATE:20270808
-DTSTAMP:20260929T155447Z
+DTSTAMP:20260930T155749Z
 UID:eaf10f6e0cd70f9a@altar.bike
 CATEGORIES:race
 DESCRIPTION:THIS REGISTRATION IS FOR THE 2027 EVENT DETAILS BELOW SUBJECT 
@@ -506,7 +507,7 @@ BEGIN:VEVENT
 SUMMARY:Old Fort Fifty
 DTSTART;VALUE=DATE:20270814
 DTEND;VALUE=DATE:20270814
-DTSTAMP:20260929T155447Z
+DTSTAMP:20260930T155749Z
 UID:574c90ce85701ccd@altar.bike
 CATEGORIES:race
 DESCRIPTION:The Old Fort Fifty will be held on the rugged\, legendary trai
@@ -530,7 +531,7 @@ BEGIN:VEVENT
 SUMMARY:Pisgah Enduro
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270815
-DTSTAMP:20260929T155447Z
+DTSTAMP:20260930T155749Z
 UID:903f0caa2f7afb82@altar.bike
 CATEGORIES:race
 DESCRIPTION:High-speed East Coast technical rocky rooty singletrack ENDURO

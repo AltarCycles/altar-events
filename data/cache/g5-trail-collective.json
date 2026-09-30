@@ -1,5 +1,5 @@
 {
- "at": "2026-09-29T15:52:59.297338+00:00",
+ "at": "2026-09-30T15:56:03.422662+00:00",
  "events": [
   {
    "title": "Catawba View Volunteer Trail Day",
@@ -22,7 +22,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "fc6597dffab95964",
-   "last_seen": "2026-09-29"
+   "last_seen": "2026-09-30"
   },
   {
    "title": "Bernard Mountain Volunteer Trail Day",
@@ -45,7 +45,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "7281360418a623b8",
-   "last_seen": "2026-09-29"
+   "last_seen": "2026-09-30"
   },
   {
    "title": "Women's + Trail Skills Workshop - Intro Class: Trail Maintenance 101",
@@ -53,7 +53,7 @@
    "end": "2026-10-17T15:00:00",
    "all_day": false,
    "url": "https://www.g5trailcollective.org/volunteer",
-   "description": "REGISTRATION FULL",
+   "description": "Registration full",
    "venue": "Allison Trailhead Parking - Meetup",
    "city": "Old Fort",
    "state": "NC",
@@ -68,10 +68,10 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "2d942221ff77fefb",
-   "last_seen": "2026-09-29"
+   "last_seen": "2026-09-30"
   },
   {
-   "title": "G5 Fall Trail Work Weekend!",
+   "title": "G5 Fall Trail Work Weekend",
    "start": "2026-11-06T15:00:00",
    "end": "2026-11-08T13:00:00",
    "all_day": false,
@@ -91,7 +91,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "135b22c437e79833",
-   "last_seen": "2026-09-29"
+   "last_seen": "2026-09-30"
   },
   {
    "title": "G5 Fall Trail Weekend!",
