@@ -1,5 +1,5 @@
 {
- "at": "2026-09-30T15:55:44.431925+00:00",
+ "at": "2026-10-01T16:27:39.753583+00:00",
  "events": [
   {
    "title": "October Group Ride + Social",
@@ -7,7 +7,7 @@
    "end": "2026-10-10T12:30:00",
    "all_day": false,
    "url": "https://www.dirtskrrts.com/schedule",
-   "description": "Riding in and around Old Fort. Post-ride social at Foothills Watershed. No e-bikes allowed.",
+   "description": "Riding in and around Old Fort. Post-ride social at Foothills Watershed. No e-bikes allowed. All riders must sign up through Eventbrite. For all women 18 and older.",
    "venue": "Gateway Trails",
    "city": "Old Fort",
    "state": "NC",
@@ -22,7 +22,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "b150ddbea280cbb5",
-   "last_seen": "2026-09-30"
+   "last_seen": "2026-10-01"
   },
   {
    "title": "Test + Tune with Cane Creek Components (Again)",
@@ -30,7 +30,7 @@
    "end": "2026-11-07T14:00:00",
    "all_day": false,
    "url": "https://www.dirtskrrts.com/schedule",
-   "description": "Suspension test + tune event for riders with suspension bikes comfortable riding downhill. Meet at Explorer Loop parking lot. No e-bikes allowed. 8 spots available.",
+   "description": "Suspension test and tune event with industry partner Cane Creek Components. For riders with suspension bikes comfortable on downhill trails with rocks and roots. No e-bikes allowed. 8 spots available, waitlist available. For all women 18 or older.",
    "venue": "Bent Creek Experimental Forest",
    "city": "Asheville",
    "state": "NC",
@@ -45,7 +45,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "db8cbeababc1d3b3",
-   "last_seen": "2026-09-30"
+   "last_seen": "2026-10-01"
   },
   {
    "title": "November Group Ride + Social",
@@ -53,7 +53,7 @@
    "end": "2026-11-14T12:30:00",
    "all_day": false,
    "url": "https://www.dirtskrrts.com/schedule",
-   "description": "Riding in Pisgah. Post-ride social at Oskar Blues Brewery. No e-bikes allowed.",
+   "description": "Riding in Pisgah. Post-ride social at Oskar Blues Brewery at 342 Mountain Industrial Dr, Brevard, NC 28712. No e-bikes allowed. All riders must sign up through Eventbrite. For all women 18 and older.",
    "venue": "Pisgah",
    "city": "Brevard",
    "state": "NC",
@@ -68,7 +68,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "e6ecfc09dd6c5bf2",
-   "last_seen": "2026-09-30"
+   "last_seen": "2026-10-01"
   },
   {
    "title": "December Group Ride + Social",
@@ -76,7 +76,7 @@
    "end": "2026-12-12T15:30:00",
    "all_day": false,
    "url": "https://www.dirtskrrts.com/schedule",
-   "description": "Riding in Hot Springs. Post-ride social at Big Pillow Brewing. No e-bikes allowed.",
+   "description": "Riding in Hot Springs. Post-ride social at Big Pillow Brewing at 25-27 N Andrews Avenue, Hot Springs, NC 28743-9231. No e-bikes allowed. All riders must sign up through Eventbrite. For all women 18 and older.",
    "venue": "Hot Springs",
    "city": "Hot Springs",
    "state": "NC",
@@ -91,7 +91,7 @@
    "category_basis": "rule",
    "discipline": "other",
    "uid": "b68ee4e9e36aad4a",
-   "last_seen": "2026-09-30"
+   "last_seen": "2026-10-01"
   }
  ]
 }
