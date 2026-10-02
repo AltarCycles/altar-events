@@ -1,5 +1,5 @@
 {
- "at": "2026-10-01T16:28:08.762055+00:00",
+ "at": "2026-10-02T15:50:36.831061+00:00",
  "events": [
   {
    "title": "Pisgah 111 / 555",
@@ -29,7 +29,7 @@
    "discipline": "mtb",
    "uid": "c6d05d9f51734aa6",
    "distance_mi": 23.7,
-   "last_seen": "2026-10-01"
+   "last_seen": "2026-10-02"
   },
   {
    "title": "Asheville Youth Cycling CX Practice October 4th",
@@ -58,7 +58,7 @@
    "discipline": "cx",
    "uid": "a9dbf4216f10bf1b",
    "distance_mi": 1.3,
-   "last_seen": "2026-10-01"
+   "last_seen": "2026-10-02"
   },
   {
    "title": "2026 Gran Fondo Hincapie-Greenville",
@@ -88,7 +88,7 @@
    "discipline": "road",
    "uid": "f2acb77c16a22d1c",
    "distance_mi": 34.5,
-   "last_seen": "2026-10-01"
+   "last_seen": "2026-10-02"
   },
   {
    "title": "2026 NCCX Race #3 Boone",
@@ -118,7 +118,7 @@
    "discipline": "cx",
    "uid": "0b3f52f489b0c6d2",
    "distance_mi": 68.0,
-   "last_seen": "2026-10-01"
+   "last_seen": "2026-10-02"
   },
   {
    "title": "2026 BRAGco Cycling Event",
@@ -148,7 +148,7 @@
    "discipline": "other",
    "uid": "743ac628878c17c6",
    "distance_mi": 42.2,
-   "last_seen": "2026-10-01"
+   "last_seen": "2026-10-02"
   },
   {
    "title": "The Middle Fork Fondo 2026",
@@ -178,7 +178,7 @@
    "discipline": "road",
    "uid": "0186abed2e6b428b",
    "distance_mi": 14.9,
-   "last_seen": "2026-10-01"
+   "last_seen": "2026-10-02"
   },
   {
    "title": "Couch Potato",
@@ -207,7 +207,7 @@
    "discipline": "mtb",
    "uid": "2e02b8a758b849f1",
    "distance_mi": 23.6,
-   "last_seen": "2026-10-01"
+   "last_seen": "2026-10-02"
   },
   {
    "title": "Swank 65",
@@ -236,7 +236,7 @@
    "discipline": "mtb",
    "uid": "808d5262f339b592",
    "distance_mi": 23.6,
-   "last_seen": "2026-10-01"
+   "last_seen": "2026-10-02"
   },
   {
    "title": "2026 NCCX Race #8 Hickory",
@@ -266,7 +266,7 @@
    "discipline": "cx",
    "uid": "6ce7ed1f4106eec0",
    "distance_mi": 66.7,
-   "last_seen": "2026-10-01"
+   "last_seen": "2026-10-02"
   },
   {
    "title": "We Shred Rock Creek",
@@ -296,7 +296,7 @@
    "discipline": "mtb",
    "uid": "0a67e54dee113b1a",
    "distance_mi": 27.4,
-   "last_seen": "2026-10-01"
+   "last_seen": "2026-10-02"
   },
   {
    "title": "XCC GVL - Greenville, SC., Short Track",
@@ -327,7 +327,7 @@
    "discipline": "mtb",
    "uid": "86cf16c78645fbfd",
    "distance_mi": 44.6,
-   "last_seen": "2026-10-01"
+   "last_seen": "2026-10-02"
   },
   {
    "title": "Pisgah DOUBLE DARE",
@@ -356,7 +356,7 @@
    "discipline": "mtb",
    "uid": "59bf1e39a66ae34b",
    "distance_mi": 26.3,
-   "last_seen": "2026-10-01"
+   "last_seen": "2026-10-02"
   },
   {
    "title": "2026 NORTH CAROLINA GRAND PRIX - R#1 & R#2 - NCCX Race #10 & Race #11 Hendersonville",
@@ -387,7 +387,7 @@
    "discipline": "cx",
    "uid": "1ea4003af619eb35",
    "distance_mi": 20.1,
-   "last_seen": "2026-10-01"
+   "last_seen": "2026-10-02"
   },
   {
    "title": "Go Nuts Biking Nut Gobbler XC",
@@ -417,11 +417,71 @@
    "discipline": "mtb",
    "uid": "5d605450c7d6e77a",
    "distance_mi": 63.3,
-   "last_seen": "2026-10-01"
+   "last_seen": "2026-10-02"
+  },
+  {
+   "title": "CCNS Winter Training Camp Deposit Week 1 (Week 1: February 21\u201327)",
+   "start": "2027-02-21",
+   "end": "2027-02-27",
+   "all_day": true,
+   "url": "http://www.BikeReg.com/ccns-winter-training-camp-1",
+   "description": "Click here for more info",
+   "venue": "",
+   "city": "Greenville",
+   "state": "SC",
+   "lat": 34.8493049708445,
+   "lng": -82.3948976305324,
+   "image": "/BR/VirtualImages/EventLogos/fe40693c-1590-4194-86fc-9b77d7cba26a.png",
+   "discipline_hint": "Cycling Camp",
+   "tags": [
+    "Cycling Camp",
+    "Road Race"
+   ],
+   "source": "bikereg",
+   "source_name": "BikeReg",
+   "source_url": "https://www.bikereg.com/",
+   "trust": 60,
+   "bucket": "local",
+   "category": "clinic",
+   "category_basis": "rule",
+   "discipline": "other",
+   "uid": "94f1fbe486a9f458",
+   "distance_mi": 52.3,
+   "last_seen": "2026-10-02"
+  },
+  {
+   "title": "CCNS Winter Training Camp Deposit Week 2 (Feb 28th - Mar 6th)",
+   "start": "2027-02-28",
+   "end": "2027-03-06",
+   "all_day": true,
+   "url": "http://www.BikeReg.com/ccns-winter-training-camp-2",
+   "description": "Click here for more info",
+   "venue": "213 Greer Dr, Six Mile, SC 29682",
+   "city": "Six Mile",
+   "state": "SC",
+   "lat": 34.8708961,
+   "lng": -82.8851189,
+   "image": "/BR/VirtualImages/EventLogos/741eab9c-ae41-4c93-86a3-00d9e1ae4bc0.png",
+   "discipline_hint": "Cycling Camp",
+   "tags": [
+    "Cycling Camp",
+    "Road Race"
+   ],
+   "source": "bikereg",
+   "source_name": "BikeReg",
+   "source_url": "https://www.bikereg.com/",
+   "trust": 60,
+   "bucket": "local",
+   "category": "clinic",
+   "category_basis": "rule",
+   "discipline": "other",
+   "uid": "7bfe8cfcafdaeab5",
+   "distance_mi": 53.5,
+   "last_seen": "2026-10-02"
   },
   {
    "title": "Pisgah Stage Race",
-   "start": "2027-04-06",
+   "start": "2027-04-08",
    "end": "2027-04-10",
    "all_day": true,
    "url": "http://www.BikeReg.com/psr",
@@ -444,9 +504,9 @@
    "category": "race",
    "category_basis": "rule",
    "discipline": "mtb",
-   "uid": "b96fc2f355480948",
+   "uid": "d3258e3b4cd45a6b",
    "distance_mi": 26.9,
-   "last_seen": "2026-10-01"
+   "last_seen": "2026-10-02"
   },
   {
    "title": "Bootlegger",
@@ -476,7 +536,7 @@
    "discipline": "gravel",
    "uid": "f0fa19e43a2adce0",
    "distance_mi": 60.8,
-   "last_seen": "2026-10-01"
+   "last_seen": "2026-10-02"
   },
   {
    "title": "Pisgah Mountain Bike Adventure Race",
@@ -505,7 +565,7 @@
    "discipline": "mtb",
    "uid": "996261671a499518",
    "distance_mi": 23.6,
-   "last_seen": "2026-10-01"
+   "last_seen": "2026-10-02"
   },
   {
    "title": "Carolina Reaper Road Race",
@@ -534,7 +594,7 @@
    "discipline": "road",
    "uid": "6cb81637a4faee67",
    "distance_mi": 58.6,
-   "last_seen": "2026-10-01"
+   "last_seen": "2026-10-02"
   },
   {
    "title": "2027 Gran Fondo Asheville, p/b Applewood Manor Foundation, a SENA Gran Fondo National Series event",
@@ -564,7 +624,7 @@
    "discipline": "road",
    "uid": "19cc3e2cb7f4ed33",
    "distance_mi": 0.3,
-   "last_seen": "2026-10-01"
+   "last_seen": "2026-10-02"
   },
   {
    "title": "HARDford 50 and HARDERford 75",
@@ -593,7 +653,7 @@
    "discipline": "gravel",
    "uid": "fbb7b952544d9b16",
    "distance_mi": 36.6,
-   "last_seen": "2026-10-01"
+   "last_seen": "2026-10-02"
   },
   {
    "title": "2027 Boone Gran Fondo, a SENA Gran Fondo National Series event",
@@ -624,7 +684,7 @@
    "discipline": "road",
    "uid": "eaf10f6e0cd70f9a",
    "distance_mi": 64.8,
-   "last_seen": "2026-10-01"
+   "last_seen": "2026-10-02"
   },
   {
    "title": "Old Fort Fifty",
@@ -654,7 +714,7 @@
    "discipline": "mtb",
    "uid": "574c90ce85701ccd",
    "distance_mi": 20.5,
-   "last_seen": "2026-10-01"
+   "last_seen": "2026-10-02"
   },
   {
    "title": "Pisgah Enduro",
@@ -684,7 +744,7 @@
    "discipline": "mtb",
    "uid": "903f0caa2f7afb82",
    "distance_mi": 20.5,
-   "last_seen": "2026-10-01"
+   "last_seen": "2026-10-02"
   },
   {
    "title": "Pisgah Monster-Cross Challenge",
@@ -714,7 +774,66 @@
    "discipline": "gravel",
    "uid": "b200a71231055f5c",
    "distance_mi": 23.6,
-   "last_seen": "2026-10-01"
+   "last_seen": "2026-10-02"
+  },
+  {
+   "title": "Downtown Asheville Racing Club (DARC)/Asheville Youth Cycling (AYC) 2027 Membership",
+   "start": "2027-09-30",
+   "end": "2027-09-30",
+   "all_day": true,
+   "url": "http://www.BikeReg.com/downtown-asheville-racing-club-darc-membership",
+   "description": "Membership forms must be filled out and dues must be paid each calendar year. Please fill out this form and submit your annual membership dues of $30. Additional adult members in the same household are $15/person. U23 and junior members are FREE. Fill out a separate membership form for each family member. Your membership supports DARC's mission: Enthusiastic cyclists who are ambassadors supporting the bicycling community. We do this through advocacy, outreach and education with style and grace in an informal atmosphere of inclusivity and openness. Members also receive 25% discount on DARC Team Kit items, discounts at some team sponsors (Gravelo, MedMassager), and a $25 discount on the monthly cost of coaching at Warren Cycling. Your membership dues also support our juniors program which in",
+   "venue": "Asheville, North Carolina",
+   "city": "Asheville",
+   "state": "NC",
+   "lat": 35.5927461,
+   "lng": -82.5564559,
+   "image": "/BR/VirtualImages/EventLogos/6805fa10-c1b8-4db7-91bc-cf49003ff5e9.png",
+   "discipline_hint": "Club Membership",
+   "tags": [
+    "Club Membership"
+   ],
+   "source": "bikereg",
+   "source_name": "BikeReg",
+   "source_url": "https://www.bikereg.com/",
+   "trust": 60,
+   "bucket": "local",
+   "category": "youth",
+   "category_basis": "rule",
+   "discipline": "other",
+   "uid": "ed2195eb310bcece",
+   "distance_mi": 0.3,
+   "last_seen": "2026-10-02"
+  },
+  {
+   "title": "Pisgah Stage Race",
+   "start": "2027-04-06",
+   "end": "2027-04-10",
+   "all_day": true,
+   "url": "http://www.BikeReg.com/psr",
+   "description": "Pisgah Stage Race is now running as a Three-Day Race. It's not goodbye to the Five-Day Version, but hopefully just we'll see you later. RACE FEES CLICK HERE to see the full pay scale on our website. REFUND, DEFERRAL, and TRANSFER POLICY No transfers or deferrals under ANY circumstances. Refunds available until December 31, 2026, at 80% of entry fee. Refunds available until January 31, 2027, at 50% of entry fee. No refunds after January 31, 2027. NO EXCEPTIONS. WE STRONGLY ENCOURAGE YOU TO PURCHASE THE INSURANCE THAT IS OFFERED BY THE REGISTRATION SITE . This should cover about 95% of the emails we get before the race asking for a refund (I.E. injuries, medical issue, etc. Make sure to read through their information on what is covered under this insurance opportunity. PSR has no control ove",
+   "venue": "349 Andante Ln",
+   "city": "Brevard",
+   "state": "NC",
+   "lat": 35.2419601,
+   "lng": -82.7519076,
+   "image": "/BR/VirtualImages/EventLogos/d3711ba4-d78e-4c3c-8fb5-c5fe95fc93c1.png",
+   "discipline_hint": "Mountain Bike",
+   "tags": [
+    "Mountain Bike"
+   ],
+   "source": "bikereg",
+   "source_name": "BikeReg",
+   "source_url": "https://www.bikereg.com/",
+   "trust": 60,
+   "bucket": "local",
+   "category": "race",
+   "category_basis": "rule",
+   "discipline": "mtb",
+   "uid": "b96fc2f355480948",
+   "distance_mi": 26.9,
+   "last_seen": "2026-10-01",
+   "held_since": "2026-10-01"
   }
  ]
 }

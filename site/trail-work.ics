@@ -7,32 +7,10 @@ X-WR-CALNAME:WNC Trail Work Days — Altar Cycles
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Explorer Loop Work Day - Bent Creek
-DTSTART:20261001T083000
-DTEND:20261001T130000
-DTSTAMP:20261001T162955Z
-UID:f40e3641a356bc14@altar.bike
-CATEGORIES:trail-work
-DESCRIPTION:Join Pisgah Area SORBA for a work day on the! No experience is
-  necessary - our Pisgah SORBA Trail Crew Leaders will provide all tools\, 
- guidance\, and instruction. Date: Thursday\, October 1st Time: 8:30 AM –
-  1:00 PM Trail Work Location: Explorer Loop in Bent Creek Meetup Location:
-  Ledford Parking Lot in Bent Creek Work description: Packing\, raking\, ha
- nd finishing\, brushing\, naturalizing\, and more TCL: Craig Ruhland (and 
- his dog Maple) Required items: Long pants\, boots that cover your ankles\,
-  safety glasses (can be provided)\, gloves (can be provided)\, hardhat (bi
- ke helmets DO NOT count\, but climbing helmets do\, also can be provided)
- \, snacks/lunch and water. All tools will be provided. Come out and give b
- ack to the trails!\n\nMore: https://www.pisgahareasorba.org/\n\nSource: Pi
- sgah Area SORBA\n\nListed by Altar Cycles — altar.bike/calendar
-LOCATION:https://share.google/T7tlSL7a8wKAVKQX0
-URL:https://www.pisgahareasorba.org/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Catawba View Volunteer Trail Day
 DTSTART:20261002T120000
 DTEND:20261002T163000
-DTSTAMP:20261001T162955Z
+DTSTAMP:20261002T155212Z
 UID:fc6597dffab95964@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Pruning and drain maintenance on one of the newest trails in t
@@ -46,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Carolina Mountain Club Joint Work Day
 DTSTART:20261009T083000
 DTEND:20261009T140000
-DTSTAMP:20261001T162955Z
+DTSTAMP:20261002T155212Z
 UID:798af262c46ed07e@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Join Carolina Mountain Club and Pisgah Area SORBA for a joint 
@@ -70,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:Bernard Mountain Volunteer Trail Day
 DTSTART:20261010T090000
 DTEND:20261010T140000
-DTSTAMP:20261001T162955Z
+DTSTAMP:20261002T155212Z
 UID:7281360418a623b8@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Pruning and drain maintenance. We're still giving it love and 
@@ -82,40 +60,11 @@ LOCATION:Allison Trailhead Parking - Meetup\, Old Fort\, NC
 URL:https://www.g5trailcollective.org/volunteer
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Women's + Trail Skills Workshop
-DTSTART:20261017T090000
-DTEND:20261017T150000
-DTSTAMP:20261001T162955Z
-UID:58085b166d26dbaf@altar.bike
-CATEGORIES:trail-work
-DESCRIPTION:The First Women's + Workday will take place Sat.\, Nov. 7 @ 9a
- m - 2pm @ Fall Trail Weekend 2026. REGISTRATION FULL - RSVP to Join the Wa
- itlist.\n\nMore: https://www.g5trailcollective.org/volunteer\n\nSource: G5
-  Trail Collective\n\nListed by Altar Cycles — altar.bike/calendar
-LOCATION:Allison Trailhead Parking - Meetup\, Old Fort\, NC
-URL:https://www.g5trailcollective.org/volunteer
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:G5 Fall Trail Work Weekend! Nov 6-8
+SUMMARY:G5 Fall Trail Work Weekend!
 DTSTART:20261106T150000
 DTEND:20261108T130000
-DTSTAMP:20261001T162955Z
-UID:a14e20186580eb43@altar.bike
-CATEGORIES:trail-work
-DESCRIPTION:Pisgah Grandfather Outdoor Community & Stewardship Party! Volu
- nteer Projects. Appreciation. Recreation Activities. Camp Hospitality. All
-  around good times!\n\nMore: https://www.g5trailcollective.org/volunteer\n
- \nSource: G5 Trail Collective\n\nListed by Altar Cycles — altar.bike/cal
- endar
-LOCATION:Camp Grier\, Old Fort\, NC
-URL:https://www.g5trailcollective.org/volunteer
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:G5 Fall Trail Weekend!
-DTSTART:20261106T150000
-DTEND:20261108T130000
-DTSTAMP:20261001T162955Z
-UID:950ebae34683eda4@altar.bike
+DTSTAMP:20261002T155212Z
+UID:135b22c437e79833@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Pisgah Grandfather Outdoor Community & Stewardship Party! Volu
  nteer Projects. Appreciation. Recreation Activities. Camp Hospitality. All
