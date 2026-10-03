@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T15:52:12.372587+00:00",
+ "generated": "2026-10-03T14:22:28.731568+00:00",
  "total": 64,
  "world": 9,
  "needs_attention": [],
@@ -7,10 +7,10 @@
   "asheville-on-bikes": {
    "status": "ok",
    "adapter": "llm",
-   "fetched": 26,
-   "kept": 7,
+   "fetched": 25,
+   "kept": 6,
    "held": 0,
-   "at": "2026-10-02T15:49:39.021246+00:00"
+   "at": "2026-10-03T14:20:02.479037+00:00"
   },
   "asheville-on-bikes-pages": {
    "status": "ok",
@@ -18,7 +18,7 @@
    "fetched": 2,
    "kept": 0,
    "held": 0,
-   "at": "2026-10-02T15:49:45.382538+00:00"
+   "at": "2026-10-03T14:20:08.201548+00:00"
   },
   "asheville-on-bikes-rwgps": {
    "status": "failed",
@@ -36,15 +36,15 @@
    "fetched": 1,
    "kept": 0,
    "held": 0,
-   "at": "2026-10-02T15:49:50.726400+00:00"
+   "at": "2026-10-03T14:20:13.868995+00:00"
   },
   "blue-ridge-dirt-skrrts": {
    "status": "ok",
    "adapter": "llm",
-   "fetched": 4,
-   "kept": 4,
+   "fetched": 5,
+   "kept": 5,
    "held": 0,
-   "at": "2026-10-02T15:49:56.673382+00:00"
+   "at": "2026-10-03T14:20:23.563429+00:00"
   },
   "gravelo-workshop": {
    "status": "ok",
@@ -52,7 +52,7 @@
    "fetched": 182,
    "kept": 12,
    "held": 0,
-   "at": "2026-10-02T15:49:57.380398+00:00"
+   "at": "2026-10-03T14:20:24.126343+00:00"
   },
   "velosports-ring-of-fire": {
    "status": "ok",
@@ -60,7 +60,7 @@
    "fetched": 8,
    "kept": 0,
    "held": 0,
-   "at": "2026-10-02T15:50:12.051973+00:00"
+   "at": "2026-10-03T14:20:36.761666+00:00"
   },
   "blue-ridge-bicycle-club": {
    "status": "failed",
@@ -78,15 +78,15 @@
    "fetched": 1,
    "kept": 1,
    "held": 0,
-   "at": "2026-10-02T15:50:16.640207+00:00"
+   "at": "2026-10-03T14:20:41.030299+00:00"
   },
   "g5-trail-collective": {
    "status": "ok",
    "adapter": "llm",
-   "fetched": 5,
-   "kept": 7,
-   "held": 3,
-   "at": "2026-10-02T15:50:21.592030+00:00"
+   "fetched": 3,
+   "kept": 6,
+   "held": 4,
+   "at": "2026-10-03T14:20:45.252827+00:00"
   },
   "nica-nc": {
    "status": "off-season",
@@ -95,17 +95,19 @@
     "llm: returned 0 events"
    ],
    "cached_events": 0,
-   "cache_age_days": 42,
+   "cache_age_days": 43,
    "optional": false,
    "off_season": true
   },
   "pisgah-rage": {
-   "status": "ok",
-   "adapter": "llm",
-   "fetched": 2,
-   "kept": 2,
-   "held": 0,
-   "at": "2026-10-02T15:50:27.312582+00:00"
+   "status": "off-season",
+   "errors": [
+    "llm: returned 0 events"
+   ],
+   "cached_events": 2,
+   "cache_age_days": 0,
+   "optional": false,
+   "off_season": true
   },
   "ic-imagine-cycling": {
    "status": "failed",
@@ -123,7 +125,7 @@
    "fetched": 41,
    "kept": 28,
    "held": 1,
-   "at": "2026-10-02T15:50:36.832055+00:00"
+   "at": "2026-10-03T14:20:52.777949+00:00"
   },
   "runsignup": {
    "status": "ok",
@@ -131,7 +133,7 @@
    "fetched": 250,
    "kept": 1,
    "held": 0,
-   "at": "2026-10-02T15:50:38.690757+00:00"
+   "at": "2026-10-03T14:20:54.832015+00:00"
   },
   "uci": {
    "status": "cached",
@@ -149,7 +151,7 @@
    "fetched": 500,
    "kept": 1,
    "held": 0,
-   "at": "2026-10-02T15:52:12.021293+00:00"
+   "at": "2026-10-03T14:22:28.435716+00:00"
   }
  }
 }
