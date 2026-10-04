@@ -1,5 +1,5 @@
 {
- "at": "2026-10-03T14:20:23.563094+00:00",
+ "at": "2026-10-04T14:48:15.261272+00:00",
  "events": [
   {
    "title": "October Group Ride + Social",
@@ -7,7 +7,7 @@
    "end": "2026-10-10T12:30:00",
    "all_day": false,
    "url": "https://www.dirtskrrts.com/schedule",
-   "description": "Riding in and around Old Fort. Gateway trails do not allow e-bikes. Foothills Watershed does allow e-bikes. Post-ride social at Foothills Watershed. For all women 18 and older.",
+   "description": "Riding in and around Old Fort. Gateway trails do not allow e-bikes. Foothills Watershed does allow e-bikes. Post-ride social at Foothills Watershed.",
    "venue": "Gateway Trails",
    "city": "Old Fort",
    "state": "NC",
@@ -22,7 +22,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "b150ddbea280cbb5",
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   },
   {
    "title": "Beers + Maintenance | Trailside Tune Up",
@@ -30,7 +30,7 @@
    "end": "2026-10-27T18:30:00",
    "all_day": false,
    "url": "https://www.dirtskrrts.com/schedule",
-   "description": "Hands-on maintenance clinic with Daily Cycle AVL covering shifting issues, chain problems, brake rubbing, and valve core issues. Rain or shine event. Dress in clothes you don't mind getting dirty. Bring your trail tools/kit. Check in 4:30-5pm. Drink token and small snack provided. For all women 18 or older.",
+   "description": "Hands-on clinic covering skipping shifting, chain issues, rubbing brakes, and valve core problems. Check in 4:30-5pm. Drink token and small snack provided.",
    "venue": "New Belgium Brewery Company",
    "city": "Asheville",
    "state": "NC",
@@ -43,9 +43,9 @@
    "bucket": "local",
    "category": "clinic",
    "category_basis": "rule",
-   "discipline": "mtb",
+   "discipline": "other",
    "uid": "1a9e76ab0ac7d5b7",
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   },
   {
    "title": "Test + Tune with Cane Creek Components (Again)",
@@ -53,7 +53,7 @@
    "end": "2026-11-07T14:00:00",
    "all_day": false,
    "url": "https://www.dirtskrrts.com/schedule",
-   "description": "Suspension test + tune with Cane Creek Components. For people with suspension bikes comfortable riding downhill on trails with rocks and roots. Ride the same loop and dial in suspension with experts. Meet at Explorer Loop parking lot. Bring snacks and water. Does not allow e-bikes. For all women 18 or older.",
+   "description": "Suspension test + tune with Cane Creek Components experts. Meet at Explorer Loop parking lot. Location does not allow e-bikes. 8 spots available.",
    "venue": "Bent Creek Experimental Forest",
    "city": "Asheville",
    "state": "NC",
@@ -64,11 +64,11 @@
    "source_url": "https://www.dirtskrrts.com/",
    "trust": 80,
    "bucket": "local",
-   "category": "race",
-   "category_basis": "rule",
-   "discipline": "mtb",
+   "category": "group-ride",
+   "category_basis": "default",
+   "discipline": "other",
    "uid": "db8cbeababc1d3b3",
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   },
   {
    "title": "November Group Ride + Social",
@@ -76,7 +76,7 @@
    "end": "2026-11-14T12:30:00",
    "all_day": false,
    "url": "https://www.dirtskrrts.com/schedule",
-   "description": "Riding in Pisgah and DuPont. Neither location allows e-bikes. Post-ride social at Oskar Blues Brewery, 342 Mountain Industrial Dr, Brevard, NC 28712. For all women 18 and older.",
+   "description": "Riding in Pisgah and DuPont. Neither location allows e-bikes. Post-ride social at Oskar Blues Brewery.",
    "venue": "Pisgah",
    "city": "Brevard",
    "state": "NC",
@@ -91,7 +91,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "e6ecfc09dd6c5bf2",
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   },
   {
    "title": "December Group Ride + Social",
@@ -99,7 +99,7 @@
    "end": "2026-12-12T15:30:00",
    "all_day": false,
    "url": "https://www.dirtskrrts.com/schedule",
-   "description": "Riding in Hot Springs. This location does not allow e-bikes. Post-ride social at Big Pillow Brewing, 25-27 N Andrews Avenue, Hot Springs, NC 28743-9231. For all women 18 and older.",
+   "description": "Riding in Hot Springs. Location does not allow e-bikes. Post-ride social at Big Pillow Brewing.",
    "venue": "Hot Springs",
    "city": "Hot Springs",
    "state": "NC",
@@ -114,7 +114,7 @@
    "category_basis": "rule",
    "discipline": "other",
    "uid": "b68ee4e9e36aad4a",
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   }
  ]
 }

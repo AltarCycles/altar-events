@@ -7,34 +7,10 @@ X-WR-CALNAME:WNC Bike Racing — Altar Cycles
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Pisgah 111 / 555
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261003
-DTSTAMP:20261003T142228Z
-UID:c6d05d9f51734aa6@altar.bike
-CATEGORIES:race
-DESCRIPTION:The Pisgah 111 is the quintessential crusher of a cross-countr
- y endurance MTB race. Racers follow a 65.1 mile course with 10\,200' feet 
- of climbing along the most iconic trails and gravel roads known in Pisgah 
- National Forest. Just peek at the course map and list of trails and you’
- ll immediately get chills just thinking about the epic scenery and terrain
-  you’ll encounter. There will be FOUR rest areas (at three locations) fo
- r the Pisgah 111 that will be stocked with water\, food (PB&J\, fruit\, sa
- lty snacks\, sweet snacks\, bars)\, first aid\, and neutral mechanical sup
- port. Riders may send drop bags to each rest area. Be sure to read the inf
- ormation below\, too. The Pisgah 555 will test the strength and endurance 
- of racers by challenging them to complete a 39.7 mile course with 7325' of
-  climbing a\n\nMore: http://www.BikeReg.com/2026-pisgah-111-555\n\nSource:
-  BikeReg\n\nListed by Altar Cycles — altar.bike/calendar
-GEO:35.2811489;-82.7229988
-LOCATION:1 Davidson River Cir\, Pisgah Forest\, NC
-URL:http://www.BikeReg.com/2026-pisgah-111-555
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2026 Gran Fondo Hincapie-Greenville
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261017
-DTSTAMP:20261003T142228Z
+DTSTAMP:20261004T145019Z
 UID:f2acb77c16a22d1c@altar.bike
 CATEGORIES:race
 DESCRIPTION:Not sure which distance is right for you? Visit our website to
@@ -50,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:2026 NCCX Race #3 Boone
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20261003T142228Z
+DTSTAMP:20261004T145019Z
 UID:0b3f52f489b0c6d2@altar.bike
 CATEGORIES:race
 DESCRIPTION:Welcome to the 30th season of the NCCX series. We are excited 
@@ -74,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:2026 BRAGco Cycling Event
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261003T142228Z
+DTSTAMP:20261004T145019Z
 UID:743ac628878c17c6@altar.bike
 CATEGORIES:race
 DESCRIPTION:Bike Ride Across Greene County Sunday\, October 25\, 2026 Star
@@ -98,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:The Middle Fork Fondo 2026
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20261003T142228Z
+DTSTAMP:20261004T145019Z
 UID:0186abed2e6b428b@altar.bike
 CATEGORIES:race
 DESCRIPTION:The Middle Fork Fondo 2026 benefits Bikes 4 Kids NC\, supporti
@@ -122,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:1000 Mile BikeWalk for Prevention
 DTSTART:20261031T000000
 DTEND:20261031T000000
-DTSTAMP:20261003T142228Z
+DTSTAMP:20261004T145019Z
 UID:ca69c113117cd0e8@altar.bike
 CATEGORIES:race
 DESCRIPTION:The 1000 Mile BikeWalk for Prevention to be held October 31\, 
@@ -146,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:Couch Potato
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20261003T142228Z
+DTSTAMP:20261004T145019Z
 UID:2e02b8a758b849f1@altar.bike
 CATEGORIES:race
 DESCRIPTION:Welcome to the 14th Annual Couch Potato race! We're very excit
@@ -167,27 +143,10 @@ LOCATION:1600 Pisgah Hwy\, Pisgah Forest\, NC
 URL:http://www.BikeReg.com/couchpotato
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Test + Tune with Cane Creek Components (Again)
-DTSTART:20261107T110000
-DTEND:20261107T140000
-DTSTAMP:20261003T142228Z
-UID:db8cbeababc1d3b3@altar.bike
-CATEGORIES:race
-DESCRIPTION:Suspension test + tune with Cane Creek Components. For people 
- with suspension bikes comfortable riding downhill on trails with rocks and
-  roots. Ride the same loop and dial in suspension with experts. Meet at Ex
- plorer Loop parking lot. Bring snacks and water. Does not allow e-bikes. F
- or all women 18 or older.\n\nMore: https://www.dirtskrrts.com/schedule\n\n
- Source: Blue Ridge Dirt Skrrts\n\nListed by Altar Cycles — altar.bike/ca
- lendar
-LOCATION:Bent Creek Experimental Forest\, Asheville\, NC
-URL:https://www.dirtskrrts.com/schedule
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Swank 65
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261003T142228Z
+DTSTAMP:20261004T145019Z
 UID:808d5262f339b592@altar.bike
 CATEGORIES:race
 DESCRIPTION:Welcome to the 28th Annual Swank 65! We're very excited for an
@@ -211,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:2026 NCCX Race #8 Hickory
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261003T142228Z
+DTSTAMP:20261004T145019Z
 UID:6ce7ed1f4106eec0@altar.bike
 CATEGORIES:race
 DESCRIPTION:Welcome to the 30th season of the NCCX series. We are excited 
@@ -235,7 +194,7 @@ BEGIN:VEVENT
 SUMMARY:We Shred Rock Creek
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261003T142228Z
+DTSTAMP:20261004T145019Z
 UID:0a67e54dee113b1a@altar.bike
 CATEGORIES:race
 DESCRIPTION:We Shred Rock Creek is back for 2026 – and it is shaping up 
@@ -259,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:XCC GVL - Greenville\, SC.\, Short Track
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261003T142228Z
+DTSTAMP:20261004T145019Z
 UID:86cf16c78645fbfd@altar.bike
 CATEGORIES:race
 DESCRIPTION:XCC/GVL — Race Day Information Saturday\, November 14\, 2026
@@ -281,10 +240,34 @@ LOCATION:235 Trailblazer Dr\, Travelers Rest\, SC
 URL:http://www.BikeReg.com/xcc-gvl--short-track-mountain-bike-race
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cranksgiving Weekend 2026
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261122
+DTSTAMP:20261004T145019Z
+UID:f6e27f0091d07db2@altar.bike
+CATEGORIES:race
+DESCRIPTION:Number Plate and Timing Chip Pickup Thursday 4pm- 9pm at Piney
+  Mtn Bike Lounge - 20 Piney Mtn Rd. Greenville SC 29609 Friday 3pm - 9pm a
+ t Piney Mtn Bike Lounge - 20 Piney Mtn Rd. Greenville SC 29609 Saturday 9a
+ m - 2pm at Pleasant Ridge County Park Saturday Evening 5:30pm - 7:30pm at 
+ Sunrift Adventures NO ONSITE PICK UP FOR SUNDAY. Friday November 20th Even
+ t: Carolina Nighttime SuperD Championships (600 lumen or better lights req
+ uired). Events Starts Promptly at 5:30pm. ***All riders must be inside the
+  State Park no later than 6:00pm. If you are not in by 6pm you will not be
+  able to race. No excuses. Plan accordingly. Location: Paris Mtn State Par
+ k 2401 State Park Road\, Greenville \,SC 29609 Reg Categories & Fees Open 
+ Men $75 Open Women $75 E-MTB Open Coed $75 Masters 40+ Men $75 Master 40+ 
+ \n\nMore: http://www.BikeReg.com/cranksgivingsenduro\n\nSource: BikeReg\n
+ \nListed by Altar Cycles — altar.bike/calendar
+GEO:34.9435202;-82.3936524
+LOCATION:2401 State Park Rd\, Greenville\, SC
+URL:http://www.BikeReg.com/cranksgivingsenduro
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pisgah DOUBLE DARE
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261003T142228Z
+DTSTAMP:20261004T145019Z
 UID:59bf1e39a66ae34b@altar.bike
 CATEGORIES:race
 DESCRIPTION:Every year an event comes along that tests mental and physical
@@ -309,7 +292,7 @@ SUMMARY:2026 NORTH CAROLINA GRAND PRIX - R#1 & R#2 - NCCX Race #10 & Race
  #11 Hendersonville
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261003T142228Z
+DTSTAMP:20261004T145019Z
 UID:1ea4003af619eb35@altar.bike
 CATEGORIES:race
 DESCRIPTION:Review the event website here. The 2026 guide will be posted c
@@ -332,23 +315,22 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pisgah Rage Regular Season
 DTSTART;VALUE=DATE:20261201
-DTSTAMP:20261003T142228Z
+DTSTAMP:20261004T145019Z
 UID:670937aa0418b08a@altar.bike
 CATEGORIES:race
-DESCRIPTION:Runs 1 Dec 2026 to 30 May 2027. Regular season from December 1
-  through May 30. Includes indoor training in January\, weekend practices i
- n February\, and 2 rides per week March-May. Races start at the beginning 
- of March with typically 5-6 races across North Carolina through the end of
-  May.\n\nMore: https://www.pisgahrage.com/\n\nSource: Pisgah Rage (NICA co
- mposite team)\n\nListed by Altar Cycles — altar.bike/calendar
-LOCATION:Asheville\, Asheville\, NC
+DESCRIPTION:Runs 1 Dec 2026 to 30 May 2027. Regular season includes indoor
+  training in January\, weekly practices in February\, and 2 rides per week
+  March-May with 5-6 races across North Carolina starting in early March\n
+ \nMore: https://www.pisgahrage.com/\n\nSource: Pisgah Rage (NICA composite
+  team)\n\nListed by Altar Cycles — altar.bike/calendar
+LOCATION:Asheville area and North Carolina\, Asheville\, NC
 URL:https://www.pisgahrage.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pisgah Stage Race
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270410
-DTSTAMP:20261003T142228Z
+DTSTAMP:20261004T145019Z
 UID:b96fc2f355480948@altar.bike
 CATEGORIES:race
 DESCRIPTION:Pisgah Stage Race is now running as a Three-Day Race. It's not
@@ -372,7 +354,7 @@ BEGIN:VEVENT
 SUMMARY:Pisgah Stage Race
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270410
-DTSTAMP:20261003T142228Z
+DTSTAMP:20261004T145019Z
 UID:d3258e3b4cd45a6b@altar.bike
 CATEGORIES:race
 DESCRIPTION:Pisgah Stage Race is now running as a Three-Day Race. It's not
@@ -396,7 +378,7 @@ BEGIN:VEVENT
 SUMMARY:Bootlegger
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270417
-DTSTAMP:20261003T142228Z
+DTSTAMP:20261004T145019Z
 UID:f0fa19e43a2adce0@altar.bike
 CATEGORIES:race
 DESCRIPTION:The Bootlegger is one of the most challenging and scenic grave
@@ -420,7 +402,7 @@ BEGIN:VEVENT
 SUMMARY:Pisgah Mountain Bike Adventure Race
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270501
-DTSTAMP:20261003T142228Z
+DTSTAMP:20261004T145019Z
 UID:996261671a499518@altar.bike
 CATEGORIES:race
 DESCRIPTION:The Pisgah Mountain Bike Adventure Race (PMBAR) is the absolut
@@ -445,7 +427,7 @@ BEGIN:VEVENT
 SUMMARY:Carolina Reaper Road Race
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270515
-DTSTAMP:20261003T142228Z
+DTSTAMP:20261004T145019Z
 UID:6cb81637a4faee67@altar.bike
 CATEGORIES:race
 DESCRIPTION:Please visit www.reaperroadrace.com for more information.\n\nM
@@ -460,7 +442,7 @@ SUMMARY:2027 Gran Fondo Asheville\, p/b Applewood Manor Foundation\, a SEN
  A Gran Fondo National Series event
 DTSTART;VALUE=DATE:20270718
 DTEND;VALUE=DATE:20270718
-DTSTAMP:20261003T142228Z
+DTSTAMP:20261004T145019Z
 UID:19cc3e2cb7f4ed33@altar.bike
 CATEGORIES:race
 DESCRIPTION:THIS REGISTRATION IS FOR 2027 THESE DETAILS ARE FOR 2026 EVENT
@@ -484,7 +466,7 @@ BEGIN:VEVENT
 SUMMARY:HARDford 50 and HARDERford 75
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270801
-DTSTAMP:20261003T142228Z
+DTSTAMP:20261004T145019Z
 UID:fbb7b952544d9b16@altar.bike
 CATEGORIES:race
 DESCRIPTION:Riders have two course options: The HARDford 50 and the HARDER
@@ -508,7 +490,7 @@ BEGIN:VEVENT
 SUMMARY:2027 Boone Gran Fondo\, a SENA Gran Fondo National Series event
 DTSTART;VALUE=DATE:20270808
 DTEND;VALUE=DATE:20270808
-DTSTAMP:20261003T142228Z
+DTSTAMP:20261004T145019Z
 UID:eaf10f6e0cd70f9a@altar.bike
 CATEGORIES:race
 DESCRIPTION:THIS REGISTRATION IS FOR THE 2027 EVENT DETAILS BELOW SUBJECT 
@@ -532,7 +514,7 @@ BEGIN:VEVENT
 SUMMARY:Old Fort Fifty
 DTSTART;VALUE=DATE:20270814
 DTEND;VALUE=DATE:20270814
-DTSTAMP:20261003T142228Z
+DTSTAMP:20261004T145019Z
 UID:574c90ce85701ccd@altar.bike
 CATEGORIES:race
 DESCRIPTION:The Old Fort Fifty will be held on the rugged\, legendary trai
@@ -556,7 +538,7 @@ BEGIN:VEVENT
 SUMMARY:Pisgah Enduro
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270815
-DTSTAMP:20261003T142228Z
+DTSTAMP:20261004T145019Z
 UID:903f0caa2f7afb82@altar.bike
 CATEGORIES:race
 DESCRIPTION:High-speed East Coast technical rocky rooty singletrack ENDURO
@@ -575,5 +557,29 @@ DESCRIPTION:High-speed East Coast technical rocky rooty singletrack ENDURO
 GEO:35.646372;-82.192121
 LOCATION:985 Camp Grier Rd\, Old Fort\, NC
 URL:http://www.BikeReg.com/pisgah-enduro-2027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pisgah 111 / 555
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271002
+DTSTAMP:20261004T145019Z
+UID:f6fb2bcb9eae90d0@altar.bike
+CATEGORIES:race
+DESCRIPTION:The Pisgah 111 is the quintessential crusher of a cross-countr
+ y endurance MTB race. Racers follow a 65.1 mile course with 10\,200' feet 
+ of climbing along the most iconic trails and gravel roads known in Pisgah 
+ National Forest. Just peek at the course map and list of trails and you’
+ ll immediately get chills just thinking about the epic scenery and terrain
+  you’ll encounter. There will be FOUR rest areas (at three locations) fo
+ r the Pisgah 111 that will be stocked with water\, food (PB&J\, fruit\, sa
+ lty snacks\, sweet snacks\, bars)\, first aid\, and neutral mechanical sup
+ port. Riders may send drop bags to each rest area. Be sure to read the inf
+ ormation below\, too. The Pisgah 555 will test the strength and endurance 
+ of racers by challenging them to complete a 39.7 mile course with 7325' of
+  climbing a\n\nMore: http://www.BikeReg.com/pisgah-111-555-2027\n\nSource:
+  BikeReg\n\nListed by Altar Cycles — altar.bike/calendar
+GEO:35.2843490812761;-82.7255616999077
+LOCATION:1276 Pisgah Hwy\, Pisgah Forest\, NC
+URL:http://www.BikeReg.com/pisgah-111-555-2027
 END:VEVENT
 END:VCALENDAR

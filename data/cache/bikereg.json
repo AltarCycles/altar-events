@@ -1,36 +1,6 @@
 {
- "at": "2026-10-03T14:20:52.777132+00:00",
+ "at": "2026-10-04T14:48:41.321120+00:00",
  "events": [
-  {
-   "title": "Pisgah 111 / 555",
-   "start": "2026-10-03",
-   "end": "2026-10-03",
-   "all_day": true,
-   "url": "http://www.BikeReg.com/2026-pisgah-111-555",
-   "description": "The Pisgah 111 is the quintessential crusher of a cross-country endurance MTB race. Racers follow a 65.1 mile course with 10,200' feet of climbing along the most iconic trails and gravel roads known in Pisgah National Forest. Just peek at the course map and list of trails and you\u2019ll immediately get chills just thinking about the epic scenery and terrain you\u2019ll encounter. There will be FOUR rest areas (at three locations) for the Pisgah 111 that will be stocked with water, food (PB&J, fruit, salty snacks, sweet snacks, bars), first aid, and neutral mechanical support. Riders may send drop bags to each rest area. Be sure to read the information below, too. The Pisgah 555 will test the strength and endurance of racers by challenging them to complete a 39.7 mile course with 7325' of climbing a",
-   "venue": "1 Davidson River Cir",
-   "city": "Pisgah Forest",
-   "state": "NC",
-   "lat": 35.2811489,
-   "lng": -82.7229988,
-   "image": "/BR/VirtualImages/EventLogos/998e64ef-cf40-43aa-997b-7bc8ac92e63e.png",
-   "discipline_hint": "Mountain Bike",
-   "tags": [
-    "Mountain Bike",
-    "Mountain Bike"
-   ],
-   "source": "bikereg",
-   "source_name": "BikeReg",
-   "source_url": "https://www.bikereg.com/",
-   "trust": 60,
-   "bucket": "local",
-   "category": "race",
-   "category_basis": "rule",
-   "discipline": "mtb",
-   "uid": "c6d05d9f51734aa6",
-   "distance_mi": 23.7,
-   "last_seen": "2026-10-03"
-  },
   {
    "title": "Asheville Youth Cycling CX Practice October 4th",
    "start": "2026-10-04",
@@ -58,7 +28,7 @@
    "discipline": "cx",
    "uid": "a9dbf4216f10bf1b",
    "distance_mi": 1.3,
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   },
   {
    "title": "2026 Gran Fondo Hincapie-Greenville",
@@ -88,7 +58,7 @@
    "discipline": "road",
    "uid": "f2acb77c16a22d1c",
    "distance_mi": 34.5,
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   },
   {
    "title": "2026 NCCX Race #3 Boone",
@@ -118,7 +88,7 @@
    "discipline": "cx",
    "uid": "0b3f52f489b0c6d2",
    "distance_mi": 68.0,
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   },
   {
    "title": "2026 BRAGco Cycling Event",
@@ -148,7 +118,7 @@
    "discipline": "other",
    "uid": "743ac628878c17c6",
    "distance_mi": 42.2,
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   },
   {
    "title": "The Middle Fork Fondo 2026",
@@ -178,7 +148,7 @@
    "discipline": "road",
    "uid": "0186abed2e6b428b",
    "distance_mi": 14.9,
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   },
   {
    "title": "Couch Potato",
@@ -207,7 +177,7 @@
    "discipline": "mtb",
    "uid": "2e02b8a758b849f1",
    "distance_mi": 23.6,
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   },
   {
    "title": "Swank 65",
@@ -236,7 +206,7 @@
    "discipline": "mtb",
    "uid": "808d5262f339b592",
    "distance_mi": 23.6,
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   },
   {
    "title": "2026 NCCX Race #8 Hickory",
@@ -266,7 +236,7 @@
    "discipline": "cx",
    "uid": "6ce7ed1f4106eec0",
    "distance_mi": 66.7,
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   },
   {
    "title": "We Shred Rock Creek",
@@ -296,7 +266,7 @@
    "discipline": "mtb",
    "uid": "0a67e54dee113b1a",
    "distance_mi": 27.4,
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   },
   {
    "title": "XCC GVL - Greenville, SC., Short Track",
@@ -327,7 +297,37 @@
    "discipline": "mtb",
    "uid": "86cf16c78645fbfd",
    "distance_mi": 44.6,
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
+  },
+  {
+   "title": "Cranksgiving Weekend 2026",
+   "start": "2026-11-20",
+   "end": "2026-11-22",
+   "all_day": true,
+   "url": "http://www.BikeReg.com/cranksgivingsenduro",
+   "description": "Number Plate and Timing Chip Pickup Thursday 4pm- 9pm at Piney Mtn Bike Lounge - 20 Piney Mtn Rd. Greenville SC 29609 Friday 3pm - 9pm at Piney Mtn Bike Lounge - 20 Piney Mtn Rd. Greenville SC 29609 Saturday 9am - 2pm at Pleasant Ridge County Park Saturday Evening 5:30pm - 7:30pm at Sunrift Adventures NO ONSITE PICK UP FOR SUNDAY. Friday November 20th Event: Carolina Nighttime SuperD Championships (600 lumen or better lights required). Events Starts Promptly at 5:30pm. ***All riders must be inside the State Park no later than 6:00pm. If you are not in by 6pm you will not be able to race. No excuses. Plan accordingly. Location: Paris Mtn State Park 2401 State Park Road, Greenville ,SC 29609 Reg Categories & Fees Open Men $75 Open Women $75 E-MTB Open Coed $75 Masters 40+ Men $75 Master 40+ ",
+   "venue": "2401 State Park Rd",
+   "city": "Greenville",
+   "state": "SC",
+   "lat": 34.9435202,
+   "lng": -82.3936524,
+   "image": "/BR/VirtualImages/EventLogos/cr-952da948-437b-4d1c-a8fa-aa71954992e7.jpg",
+   "discipline_hint": "Mountain Bike",
+   "tags": [
+    "Mountain Bike",
+    "Recreational"
+   ],
+   "source": "bikereg",
+   "source_name": "BikeReg",
+   "source_url": "https://www.bikereg.com/",
+   "trust": 60,
+   "bucket": "local",
+   "category": "race",
+   "category_basis": "rule",
+   "discipline": "mtb",
+   "uid": "f6e27f0091d07db2",
+   "distance_mi": 45.9,
+   "last_seen": "2026-10-04"
   },
   {
    "title": "Pisgah DOUBLE DARE",
@@ -356,7 +356,7 @@
    "discipline": "mtb",
    "uid": "59bf1e39a66ae34b",
    "distance_mi": 26.3,
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   },
   {
    "title": "2026 NORTH CAROLINA GRAND PRIX - R#1 & R#2 - NCCX Race #10 & Race #11 Hendersonville",
@@ -387,7 +387,7 @@
    "discipline": "cx",
    "uid": "1ea4003af619eb35",
    "distance_mi": 20.1,
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   },
   {
    "title": "Go Nuts Biking Nut Gobbler XC",
@@ -417,7 +417,7 @@
    "discipline": "mtb",
    "uid": "5d605450c7d6e77a",
    "distance_mi": 63.3,
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   },
   {
    "title": "CCNS Winter Training Camp Deposit Week 1 (Week 1: February 21\u201327)",
@@ -447,7 +447,7 @@
    "discipline": "other",
    "uid": "94f1fbe486a9f458",
    "distance_mi": 52.3,
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   },
   {
    "title": "CCNS Winter Training Camp Deposit Week 2 (Feb 28th - Mar 6th)",
@@ -477,7 +477,7 @@
    "discipline": "other",
    "uid": "7bfe8cfcafdaeab5",
    "distance_mi": 53.5,
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   },
   {
    "title": "Pisgah Stage Race",
@@ -506,7 +506,7 @@
    "discipline": "mtb",
    "uid": "d3258e3b4cd45a6b",
    "distance_mi": 26.9,
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   },
   {
    "title": "Bootlegger",
@@ -536,7 +536,7 @@
    "discipline": "gravel",
    "uid": "f0fa19e43a2adce0",
    "distance_mi": 60.8,
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   },
   {
    "title": "Pisgah Mountain Bike Adventure Race",
@@ -565,7 +565,7 @@
    "discipline": "mtb",
    "uid": "996261671a499518",
    "distance_mi": 23.6,
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   },
   {
    "title": "Carolina Reaper Road Race",
@@ -594,7 +594,7 @@
    "discipline": "road",
    "uid": "6cb81637a4faee67",
    "distance_mi": 58.6,
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   },
   {
    "title": "2027 Gran Fondo Asheville, p/b Applewood Manor Foundation, a SENA Gran Fondo National Series event",
@@ -624,7 +624,7 @@
    "discipline": "road",
    "uid": "19cc3e2cb7f4ed33",
    "distance_mi": 0.3,
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   },
   {
    "title": "HARDford 50 and HARDERford 75",
@@ -653,7 +653,7 @@
    "discipline": "gravel",
    "uid": "fbb7b952544d9b16",
    "distance_mi": 36.6,
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   },
   {
    "title": "2027 Boone Gran Fondo, a SENA Gran Fondo National Series event",
@@ -684,7 +684,7 @@
    "discipline": "road",
    "uid": "eaf10f6e0cd70f9a",
    "distance_mi": 64.8,
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   },
   {
    "title": "Old Fort Fifty",
@@ -714,7 +714,7 @@
    "discipline": "mtb",
    "uid": "574c90ce85701ccd",
    "distance_mi": 20.5,
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   },
   {
    "title": "Pisgah Enduro",
@@ -744,7 +744,7 @@
    "discipline": "mtb",
    "uid": "903f0caa2f7afb82",
    "distance_mi": 20.5,
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   },
   {
    "title": "Pisgah Monster-Cross Challenge",
@@ -774,7 +774,7 @@
    "discipline": "gravel",
    "uid": "b200a71231055f5c",
    "distance_mi": 23.6,
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
   },
   {
    "title": "Downtown Asheville Racing Club (DARC)/Asheville Youth Cycling (AYC) 2027 Membership",
@@ -803,7 +803,37 @@
    "discipline": "other",
    "uid": "ed2195eb310bcece",
    "distance_mi": 0.3,
-   "last_seen": "2026-10-03"
+   "last_seen": "2026-10-04"
+  },
+  {
+   "title": "Pisgah 111 / 555",
+   "start": "2027-10-02",
+   "end": "2027-10-02",
+   "all_day": true,
+   "url": "http://www.BikeReg.com/pisgah-111-555-2027",
+   "description": "The Pisgah 111 is the quintessential crusher of a cross-country endurance MTB race. Racers follow a 65.1 mile course with 10,200' feet of climbing along the most iconic trails and gravel roads known in Pisgah National Forest. Just peek at the course map and list of trails and you\u2019ll immediately get chills just thinking about the epic scenery and terrain you\u2019ll encounter. There will be FOUR rest areas (at three locations) for the Pisgah 111 that will be stocked with water, food (PB&J, fruit, salty snacks, sweet snacks, bars), first aid, and neutral mechanical support. Riders may send drop bags to each rest area. Be sure to read the information below, too. The Pisgah 555 will test the strength and endurance of racers by challenging them to complete a 39.7 mile course with 7325' of climbing a",
+   "venue": "1276 Pisgah Hwy",
+   "city": "Pisgah Forest",
+   "state": "NC",
+   "lat": 35.2843490812761,
+   "lng": -82.7255616999077,
+   "image": "/BR/VirtualImages/EventLogos/998e64ef-cf40-43aa-997b-7bc8ac92e63e.png",
+   "discipline_hint": "Mountain Bike",
+   "tags": [
+    "Mountain Bike",
+    "Mountain Bike"
+   ],
+   "source": "bikereg",
+   "source_name": "BikeReg",
+   "source_url": "https://www.bikereg.com/",
+   "trust": 60,
+   "bucket": "local",
+   "category": "race",
+   "category_basis": "rule",
+   "discipline": "mtb",
+   "uid": "f6fb2bcb9eae90d0",
+   "distance_mi": 23.6,
+   "last_seen": "2026-10-04"
   },
   {
    "title": "Pisgah Stage Race",
