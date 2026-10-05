@@ -1,5 +1,5 @@
 {
- "at": "2026-10-04T14:48:31.957457+00:00",
+ "at": "2026-10-05T18:29:14.476554+00:00",
  "events": [
   {
    "title": "Bernard Mountain Volunteer Trail Day",
@@ -7,7 +7,7 @@
    "end": "2026-10-10T14:00:00",
    "all_day": false,
    "url": "https://www.g5trailcollective.org/volunteer",
-   "description": "Pruning and drain maintenance. We're still giving it love and rehab from Hurricane Helene damage. Join in and help get one of everyone's favorite trails closer to restored!",
+   "description": "Pruning and drain maintenance. Rehab from Hurricane Helene damage.",
    "venue": "Allison Trailhead Parking - Meetup",
    "city": "Old Fort",
    "state": "NC",
@@ -22,7 +22,30 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "7281360418a623b8",
-   "last_seen": "2026-10-04"
+   "last_seen": "2026-10-05"
+  },
+  {
+   "title": "G5 Fall Trail Work Weekend!",
+   "start": "2026-11-06T15:00:00",
+   "end": "2026-11-08T13:00:00",
+   "all_day": false,
+   "url": "https://www.g5trailcollective.org/volunteer",
+   "description": "Pisgah Grandfather Outdoor Community & Stewardship Party. Volunteer Projects. Appreciation. Recreation Activities. Camp Hospitality.",
+   "venue": "Camp Grier",
+   "city": "Old Fort",
+   "state": "NC",
+   "cost": null,
+   "extracted_by": "llm",
+   "source": "g5-trail-collective",
+   "source_name": "G5 Trail Collective",
+   "source_url": "https://www.g5trailcollective.org/",
+   "trust": 80,
+   "bucket": "local",
+   "category": "trail-work",
+   "category_basis": "rule",
+   "discipline": "mtb",
+   "uid": "135b22c437e79833",
+   "last_seen": "2026-10-05"
   },
   {
    "title": "G5 Fall Trail Work Weekend! Nov 6-8",
@@ -45,7 +68,8 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "a14e20186580eb43",
-   "last_seen": "2026-10-04"
+   "last_seen": "2026-10-04",
+   "held_since": "2026-10-04"
   },
   {
    "title": "Women's + Trail Skills Workshop",
@@ -68,30 +92,6 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "58085b166d26dbaf",
-   "last_seen": "2026-10-02",
-   "held_since": "2026-10-02"
-  },
-  {
-   "title": "G5 Fall Trail Work Weekend!",
-   "start": "2026-11-06T15:00:00",
-   "end": "2026-11-08T13:00:00",
-   "all_day": false,
-   "url": "https://www.g5trailcollective.org/volunteer",
-   "description": "Pisgah Grandfather Outdoor Community & Stewardship Party! Volunteer Projects. Appreciation. Recreation Activities. Camp Hospitality. All around good times!",
-   "venue": "Camp Grier",
-   "city": "Old Fort",
-   "state": "NC",
-   "cost": null,
-   "extracted_by": "llm",
-   "source": "g5-trail-collective",
-   "source_name": "G5 Trail Collective",
-   "source_url": "https://www.g5trailcollective.org/",
-   "trust": 80,
-   "bucket": "local",
-   "category": "trail-work",
-   "category_basis": "rule",
-   "discipline": "mtb",
-   "uid": "135b22c437e79833",
    "last_seen": "2026-10-02",
    "held_since": "2026-10-02"
   },
