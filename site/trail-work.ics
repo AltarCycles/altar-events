@@ -7,34 +7,10 @@ X-WR-CALNAME:WNC Trail Work Days — Altar Cycles
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Carolina Mountain Club Joint Work Day
-DTSTART:20261009T083000
-DTEND:20261009T140000
-DTSTAMP:20261009T161539Z
-UID:798af262c46ed07e@altar.bike
-CATEGORIES:trail-work
-DESCRIPTION:Join Carolina Mountain Club and Pisgah Area SORBA for a joint 
- work day on the north side of Pink Beds! No experience is necessary - the 
- Carolina Mountain Club and Pisgah SORBA Trail Crew Leaders will provide al
- l tools\, guidance\, and instruction. We’ll meet at the new paved parkin
- g lot next to the Ranger Station and carpool up to Pink Beds. Date: Friday
- \, October 9th Time: 8:30 AM – 2:00 PM Trail Work Location: North side o
- f Pink Beds Loop Meetup Location: Pisgah Ranger Station/Visitor Center Req
- uired items: Long pants\, boots that cover your ankles\, safety glasses\, 
- gloves\, hardhat (bike helmets DO NOT count\, but climbing helmets do)\, s
- nacks/lunch and water. Note: Hardhats\, gloves and safety glasses can be p
- rovided if needed. All tools will be provided. Come help our two trail org
- anizations g\n\nMore: https://www.pisgahareasorba.org/\n\nSource: Pisgah A
- rea SORBA\n\nListed by Altar Cycles — altar.bike/calendar
-LOCATION:Pisgah Ranger Station/Visitor Center\, Pisgah Highway\, Pisgah Fo
- rest\, NC\, USA\, Pisgah Forest\, NC
-URL:https://www.pisgahareasorba.org/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bernard Mountain Volunteer Trail Day
 DTSTART:20261010T090000
 DTEND:20261010T140000
-DTSTAMP:20261009T161539Z
+DTSTAMP:20261010T152552Z
 UID:7281360418a623b8@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Pruning and drain maintenance. We're still giving it love and 
@@ -46,11 +22,26 @@ LOCATION:Allison Trailhead Parking - Meetup\, Old Fort\, NC
 URL:https://www.g5trailcollective.org/volunteer
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:G5 Fall Trail Work Weekend! Nov 6-8
+SUMMARY:Women's + Trail Skills Workshop
+DTSTART:20261017T090000
+DTEND:20261017T150000
+DTSTAMP:20261010T152552Z
+UID:58085b166d26dbaf@altar.bike
+CATEGORIES:trail-work
+DESCRIPTION:Registration full. RSVP to join waitlist. First Women's + Work
+ day will take place Sat.\, Nov. 7 @ 9am - 2pm @ Fall Trail Weekend 2026. I
+ ntro Class: Trail Maintenance 101\n\nMore: https://www.g5trailcollective.o
+ rg/volunteer\n\nSource: G5 Trail Collective\n\nListed by Altar Cycles — 
+ altar.bike/calendar
+LOCATION:Allison Trailhead Parking - Meetup\, Old Fort\, NC
+URL:https://www.g5trailcollective.org/volunteer
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:G5 Fall Trail Work Weekend!
 DTSTART:20261106T150000
 DTEND:20261108T130000
-DTSTAMP:20261009T161539Z
-UID:a14e20186580eb43@altar.bike
+DTSTAMP:20261010T152552Z
+UID:135b22c437e79833@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Pisgah Grandfather Outdoor Community & Stewardship Party! Volu
  nteer Projects. Appreciation. Recreation Activities. Camp Hospitality. All

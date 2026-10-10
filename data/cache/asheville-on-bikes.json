@@ -1,5 +1,5 @@
 {
- "at": "2026-10-09T16:13:08.995238+00:00",
+ "at": "2026-10-10T15:23:13.501207+00:00",
  "events": [
   {
    "title": "Smart Cycling Class",
@@ -23,11 +23,59 @@
    "category_basis": "rule",
    "discipline": "other",
    "uid": "3d04c78472303ea6",
-   "last_seen": "2026-10-09"
+   "last_seen": "2026-10-10"
+  },
+  {
+   "title": "Tour de Fat",
+   "start": "2026-10-10",
+   "end": "",
+   "all_day": true,
+   "url": "https://ashevilleonbikes.com/events",
+   "description": "",
+   "venue": "",
+   "city": "Asheville",
+   "state": "NC",
+   "cost": "Free",
+   "date_precision": "month",
+   "extracted_by": "llm",
+   "source": "asheville-on-bikes",
+   "source_name": "Asheville on Bikes",
+   "source_url": "https://ashevilleonbikes.com/",
+   "trust": 80,
+   "bucket": "local",
+   "category": "group-ride",
+   "category_basis": "default",
+   "discipline": "other",
+   "uid": "548f70215540a5da",
+   "last_seen": "2026-10-10"
+  },
+  {
+   "title": "Bike Valet at Forestry Camp for Burnpile",
+   "start": "2026-10-10",
+   "end": "",
+   "all_day": true,
+   "url": "https://ashevilleonbikes.com/events",
+   "description": "",
+   "venue": "Forestry Camp",
+   "city": "Asheville",
+   "state": "NC",
+   "cost": "Free",
+   "date_precision": "month",
+   "extracted_by": "llm",
+   "source": "asheville-on-bikes",
+   "source_name": "Asheville on Bikes",
+   "source_url": "https://ashevilleonbikes.com/",
+   "trust": 80,
+   "bucket": "local",
+   "category": "group-ride",
+   "category_basis": "default",
+   "discipline": "commuter",
+   "uid": "ee2e3dc469806832",
+   "last_seen": "2026-10-10"
   },
   {
    "title": "World Mental Health Ride at Bear's Smokehouse",
-   "start": "2026-10-09",
+   "start": "2026-10-10",
    "end": "",
    "all_day": true,
    "url": "https://ashevilleonbikes.com/events",
@@ -47,11 +95,11 @@
    "category_basis": "default",
    "discipline": "other",
    "uid": "0a759df2f1b97615",
-   "last_seen": "2026-10-09"
+   "last_seen": "2026-10-10"
   },
   {
    "title": "Get There Asheville",
-   "start": "2026-10-09",
+   "start": "2026-10-10",
    "end": "",
    "all_day": true,
    "url": "https://ashevilleonbikes.com/events",
@@ -71,11 +119,11 @@
    "category_basis": "default",
    "discipline": "other",
    "uid": "1473187f58b65f1a",
-   "last_seen": "2026-10-09"
+   "last_seen": "2026-10-10"
   },
   {
    "title": "Pumpkin Pedaller",
-   "start": "2026-10-09",
+   "start": "2026-10-10",
    "end": "",
    "all_day": true,
    "url": "https://ashevilleonbikes.com/events",
@@ -95,7 +143,7 @@
    "category_basis": "default",
    "discipline": "other",
    "uid": "a4fb8fc562c30f55",
-   "last_seen": "2026-10-09"
+   "last_seen": "2026-10-10"
   },
   {
    "title": "Smart Cycling Class",
@@ -119,7 +167,7 @@
    "category_basis": "rule",
    "discipline": "other",
    "uid": "d59523d7622bcc38",
-   "last_seen": "2026-10-09"
+   "last_seen": "2026-10-10"
   }
  ]
 }
