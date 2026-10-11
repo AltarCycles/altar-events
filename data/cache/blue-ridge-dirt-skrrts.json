@@ -1,36 +1,13 @@
 {
- "at": "2026-10-10T15:23:36.461843+00:00",
+ "at": "2026-10-11T15:41:52.162181+00:00",
  "events": [
-  {
-   "title": "October Group Ride + Social",
-   "start": "2026-10-10T10:00:00",
-   "end": "2026-10-10T12:30:00",
-   "all_day": false,
-   "url": "https://www.dirtskrrts.com/schedule",
-   "description": "Riding in and around Old Fort at Gateway Trails and Foothills Watershed. Gateway trails do not allow e-bikes. Foothills Watershed does allow e-bikes. Post-ride social at Foothills Watershed. Multiple ride levels: Foundation, Chill, Chill Plus, Chill Plus Tech, Modrrt.",
-   "venue": "Gateway Trails",
-   "city": "Old Fort",
-   "state": "NC",
-   "cost": null,
-   "extracted_by": "llm",
-   "source": "blue-ridge-dirt-skrrts",
-   "source_name": "Blue Ridge Dirt Skrrts",
-   "source_url": "https://www.dirtskrrts.com/",
-   "trust": 80,
-   "bucket": "local",
-   "category": "group-ride",
-   "category_basis": "rule",
-   "discipline": "mtb",
-   "uid": "b150ddbea280cbb5",
-   "last_seen": "2026-10-10"
-  },
   {
    "title": "Beers + Maintenance | Trailside Tune Up",
    "start": "2026-10-27T16:30:00",
    "end": "2026-10-27T19:30:00",
    "all_day": false,
    "url": "https://www.dirtskrrts.com/schedule",
-   "description": "Hands-on maintenance clinic with Daily Cycle AVL covering shifting issues, chain problems, brake adjustments, and valve issues. Check-in 4:30-5:00 PM. Drink token and small snack provided. Dress in clothes you don't mind getting dirty. Bring your trail tools/kit.",
+   "description": "Trailside Tune Up with Daily Cycle AVL. Hands-on clinic for all skill levels covering skipping/lagging shifting, chain issues, rubbing brakes, and valve core problems. Rain or shine event. Dress in clothes you don't mind getting dirty. Bring your trail tools/kit. Check-in 4:30-5pm. Drink token and small snack provided. Cost $30, no refunds. For all women 18 or older.",
    "venue": "New Belgium Brewery Company",
    "city": "Asheville",
    "state": "NC",
@@ -45,7 +22,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "1a9e76ab0ac7d5b7",
-   "last_seen": "2026-10-10"
+   "last_seen": "2026-10-11"
   },
   {
    "title": "Test + Tune with Cane Creek Components (Again)",
@@ -53,22 +30,22 @@
    "end": "2026-11-07T14:00:00",
    "all_day": false,
    "url": "https://www.dirtskrrts.com/schedule",
-   "description": "Suspension test + tune with Cane Creek Components experts. Meet at Explorer Loop parking lot. Ride the same loop and dial in your suspension. Bring riding clothes, pack, snacks, and water. Location does not allow e-bikes. First 8 emails to register get a spot. Email Dorene O'Malley to register.",
+   "description": "Suspension test + tune with Cane Creek Components. For all people with bikes with suspension comfortable riding downhill on trails with rocks and roots. Ride the same loop and dial in your suspension with experts. Bring riding clothes, normal pack, snacks and water. Meet at Explorer Loop parking lot. Arrive early for good parking. No e-bikes allowed. First 8 emails to register get a spot. For all women 18 or older.",
    "venue": "Bent Creek Experimental Forest",
    "city": "Asheville",
    "state": "NC",
-   "cost": null,
+   "cost": "free",
    "extracted_by": "llm",
    "source": "blue-ridge-dirt-skrrts",
    "source_name": "Blue Ridge Dirt Skrrts",
    "source_url": "https://www.dirtskrrts.com/",
    "trust": 80,
    "bucket": "local",
-   "category": "group-ride",
-   "category_basis": "default",
-   "discipline": "other",
+   "category": "race",
+   "category_basis": "rule",
+   "discipline": "mtb",
    "uid": "db8cbeababc1d3b3",
-   "last_seen": "2026-10-10"
+   "last_seen": "2026-10-11"
   },
   {
    "title": "November Group Ride + Social",
@@ -76,11 +53,11 @@
    "end": "2026-11-14T12:30:00",
    "all_day": false,
    "url": "https://www.dirtskrrts.com/schedule",
-   "description": "Riding in Pisgah and DuPont. Neither location allows e-bikes. Post-ride social at Oskar Blues Brewery. Multiple ride levels available.",
+   "description": "Riding in Pisgah and DuPont. Post-ride social at Oskar Blues Brewery [342 Mountain Industrial Dr, Brevard, NC 28712]. Neither location allows e-bikes. All riders must sign up through Eventbrite. For all women 18 and older.",
    "venue": "Pisgah",
-   "city": "Brevard",
+   "city": "Pisgah Forest",
    "state": "NC",
-   "cost": null,
+   "cost": "free",
    "extracted_by": "llm",
    "source": "blue-ridge-dirt-skrrts",
    "source_name": "Blue Ridge Dirt Skrrts",
@@ -91,7 +68,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "e6ecfc09dd6c5bf2",
-   "last_seen": "2026-10-10"
+   "last_seen": "2026-10-11"
   },
   {
    "title": "December Group Ride + Social",
@@ -99,11 +76,11 @@
    "end": "2026-12-12T15:30:00",
    "all_day": false,
    "url": "https://www.dirtskrrts.com/schedule",
-   "description": "Riding in Hot Springs. Location does not allow e-bikes. Post-ride social at Big Pillow Brewing. Multiple ride levels available.",
+   "description": "Riding in Hot Springs. Post-ride social at Big Pillow Brewing [25-27 N Andrews Avenue, Hot Springs, NC 28743-9231]. This location does not allow e-bikes. All riders must sign up through Eventbrite. For all women 18 and older.",
    "venue": "Hot Springs",
    "city": "Hot Springs",
    "state": "NC",
-   "cost": null,
+   "cost": "free",
    "extracted_by": "llm",
    "source": "blue-ridge-dirt-skrrts",
    "source_name": "Blue Ridge Dirt Skrrts",
@@ -114,7 +91,7 @@
    "category_basis": "rule",
    "discipline": "other",
    "uid": "b68ee4e9e36aad4a",
-   "last_seen": "2026-10-10"
+   "last_seen": "2026-10-11"
   }
  ]
 }
