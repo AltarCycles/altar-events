@@ -1,5 +1,5 @@
 {
- "at": "2026-10-11T15:42:17.277671+00:00",
+ "at": "2026-10-12T19:04:12.921651+00:00",
  "events": [
   {
    "title": "Dust 'til Dusk Short Track Race Series - Cane Creek Night: Best Decorated Bike",
@@ -7,8 +7,8 @@
    "end": "2026-10-14T19:30:00",
    "all_day": false,
    "url": "https://www.pisgahareasorba.org/events-volunteer",
-   "description": "Streamers, lights, pool noodles, handlebar bouquets: anything goes as long as your bike is still safe to ride. The podium goes to the two best-decorated bikes.",
-   "venue": "",
+   "description": "Best decorated bike competition. Streamers, lights, pool noodles, handlebar bouquets: anything goes as long as your bike is still safe to ride. The podium goes to the two best-decorated bikes.",
+   "venue": "Cane Creek",
    "city": "",
    "state": "",
    "cost": null,
@@ -22,7 +22,7 @@
    "category_basis": "rule",
    "discipline": "other",
    "uid": "bb5c7f229ac22d94",
-   "last_seen": "2026-10-11"
+   "last_seen": "2026-10-12"
   },
   {
    "title": "Dust 'til Dusk Short Track Race Series - Conative MTB Apparel Night: Reverse Handicap",
@@ -30,7 +30,7 @@
    "end": "2026-10-21T19:30:00",
    "all_day": false,
    "url": "https://www.pisgahareasorba.org/events-volunteer",
-   "description": "In a reverse handicap race, everyone chooses a random number at registration. The racers with the lowest number win!",
+   "description": "Reverse handicap race where everyone chooses a random number at registration. Each racer subtracts their random number from their race position at the finish. The racers with the lowest number win!",
    "venue": "",
    "city": "",
    "state": "",
@@ -45,7 +45,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "dd63bfea9284a887",
-   "last_seen": "2026-10-11"
+   "last_seen": "2026-10-12"
   },
   {
    "title": "Dust 'til Dusk Short Track Race Series - Fox Factory Night: Best Costume",
@@ -53,7 +53,7 @@
    "end": "2026-10-28T19:30:00",
    "all_day": false,
    "url": "https://www.pisgahareasorba.org/events-volunteer",
-   "description": "Halloween-week party. Show up in your best costume and race in it safely. The podium goes to the best costumes of the night. Stick around after the race for the raffle.",
+   "description": "Halloween-week party. Show up in your best costume and race in it (safely!). The podium goes to the best costumes of the night. Group costumes, homemade outfits and full commitment are all welcome. Raffle after the race benefits local trails.",
    "venue": "",
    "city": "",
    "state": "",
@@ -66,9 +66,9 @@
    "bucket": "local",
    "category": "festival",
    "category_basis": "rule",
-   "discipline": "other",
+   "discipline": "mtb",
    "uid": "e23cf6dda7770e68",
-   "last_seen": "2026-10-11"
+   "last_seen": "2026-10-12"
   }
  ]
 }
