@@ -1,6 +1,27 @@
 {
- "at": "2026-10-12T19:04:12.921651+00:00",
+ "at": "2026-10-13T16:57:45.202612+00:00",
  "events": [
+  {
+   "title": "NICA Bent Creek Work Day",
+   "start": "2026-10-17T09:00:00",
+   "end": "2026-10-17T12:00:00",
+   "all_day": false,
+   "url": "https://www.pisgahareasorba.org/",
+   "description": "Join Pisgah Area SORBA for a Trail Work Day! We're excited to join forces with our local NICA Team, the Pisgah Rage, as we work together to maintain and improve the trails we all love. No experience is necessary\u2014our crew leaders will provide tools, guidance, and instruction. Meeting Location: Ledford Parking Lot in Bent Creek Meeting Time: 9:00am - noon (please arrive at 8:50am, TCLs will arrive at 8:30) What to Bring: Long pants, boots that cover your ankles, gloves (if you have them), water, snacks, hardhat (if you have it -bike helmets DO NOT count, but climbing helmets do), safety glasses (if you have them). Note: Hardhats, gloves and safety glasses can be provided if needed. All tools will be provided. Please arrive at 8:50am for a timely start to our trail work day!",
+   "venue": "Ledford Parking Lot",
+   "city": "",
+   "state": "",
+   "source": "pisgah-area-sorba",
+   "source_name": "Pisgah Area SORBA",
+   "source_url": "https://www.pisgahareasorba.org/",
+   "trust": 80,
+   "bucket": "local",
+   "category": "trail-work",
+   "category_basis": "rule",
+   "discipline": "mtb",
+   "uid": "1479626ea7254a21",
+   "last_seen": "2026-10-13"
+  },
   {
    "title": "Dust 'til Dusk Short Track Race Series - Cane Creek Night: Best Decorated Bike",
    "start": "2026-10-14T16:30:00",
@@ -22,7 +43,8 @@
    "category_basis": "rule",
    "discipline": "other",
    "uid": "bb5c7f229ac22d94",
-   "last_seen": "2026-10-12"
+   "last_seen": "2026-10-12",
+   "held_since": "2026-10-12"
   },
   {
    "title": "Dust 'til Dusk Short Track Race Series - Conative MTB Apparel Night: Reverse Handicap",
@@ -45,7 +67,8 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "dd63bfea9284a887",
-   "last_seen": "2026-10-12"
+   "last_seen": "2026-10-12",
+   "held_since": "2026-10-12"
   },
   {
    "title": "Dust 'til Dusk Short Track Race Series - Fox Factory Night: Best Costume",
@@ -68,7 +91,8 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "e23cf6dda7770e68",
-   "last_seen": "2026-10-12"
+   "last_seen": "2026-10-12",
+   "held_since": "2026-10-12"
   }
  ]
 }

@@ -7,16 +7,39 @@ X-WR-CALNAME:WNC Trail Work Days — Altar Cycles
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:NICA Bent Creek Work Day
+DTSTART:20261017T090000
+DTEND:20261017T120000
+DTSTAMP:20261013T165935Z
+UID:1479626ea7254a21@altar.bike
+CATEGORIES:trail-work
+DESCRIPTION:Join Pisgah Area SORBA for a Trail Work Day! We're excited to 
+ join forces with our local NICA Team\, the Pisgah Rage\, as we work togeth
+ er to maintain and improve the trails we all love. No experience is necess
+ ary—our crew leaders will provide tools\, guidance\, and instruction. Me
+ eting Location: Ledford Parking Lot in Bent Creek Meeting Time: 9:00am - n
+ oon (please arrive at 8:50am\, TCLs will arrive at 8:30) What to Bring: Lo
+ ng pants\, boots that cover your ankles\, gloves (if you have them)\, wate
+ r\, snacks\, hardhat (if you have it -bike helmets DO NOT count\, but clim
+ bing helmets do)\, safety glasses (if you have them). Note: Hardhats\, glo
+ ves and safety glasses can be provided if needed. All tools will be provid
+ ed. Please arrive at 8:50am for a timely start to our trail work day!\n\nM
+ ore: https://www.pisgahareasorba.org/\n\nSource: Pisgah Area SORBA\n\nList
+ ed by Altar Cycles — altar.bike/calendar
+LOCATION:Ledford Parking Lot
+URL:https://www.pisgahareasorba.org/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:G5 Fall Trail Work Weekend
 DTSTART:20261106T150000
 DTEND:20261108T130000
-DTSTAMP:20261012T190618Z
+DTSTAMP:20261013T165935Z
 UID:135b22c437e79833@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Pisgah Grandfather Outdoor Community & Stewardship Party. Volu
- nteer projects\, appreciation\, recreation activities\, and camp hospitali
- ty.\n\nMore: https://www.g5trailcollective.org/volunteer\n\nSource: G5 Tra
- il Collective\n\nListed by Altar Cycles — altar.bike/calendar
+ nteer Projects. Appreciation. Recreation Activities. Camp Hospitality.\n\n
+ More: https://www.g5trailcollective.org/volunteer\n\nSource: G5 Trail Coll
+ ective\n\nListed by Altar Cycles — altar.bike/calendar
 LOCATION:Camp Grier\, Old Fort\, NC
 URL:https://www.g5trailcollective.org/volunteer
 END:VEVENT
