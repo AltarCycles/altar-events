@@ -1,5 +1,5 @@
 {
- "at": "2026-10-13T16:57:36.220739+00:00",
+ "at": "2026-10-14T14:31:32.761230+00:00",
  "events": [
   {
    "title": "Beers + Maintenance | Trailside Tune Up",
@@ -7,7 +7,7 @@
    "end": "2026-10-27T19:30:00",
    "all_day": false,
    "url": "https://www.dirtskrrts.com/schedule",
-   "description": "Hands-on clinic for all skill levels. Learn to handle skipping/lagging shifting, chain issues, rubbing brakes, and valve core problems. Participants will observe demonstrations and practice. Drink token and small snack provided. For all women 18 or older.",
+   "description": "Hands-on clinic for all skill levels. Learn to handle skipping/lagging shifting, chain issues, rubbing brakes, and valve core problems. Cost is $30. No refunds. Rain or shine event. Dress in clothes you don't mind getting dirty. Bring trail tools/kit. Check in 4:30-5pm with drink token and snack provided. For women 18 or older.",
    "venue": "New Belgium Brewery Company",
    "city": "Asheville",
    "state": "NC",
@@ -20,9 +20,9 @@
    "bucket": "local",
    "category": "clinic",
    "category_basis": "rule",
-   "discipline": "other",
+   "discipline": "mtb",
    "uid": "1a9e76ab0ac7d5b7",
-   "last_seen": "2026-10-13"
+   "last_seen": "2026-10-14"
   },
   {
    "title": "Test + Tune with Cane Creek Components (Again)",
@@ -30,7 +30,7 @@
    "end": "2026-11-07T14:00:00",
    "all_day": false,
    "url": "https://www.dirtskrrts.com/schedule",
-   "description": "Suspension test and tune with industry experts from Cane Creek Components. For riders with suspension bikes comfortable on rocky/rooty downhill trails. Meet at Explorer Loop parking lot. No e-bikes allowed. For all women 18 or older. Limited to 8 spots via waitlist.",
+   "description": "Suspension test + tune with industry partner Cane Creek Components. For riders with suspension bikes comfortable on downhill trails with rocks and roots. Ride the same loop and dial in suspension with experts. Meet at Explorer Loop parking lot. Bring riding clothes, pack, snacks, and water. No e-bikes allowed. First 8 emails to register get a spot. For women 18 or older.",
    "venue": "Bent Creek Experimental Forest",
    "city": "Asheville",
    "state": "NC",
@@ -45,7 +45,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "db8cbeababc1d3b3",
-   "last_seen": "2026-10-13"
+   "last_seen": "2026-10-14"
   },
   {
    "title": "November Group Ride + Social",
@@ -53,9 +53,9 @@
    "end": "2026-11-14T12:30:00",
    "all_day": false,
    "url": "https://www.dirtskrrts.com/schedule",
-   "description": "Riding at Pisgah and DuPont. No e-bikes allowed at either location. Post-ride social at Oskar Blues Brewery (342 Mountain Industrial Dr, Brevard, NC 28712). For all women 18 and older.",
+   "description": "Riding in Pisgah and DuPont. Post-ride social at Oskar Blues Brewery [342 Mountain Industrial Dr, Brevard, NC 28712]. Neither location allows e-bikes. Registration required through Eventbrite. For women 18 and older.",
    "venue": "Pisgah",
-   "city": "Brevard",
+   "city": "Pisgah Forest",
    "state": "NC",
    "cost": null,
    "extracted_by": "llm",
@@ -68,7 +68,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "e6ecfc09dd6c5bf2",
-   "last_seen": "2026-10-13"
+   "last_seen": "2026-10-14"
   },
   {
    "title": "December Group Ride + Social",
@@ -76,7 +76,7 @@
    "end": "2026-12-12T15:30:00",
    "all_day": false,
    "url": "https://www.dirtskrrts.com/schedule",
-   "description": "Riding in Hot Springs. No e-bikes allowed. Post-ride social at Big Pillow Brewing (25-27 N Andrews Avenue, Hot Springs, NC 28743-9231). For all women 18 and older.",
+   "description": "Riding in Hot Springs. Post-ride social at Big Pillow Brewing [25-27 N Andrews Avenue, Hot Springs, NC 28743-9231]. This location does not allow e-bikes. Registration required through Eventbrite. For women 18 and older.",
    "venue": "Hot Springs",
    "city": "Hot Springs",
    "state": "NC",
@@ -91,7 +91,7 @@
    "category_basis": "rule",
    "discipline": "other",
    "uid": "b68ee4e9e36aad4a",
-   "last_seen": "2026-10-13"
+   "last_seen": "2026-10-14"
   }
  ]
 }
