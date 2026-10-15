@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:NICA Bent Creek Work Day
 DTSTART:20261017T090000
 DTEND:20261017T120000
-DTSTAMP:20261014T143344Z
+DTSTAMP:20261015T141242Z
 UID:1479626ea7254a21@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Join Pisgah Area SORBA for a Trail Work Day! We're excited to 
@@ -30,16 +30,30 @@ LOCATION:Ledford Parking Lot
 URL:https://www.pisgahareasorba.org/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:G5 Fall Trail Work Weekend
+SUMMARY:G5 Fall Trail Work Weekend!
 DTSTART:20261106T150000
 DTEND:20261108T130000
-DTSTAMP:20261014T143344Z
+DTSTAMP:20261015T141242Z
 UID:135b22c437e79833@altar.bike
 CATEGORIES:trail-work
-DESCRIPTION:Pisgah Grandfather Outdoor Community & Stewardship Party. Volu
- nteer projects\, appreciation\, recreation activities\, and camp hospitali
- ty.\n\nMore: https://www.g5trailcollective.org/volunteer\n\nSource: G5 Tra
- il Collective\n\nListed by Altar Cycles — altar.bike/calendar
+DESCRIPTION:Pisgah Grandfather Outdoor Community & Stewardship Party! Volu
+ nteer Projects. Appreciation. Recreation Activities. Camp Hospitality. All
+  around good times!\n\nMore: https://www.g5trailcollective.org/volunteer\n
+ \nSource: G5 Trail Collective\n\nListed by Altar Cycles — altar.bike/cal
+ endar
+LOCATION:Camp Grier\, Old Fort\, NC
+URL:https://www.g5trailcollective.org/volunteer
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women's + Workday - Fall Trail Weekend 2026
+DTSTART:20261107T090000
+DTEND:20261107T150000
+DTSTAMP:20261015T141242Z
+UID:2f7479c6a35dd56e@altar.bike
+CATEGORIES:trail-work
+DESCRIPTION:First Women's + Workday at Fall Trail Weekend 2026\n\nMore: ht
+ tps://www.g5trailcollective.org/volunteer\n\nSource: G5 Trail Collective\n
+ \nListed by Altar Cycles — altar.bike/calendar
 LOCATION:Camp Grier\, Old Fort\, NC
 URL:https://www.g5trailcollective.org/volunteer
 END:VEVENT

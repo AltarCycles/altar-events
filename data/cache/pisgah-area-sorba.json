@@ -1,5 +1,5 @@
 {
- "at": "2026-10-14T14:31:53.422153+00:00",
+ "at": "2026-10-15T14:10:49.404083+00:00",
  "events": [
   {
    "title": "NICA Bent Creek Work Day",
@@ -20,31 +20,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "1479626ea7254a21",
-   "last_seen": "2026-10-14"
-  },
-  {
-   "title": "Dust 'til Dusk Short Track Race Series - Cane Creek Night: Best Decorated Bike",
-   "start": "2026-10-14T16:30:00",
-   "end": "2026-10-14T19:30:00",
-   "all_day": false,
-   "url": "https://www.pisgahareasorba.org/events-volunteer",
-   "description": "Best decorated bike competition. Streamers, lights, pool noodles, handlebar bouquets: anything goes as long as your bike is still safe to ride. The podium goes to the two best-decorated bikes.",
-   "venue": "Cane Creek",
-   "city": "",
-   "state": "",
-   "cost": null,
-   "extracted_by": "llm",
-   "source": "pisgah-area-sorba",
-   "source_name": "Pisgah Area SORBA",
-   "source_url": "https://www.pisgahareasorba.org/",
-   "trust": 80,
-   "bucket": "local",
-   "category": "race",
-   "category_basis": "rule",
-   "discipline": "other",
-   "uid": "bb5c7f229ac22d94",
-   "last_seen": "2026-10-12",
-   "held_since": "2026-10-12"
+   "last_seen": "2026-10-15"
   },
   {
    "title": "Dust 'til Dusk Short Track Race Series - Conative MTB Apparel Night: Reverse Handicap",

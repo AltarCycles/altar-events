@@ -1,5 +1,5 @@
 {
- "at": "2026-10-14T14:31:32.761230+00:00",
+ "at": "2026-10-15T14:10:28.292506+00:00",
  "events": [
   {
    "title": "Beers + Maintenance | Trailside Tune Up",
@@ -7,7 +7,7 @@
    "end": "2026-10-27T19:30:00",
    "all_day": false,
    "url": "https://www.dirtskrrts.com/schedule",
-   "description": "Hands-on clinic for all skill levels. Learn to handle skipping/lagging shifting, chain issues, rubbing brakes, and valve core problems. Cost is $30. No refunds. Rain or shine event. Dress in clothes you don't mind getting dirty. Bring trail tools/kit. Check in 4:30-5pm with drink token and snack provided. For women 18 or older.",
+   "description": "Hands-on maintenance clinic for all skill levels. Topics include shifting issues, chain problems, brake rubbing, and valve core breaks. Participants will observe demonstrations then practice. Cost is $30. Rain or shine event. Dress in clothes you don't mind getting dirty. Bring your trail tools/kit. Check-in 4:30-5pm. Drink token and small snack provided. For all women 18 or older.",
    "venue": "New Belgium Brewery Company",
    "city": "Asheville",
    "state": "NC",
@@ -22,7 +22,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "1a9e76ab0ac7d5b7",
-   "last_seen": "2026-10-14"
+   "last_seen": "2026-10-15"
   },
   {
    "title": "Test + Tune with Cane Creek Components (Again)",
@@ -30,11 +30,11 @@
    "end": "2026-11-07T14:00:00",
    "all_day": false,
    "url": "https://www.dirtskrrts.com/schedule",
-   "description": "Suspension test + tune with industry partner Cane Creek Components. For riders with suspension bikes comfortable on downhill trails with rocks and roots. Ride the same loop and dial in suspension with experts. Meet at Explorer Loop parking lot. Bring riding clothes, pack, snacks, and water. No e-bikes allowed. First 8 emails to register get a spot. For women 18 or older.",
+   "description": "Suspension test and tune event with industry partner Cane Creek Components. For all people with suspension bikes comfortable riding downhill on rocky/rooty trails. Meet at Explorer Loop parking lot. Bring riding clothes, pack, snacks, and water. No e-bikes allowed. First 8 emails register for spots. Email Dorene O'Malley to register. For all women 18 or older. Please allow other riders to participate if you have done a test + tune before.",
    "venue": "Bent Creek Experimental Forest",
    "city": "Asheville",
    "state": "NC",
-   "cost": null,
+   "cost": "Free",
    "extracted_by": "llm",
    "source": "blue-ridge-dirt-skrrts",
    "source_name": "Blue Ridge Dirt Skrrts",
@@ -45,7 +45,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "db8cbeababc1d3b3",
-   "last_seen": "2026-10-14"
+   "last_seen": "2026-10-15"
   },
   {
    "title": "November Group Ride + Social",
@@ -53,11 +53,11 @@
    "end": "2026-11-14T12:30:00",
    "all_day": false,
    "url": "https://www.dirtskrrts.com/schedule",
-   "description": "Riding in Pisgah and DuPont. Post-ride social at Oskar Blues Brewery [342 Mountain Industrial Dr, Brevard, NC 28712]. Neither location allows e-bikes. Registration required through Eventbrite. For women 18 and older.",
+   "description": "Group ride in Pisgah and DuPont. Post-ride social at Oskar Blues Brewery (342 Mountain Industrial Dr, Brevard, NC 28712). Neither location allows e-bikes. Registration required through Eventbrite. Sign-up opens Sunday, November 1 at 7pm. For all women 18 or older.",
    "venue": "Pisgah",
    "city": "Pisgah Forest",
    "state": "NC",
-   "cost": null,
+   "cost": "Free",
    "extracted_by": "llm",
    "source": "blue-ridge-dirt-skrrts",
    "source_name": "Blue Ridge Dirt Skrrts",
@@ -68,7 +68,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "e6ecfc09dd6c5bf2",
-   "last_seen": "2026-10-14"
+   "last_seen": "2026-10-15"
   },
   {
    "title": "December Group Ride + Social",
@@ -76,11 +76,11 @@
    "end": "2026-12-12T15:30:00",
    "all_day": false,
    "url": "https://www.dirtskrrts.com/schedule",
-   "description": "Riding in Hot Springs. Post-ride social at Big Pillow Brewing [25-27 N Andrews Avenue, Hot Springs, NC 28743-9231]. This location does not allow e-bikes. Registration required through Eventbrite. For women 18 and older.",
+   "description": "Group ride in Hot Springs. Post-ride social at Big Pillow Brewing (25-27 N Andrews Avenue, Hot Springs, NC 28743-9231). This location does not allow e-bikes. Registration required through Eventbrite. Sign-up opens Tuesday, December 1 at 7pm. For all women 18 or older.",
    "venue": "Hot Springs",
    "city": "Hot Springs",
    "state": "NC",
-   "cost": null,
+   "cost": "Free",
    "extracted_by": "llm",
    "source": "blue-ridge-dirt-skrrts",
    "source_name": "Blue Ridge Dirt Skrrts",
@@ -91,7 +91,7 @@
    "category_basis": "rule",
    "discipline": "other",
    "uid": "b68ee4e9e36aad4a",
-   "last_seen": "2026-10-14"
+   "last_seen": "2026-10-15"
   }
  ]
 }
