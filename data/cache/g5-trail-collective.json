@@ -1,5 +1,5 @@
 {
- "at": "2026-10-15T14:10:56.083577+00:00",
+ "at": "2026-10-16T13:58:38.421405+00:00",
  "events": [
   {
    "title": "Women's + Trail Skills Workshop",
@@ -7,7 +7,7 @@
    "end": "2026-10-17T15:00:00",
    "all_day": false,
    "url": "https://www.g5trailcollective.org/volunteer",
-   "description": "REGISTRATION FULL. RSVP to Join the Waitlist. Intro Class: Trail Maintenance 101",
+   "description": "Registration full. RSVP to join the waitlist.",
    "venue": "Allison Trailhead Parking - Meetup",
    "city": "Old Fort",
    "state": "NC",
@@ -22,7 +22,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "58085b166d26dbaf",
-   "last_seen": "2026-10-15"
+   "last_seen": "2026-10-16"
   },
   {
    "title": "G5 Fall Trail Work Weekend!",
@@ -30,7 +30,7 @@
    "end": "2026-11-08T13:00:00",
    "all_day": false,
    "url": "https://www.g5trailcollective.org/volunteer",
-   "description": "Pisgah Grandfather Outdoor Community & Stewardship Party! Volunteer Projects. Appreciation. Recreation Activities. Camp Hospitality. All around good times!",
+   "description": "Pisgah Grandfather Outdoor Community & Stewardship Party! Volunteer Projects, Appreciation, Recreation Activities, Camp Hospitality.",
    "venue": "Camp Grier",
    "city": "Old Fort",
    "state": "NC",
@@ -45,7 +45,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "135b22c437e79833",
-   "last_seen": "2026-10-15"
+   "last_seen": "2026-10-16"
   },
   {
    "title": "Women's + Workday - Fall Trail Weekend 2026",
@@ -68,7 +68,8 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "2f7479c6a35dd56e",
-   "last_seen": "2026-10-15"
+   "last_seen": "2026-10-15",
+   "held_since": "2026-10-15"
   },
   {
    "title": "G5 Fall Trail Work Weekend! Nov 6-8",
