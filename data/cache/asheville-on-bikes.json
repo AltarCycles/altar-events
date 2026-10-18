@@ -1,9 +1,9 @@
 {
- "at": "2026-10-17T12:58:49.032334+00:00",
+ "at": "2026-10-18T13:18:12.433809+00:00",
  "events": [
   {
    "title": "Tour de Fat",
-   "start": "2026-10-17",
+   "start": "2026-10-18",
    "end": "",
    "all_day": true,
    "url": "https://ashevilleonbikes.com/events",
@@ -23,11 +23,11 @@
    "category_basis": "default",
    "discipline": "other",
    "uid": "548f70215540a5da",
-   "last_seen": "2026-10-17"
+   "last_seen": "2026-10-18"
   },
   {
    "title": "Bike Valet at Forestry Camp for Burnpile",
-   "start": "2026-10-17",
+   "start": "2026-10-18",
    "end": "",
    "all_day": true,
    "url": "https://ashevilleonbikes.com/events",
@@ -47,11 +47,11 @@
    "category_basis": "default",
    "discipline": "commuter",
    "uid": "ee2e3dc469806832",
-   "last_seen": "2026-10-17"
+   "last_seen": "2026-10-18"
   },
   {
    "title": "World Mental Health Ride at Bear's Smokehouse",
-   "start": "2026-10-17",
+   "start": "2026-10-18",
    "end": "",
    "all_day": true,
    "url": "https://ashevilleonbikes.com/events",
@@ -71,15 +71,15 @@
    "category_basis": "default",
    "discipline": "other",
    "uid": "0a759df2f1b97615",
-   "last_seen": "2026-10-17"
+   "last_seen": "2026-10-18"
   },
   {
    "title": "Get There Asheville",
-   "start": "2026-10-17",
+   "start": "2026-10-18",
    "end": "",
    "all_day": true,
    "url": "https://ashevilleonbikes.com/events",
-   "description": "",
+   "description": "6 pm to 8 pm",
    "venue": "",
    "city": "Asheville",
    "state": "NC",
@@ -95,11 +95,11 @@
    "category_basis": "default",
    "discipline": "other",
    "uid": "1473187f58b65f1a",
-   "last_seen": "2026-10-17"
+   "last_seen": "2026-10-18"
   },
   {
    "title": "Pumpkin Pedaller",
-   "start": "2026-10-17",
+   "start": "2026-10-18",
    "end": "",
    "all_day": true,
    "url": "https://ashevilleonbikes.com/events",
@@ -119,11 +119,11 @@
    "category_basis": "default",
    "discipline": "other",
    "uid": "a4fb8fc562c30f55",
-   "last_seen": "2026-10-17"
+   "last_seen": "2026-10-18"
   },
   {
    "title": "Bike Valet at Hellbender for Wednesday & Mannequin Pussy",
-   "start": "2026-10-17",
+   "start": "2026-10-18",
    "end": "",
    "all_day": true,
    "url": "https://ashevilleonbikes.com/events",
@@ -143,11 +143,11 @@
    "category_basis": "default",
    "discipline": "commuter",
    "uid": "28d9d830bf0c7cfb",
-   "last_seen": "2026-10-17"
+   "last_seen": "2026-10-18"
   },
   {
    "title": "Group Ride to Hellbender for Wednesday & Mannequin Pussy",
-   "start": "2026-10-17",
+   "start": "2026-10-18",
    "end": "",
    "all_day": true,
    "url": "https://ashevilleonbikes.com/events",
@@ -167,7 +167,7 @@
    "category_basis": "rule",
    "discipline": "other",
    "uid": "0c1b1194c6a9a94c",
-   "last_seen": "2026-10-17"
+   "last_seen": "2026-10-18"
   },
   {
    "title": "Smart Cycling Class",
@@ -175,7 +175,7 @@
    "end": "",
    "all_day": true,
    "url": "https://ashevilleonbikes.com/events",
-   "description": "Feel more confident riding your bike around Asheville",
+   "description": "10 am \u2013 5 pm",
    "venue": "",
    "city": "Asheville",
    "state": "NC",
@@ -191,7 +191,7 @@
    "category_basis": "rule",
    "discipline": "other",
    "uid": "d59523d7622bcc38",
-   "last_seen": "2026-10-17"
+   "last_seen": "2026-10-18"
   },
   {
    "title": "Smart Cycling Class",
@@ -215,8 +215,7 @@
    "category_basis": "rule",
    "discipline": "other",
    "uid": "3d04c78472303ea6",
-   "last_seen": "2026-10-16",
-   "held_since": "2026-10-16"
+   "last_seen": "2026-10-18"
   }
  ]
 }
