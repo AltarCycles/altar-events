@@ -1,6 +1,27 @@
 {
- "at": "2026-10-18T13:18:50.374108+00:00",
+ "at": "2026-10-19T16:29:00.763986+00:00",
  "events": [
+  {
+   "title": "Black Mountain Work Day - Tree Clearing",
+   "start": "2026-11-14T09:00:00",
+   "end": "2026-11-14T14:00:00",
+   "all_day": false,
+   "url": "https://www.pisgahareasorba.org/",
+   "description": "Join Pisgah Area SORBA for a work day on the! No experience is necessary - our Pisgah SORBA Trail Crew Leaders will provide all tools, guidance, and instruction. Date: Saturday, November 14th from 9:00am-2:00pm Trail Work Location: Lower Black Mountain Trail Meetup Location: Black Mountain Trailhead Parking Lot Work description: Removing previously cut wood from the area TCL: Jack Duffey Required items: Long pants, boots that cover your ankles, safety glasses (can be provided), gloves (can be provided), hardhat (bike helmets DO NOT count, but climbing helmets do, also can be provided), snacks/lunch and water. All tools will be provided. Come out and give back to the trails!",
+   "venue": "77MH+C7 Brevard, NC, USA",
+   "city": "77MH+C7 Brevard",
+   "state": "NC",
+   "source": "pisgah-area-sorba",
+   "source_name": "Pisgah Area SORBA",
+   "source_url": "https://www.pisgahareasorba.org/",
+   "trust": 80,
+   "bucket": "local",
+   "category": "trail-work",
+   "category_basis": "rule",
+   "discipline": "mtb",
+   "uid": "3bcf22eebb199532",
+   "last_seen": "2026-10-19"
+  },
   {
    "title": "Dust 'til Dusk Short Track Race Series - Conative MTB Apparel Night: Reverse Handicap",
    "start": "2026-10-21T16:30:00",
@@ -22,7 +43,8 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "dd63bfea9284a887",
-   "last_seen": "2026-10-18"
+   "last_seen": "2026-10-18",
+   "held_since": "2026-10-18"
   },
   {
    "title": "Dust 'til Dusk Short Track Race Series - Fox Factory Night: Best Costume",
@@ -45,7 +67,8 @@
    "category_basis": "rule",
    "discipline": "other",
    "uid": "e23cf6dda7770e68",
-   "last_seen": "2026-10-18"
+   "last_seen": "2026-10-18",
+   "held_since": "2026-10-18"
   },
   {
    "title": "PAS Bike In Movie Night",
@@ -68,7 +91,8 @@
    "category_basis": "default",
    "discipline": "other",
    "uid": "96df9b901a193987",
-   "last_seen": "2026-10-18"
+   "last_seen": "2026-10-18",
+   "held_since": "2026-10-18"
   }
  ]
 }
