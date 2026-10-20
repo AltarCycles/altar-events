@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:Trek Tuesday Volunteer Trail Day - Star Gap East Project
 DTSTART:20261020T100000
 DTEND:20261020T140000
-DTSTAMP:20261019T163120Z
+DTSTAMP:20261020T142127Z
 UID:3f02a48ba682704a@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Join G5 X Trek AVL for a monthly partner workday. We'll be fix
@@ -21,11 +21,11 @@ LOCATION:245 Graphite Rd\, Old Fort\, NC
 URL:https://www.g5trailcollective.org/volunteer
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:G5 Fall Trail Work Weekend! Nov 6-8
+SUMMARY:G5 Fall Trail Work Weekend!
 DTSTART:20261106T150000
 DTEND:20261108T130000
-DTSTAMP:20261019T163120Z
-UID:a14e20186580eb43@altar.bike
+DTSTAMP:20261020T142127Z
+UID:135b22c437e79833@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Pisgah Grandfather Outdoor Community & Stewardship Party! Volu
  nteer Projects. Appreciation. Recreation Activities. Camp Hospitality. All
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:Women's + Workday - Fall Trail Weekend 2026
 DTSTART:20261107T090000
 DTEND:20261107T150000
-DTSTAMP:20261019T163120Z
+DTSTAMP:20261020T142127Z
 UID:2f7479c6a35dd56e@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:First Women's + Workday at Fall Trail Weekend 2026\n\nMore: ht
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:PAS Bike In Movie Night
 DTSTART:20261110T173000
 DTEND:20261110T200000
-DTSTAMP:20261019T163120Z
+DTSTAMP:20261020T142127Z
 UID:96df9b901a193987@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:More: https://www.pisgahareasorba.org/events-volunteer\n\nSour
@@ -63,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:Black Mountain Work Day - Tree Clearing
 DTSTART:20261114T090000
 DTEND:20261114T140000
-DTSTAMP:20261019T163120Z
+DTSTAMP:20261020T142127Z
 UID:3bcf22eebb199532@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Join Pisgah Area SORBA for a work day on the! No experience is
@@ -85,14 +85,14 @@ BEGIN:VEVENT
 SUMMARY:Volunteer Appreciation Party
 DTSTART:20261117T180000
 DTEND:20261117T200000
-DTSTAMP:20261019T163120Z
+DTSTAMP:20261020T142127Z
 UID:7772a0f9bc08744e@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Celebration for past volunteers with prizes\, giveaways\, food
- \, and one complimentary drink. Partners welcome. No bikes needed.\n\nMore
- : https://www.dirtskrrts.com/schedule\n\nSource: Blue Ridge Dirt Skrrts\n
- \nListed by Altar Cycles — altar.bike/calendar
-LOCATION:Wrong Way River Lodge & Cabins\, Asheville\, NC
+ \, and one complimentary drink. Partners welcome.\n\nMore: https://www.dir
+ tskrrts.com/schedule\n\nSource: Blue Ridge Dirt Skrrts\n\nListed by Altar 
+ Cycles — altar.bike/calendar
+LOCATION:Wrong Way River Lodge & Cabins\, Marshall\, NC
 URL:https://www.dirtskrrts.com/schedule
 END:VEVENT
 END:VCALENDAR

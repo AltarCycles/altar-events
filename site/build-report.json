@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T16:31:20.435064+00:00",
+ "generated": "2026-10-20T14:21:27.445474+00:00",
  "total": 69,
  "world": 4,
  "needs_attention": [],
@@ -9,8 +9,8 @@
    "adapter": "llm",
    "fetched": 28,
    "kept": 9,
-   "held": 0,
-   "at": "2026-10-19T16:28:21.768501+00:00"
+   "held": 1,
+   "at": "2026-10-20T14:18:53.630041+00:00"
   },
   "asheville-on-bikes-pages": {
    "status": "ok",
@@ -18,7 +18,7 @@
    "fetched": 2,
    "kept": 0,
    "held": 0,
-   "at": "2026-10-19T16:28:27.768236+00:00"
+   "at": "2026-10-20T14:19:00.280782+00:00"
   },
   "asheville-on-bikes-rwgps": {
    "status": "failed",
@@ -36,7 +36,7 @@
    "fetched": 1,
    "kept": 0,
    "held": 0,
-   "at": "2026-10-19T16:28:33.594946+00:00"
+   "at": "2026-10-20T14:19:05.604572+00:00"
   },
   "blue-ridge-dirt-skrrts": {
    "status": "ok",
@@ -44,7 +44,7 @@
    "fetched": 5,
    "kept": 5,
    "held": 0,
-   "at": "2026-10-19T16:28:42.790488+00:00"
+   "at": "2026-10-20T14:19:14.074343+00:00"
   },
   "gravelo-workshop": {
    "status": "ok",
@@ -52,15 +52,15 @@
    "fetched": 182,
    "kept": 12,
    "held": 0,
-   "at": "2026-10-19T16:28:43.439090+00:00"
+   "at": "2026-10-20T14:19:14.757738+00:00"
   },
   "velosports-ring-of-fire": {
    "status": "ok",
    "adapter": "llm",
-   "fetched": 8,
+   "fetched": 1,
    "kept": 0,
    "held": 0,
-   "at": "2026-10-19T16:28:56.168021+00:00"
+   "at": "2026-10-20T14:19:18.828038+00:00"
   },
   "blue-ridge-bicycle-club": {
    "status": "failed",
@@ -78,7 +78,7 @@
    "fetched": 1,
    "kept": 4,
    "held": 3,
-   "at": "2026-10-19T16:29:00.764365+00:00"
+   "at": "2026-10-20T14:19:23.894003+00:00"
   },
   "g5-trail-collective": {
    "status": "ok",
@@ -86,7 +86,7 @@
    "fetched": 2,
    "kept": 4,
    "held": 2,
-   "at": "2026-10-19T16:29:08.201809+00:00"
+   "at": "2026-10-20T14:19:28.502545+00:00"
   },
   "nica-nc": {
    "status": "off-season",
@@ -95,7 +95,7 @@
     "llm: returned 0 events"
    ],
    "cached_events": 0,
-   "cache_age_days": 59,
+   "cache_age_days": 60,
    "optional": false,
    "off_season": true
   },
@@ -105,7 +105,7 @@
     "llm: returned 0 events"
    ],
    "cached_events": 1,
-   "cache_age_days": 3,
+   "cache_age_days": 4,
    "optional": false,
    "off_season": true
   },
@@ -125,7 +125,7 @@
    "fetched": 41,
    "kept": 32,
    "held": 0,
-   "at": "2026-10-19T16:29:44.268655+00:00"
+   "at": "2026-10-20T14:19:40.060088+00:00"
   },
   "runsignup": {
    "status": "ok",
@@ -133,7 +133,7 @@
    "fetched": 250,
    "kept": 1,
    "held": 0,
-   "at": "2026-10-19T16:29:46.413592+00:00"
+   "at": "2026-10-20T14:19:43.589660+00:00"
   },
   "uci": {
    "status": "cached",
@@ -151,7 +151,7 @@
    "fetched": 500,
    "kept": 0,
    "held": 0,
-   "at": "2026-10-19T16:31:20.045634+00:00"
+   "at": "2026-10-20T14:21:27.102795+00:00"
   }
  }
 }
