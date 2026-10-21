@@ -1,5 +1,5 @@
 {
- "at": "2026-10-20T14:19:40.059053+00:00",
+ "at": "2026-10-21T14:30:42.112339+00:00",
  "events": [
   {
    "title": "2026 BRAGco Cycling Event",
@@ -29,7 +29,7 @@
    "discipline": "other",
    "uid": "743ac628878c17c6",
    "distance_mi": 42.2,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "The Middle Fork Fondo 2026",
@@ -59,7 +59,7 @@
    "discipline": "road",
    "uid": "0186abed2e6b428b",
    "distance_mi": 14.9,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "Couch Potato",
@@ -88,7 +88,7 @@
    "discipline": "mtb",
    "uid": "2e02b8a758b849f1",
    "distance_mi": 23.6,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "2026 Ride For Wellness",
@@ -117,7 +117,36 @@
    "discipline": "other",
    "uid": "23cb428284ee99c1",
    "distance_mi": 66.8,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
+  },
+  {
+   "title": "DARC Fall Gathering",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "all_day": true,
+   "url": "http://www.BikeReg.com/darc-fall-gathering",
+   "description": "DARC Fall Team Gathering. Gravel/MTB Ride. Road Ride. Delicious Lunch. Team Picture (wear current team kit). Arrive between 10-11 for rides at 11:00. Curtis Creek climb and return. Approximately 15 miles total from the cabin with elevation gain of approximately 2200 feet. There are plenty of ways to add on if anyone wants more. See the ride file here - https://ridewithgps.com/routes/52967731 Deborah will lead a flat ride in the opposite direction along Curtis and the Catawba. We will determine which option to take based upon the group doing this version of the ride. Ride - https://ridewithgps.com/routes/52967743 Ride w/extension - https://ridewithgps.com/routes/52967703 There is plenty of hiking from the cabin as well. Bring camp chairs, towels (if they want to sauna, cold plunge or shower",
+   "venue": "104 Misty Dr",
+   "city": "Old Fort",
+   "state": "NC",
+   "lat": 35.675114,
+   "lng": -82.201355,
+   "image": "/BR/VirtualImages/EventLogos/f0b56197-9741-4965-8be5-9435cb964799.png",
+   "discipline_hint": "Special Event",
+   "tags": [
+    "Special Event"
+   ],
+   "source": "bikereg",
+   "source_name": "BikeReg",
+   "source_url": "https://www.bikereg.com/",
+   "trust": 60,
+   "bucket": "local",
+   "category": "race",
+   "category_basis": "rule",
+   "discipline": "gravel",
+   "uid": "3e09670b5456db3c",
+   "distance_mi": 20.4,
+   "last_seen": "2026-10-21"
   },
   {
    "title": "Swank 65",
@@ -146,7 +175,7 @@
    "discipline": "mtb",
    "uid": "808d5262f339b592",
    "distance_mi": 23.6,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "2026 NCCX Race #8 Hickory",
@@ -176,7 +205,36 @@
    "discipline": "cx",
    "uid": "6ce7ed1f4106eec0",
    "distance_mi": 66.7,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
+  },
+  {
+   "title": "Cane Creek Club Night",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "all_day": true,
+   "url": "http://www.BikeReg.com/cane-creek-club-night",
+   "description": "Registration is FREE, but please do so by 11/6/2026 so that we can have to appropriate amount of food and drink. Reg is open until the time of the event if you can't register early. 6-8pm, 355 Cane Creek Rd Fletcher, NC 28732 Special 1-night only sale pricing Behind the curtain look at Cane Creek's facility FREE food and drink Connect with the local cycling community and other area clubs",
+   "venue": "355 Cane Creek Rd",
+   "city": "Fletcher",
+   "state": "NC",
+   "lat": 35.4439797,
+   "lng": -82.4900063,
+   "image": "/BR/VirtualImages/EventLogos/bce19fec-d5d6-45ae-9ce1-604e8748808a.png",
+   "discipline_hint": "Special Event",
+   "tags": [
+    "Special Event"
+   ],
+   "source": "bikereg",
+   "source_name": "BikeReg",
+   "source_url": "https://www.bikereg.com/",
+   "trust": 60,
+   "bucket": "local",
+   "category": "race",
+   "category_basis": "rule",
+   "discipline": "other",
+   "uid": "2f57f2450573b0dc",
+   "distance_mi": 11.0,
+   "last_seen": "2026-10-21"
   },
   {
    "title": "We Shred Rock Creek",
@@ -206,7 +264,7 @@
    "discipline": "mtb",
    "uid": "0a67e54dee113b1a",
    "distance_mi": 27.4,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "XCC GVL - Greenville, SC., Short Track",
@@ -237,7 +295,7 @@
    "discipline": "mtb",
    "uid": "86cf16c78645fbfd",
    "distance_mi": 44.6,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "Cranksgiving Weekend 2026",
@@ -267,7 +325,7 @@
    "discipline": "mtb",
    "uid": "f6e27f0091d07db2",
    "distance_mi": 45.9,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "Pisgah DOUBLE DARE",
@@ -296,7 +354,7 @@
    "discipline": "mtb",
    "uid": "59bf1e39a66ae34b",
    "distance_mi": 26.3,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "2026 NORTH CAROLINA GRAND PRIX - R#1 & R#2 - NCCX Race #10 & Race #11 Hendersonville",
@@ -327,7 +385,7 @@
    "discipline": "cx",
    "uid": "1ea4003af619eb35",
    "distance_mi": 20.1,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "Go Nuts Biking Nut Gobbler XC",
@@ -357,7 +415,7 @@
    "discipline": "mtb",
    "uid": "5d605450c7d6e77a",
    "distance_mi": 63.3,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "CCNS Winter Training Camp Deposit Week 1 (Week 1: February 21\u201327)",
@@ -387,7 +445,7 @@
    "discipline": "other",
    "uid": "94f1fbe486a9f458",
    "distance_mi": 52.3,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "CCNS Winter Training Camp Deposit Week 2 (Feb 28th - Mar 6th)",
@@ -417,7 +475,7 @@
    "discipline": "other",
    "uid": "7bfe8cfcafdaeab5",
    "distance_mi": 53.5,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "Pisgah Stage Race",
@@ -446,7 +504,7 @@
    "discipline": "mtb",
    "uid": "d3258e3b4cd45a6b",
    "distance_mi": 26.9,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "Bootlegger",
@@ -476,7 +534,7 @@
    "discipline": "gravel",
    "uid": "f0fa19e43a2adce0",
    "distance_mi": 60.8,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "Pisgah Mountain Bike Adventure Race",
@@ -505,7 +563,7 @@
    "discipline": "mtb",
    "uid": "996261671a499518",
    "distance_mi": 23.6,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "Carolina Reaper Road Race",
@@ -534,7 +592,7 @@
    "discipline": "road",
    "uid": "6cb81637a4faee67",
    "distance_mi": 58.6,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "Mars Hill Cycling Camp Road and Gravel Bike",
@@ -564,7 +622,7 @@
    "discipline": "gravel",
    "uid": "3897c58e7e5f8756",
    "distance_mi": 15.8,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "Mars Hill Cycling Camp Mountain Bike 1",
@@ -594,7 +652,7 @@
    "discipline": "mtb",
    "uid": "c488335f568356e6",
    "distance_mi": 15.8,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "Mars Hill Cycling Camp Mountain Bike 2",
@@ -624,7 +682,7 @@
    "discipline": "mtb",
    "uid": "c42c941805879632",
    "distance_mi": 15.8,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "Gran Fondo Asheville, p/b Applewood Manor Foundation, a SENA Gran Fondo National Series event",
@@ -654,7 +712,7 @@
    "discipline": "road",
    "uid": "19cc3e2cb7f4ed33",
    "distance_mi": 0.3,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "Mars Hill Cycling Camp Mountain Bike 3",
@@ -684,7 +742,7 @@
    "discipline": "mtb",
    "uid": "f4d3d0737e0d22cc",
    "distance_mi": 15.8,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "HARDford 50 and HARDERford 75",
@@ -713,7 +771,7 @@
    "discipline": "gravel",
    "uid": "fbb7b952544d9b16",
    "distance_mi": 36.6,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "Boone Gran Fondo, a SENA Gran Fondo National Series event",
@@ -744,7 +802,7 @@
    "discipline": "road",
    "uid": "eaf10f6e0cd70f9a",
    "distance_mi": 64.8,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "Old Fort Fifty",
@@ -774,7 +832,7 @@
    "discipline": "mtb",
    "uid": "574c90ce85701ccd",
    "distance_mi": 20.5,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "Pisgah Enduro",
@@ -804,7 +862,7 @@
    "discipline": "mtb",
    "uid": "903f0caa2f7afb82",
    "distance_mi": 20.5,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "Gravel Roll - The Holler in Walhalla",
@@ -834,7 +892,7 @@
    "discipline": "gravel",
    "uid": "578d116d110cb6d2",
    "distance_mi": 64.5,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "Pisgah Monster-Cross Challenge",
@@ -864,7 +922,7 @@
    "discipline": "gravel",
    "uid": "b200a71231055f5c",
    "distance_mi": 23.6,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "Downtown Asheville Racing Club (DARC)/Asheville Youth Cycling (AYC) 2027 Membership",
@@ -893,7 +951,7 @@
    "discipline": "other",
    "uid": "ed2195eb310bcece",
    "distance_mi": 0.3,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "Pisgah 111 / 555",
@@ -923,7 +981,7 @@
    "discipline": "mtb",
    "uid": "f6fb2bcb9eae90d0",
    "distance_mi": 23.6,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "2027 Gran Fondo Hincapie-Greenville",
@@ -953,7 +1011,7 @@
    "discipline": "road",
    "uid": "283a9ed4782a297c",
    "distance_mi": 34.5,
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   }
  ]
 }

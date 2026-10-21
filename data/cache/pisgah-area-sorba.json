@@ -1,5 +1,5 @@
 {
- "at": "2026-10-20T14:19:23.892420+00:00",
+ "at": "2026-10-21T14:30:28.094516+00:00",
  "events": [
   {
    "title": "Black Mountain Work Day - Tree Clearing",
@@ -20,7 +20,49 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "3bcf22eebb199532",
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
+  },
+  {
+   "title": "Boyd Branch Work Day",
+   "start": "2026-11-14T10:00:00",
+   "end": "2026-11-14T13:00:00",
+   "all_day": false,
+   "url": "https://www.pisgahareasorba.org/",
+   "description": "Join Pisgah Area SORBA for a work day on the! No experience is necessary - our Pisgah SORBA Trail Crew Leaders will provide all tools, guidance, and instruction. Date: Saturday, November 14th from 10:00am-1:00pm Trail Work Location: Boyd Branch Meetup Location: Campground Connector Work description: Clearing drains and general maintenance TCL: David Tate Required items: Long pants, boots that cover your ankles, safety glasses (can be provided), gloves (can be provided), hardhat (bike helmets DO NOT count, but climbing helmets do, also can be provided), snacks/lunch and water. All tools will be provided. Come out and give back to the trails!",
+   "venue": "Campground Connector",
+   "city": "",
+   "state": "",
+   "source": "pisgah-area-sorba",
+   "source_name": "Pisgah Area SORBA",
+   "source_url": "https://www.pisgahareasorba.org/",
+   "trust": 80,
+   "bucket": "local",
+   "category": "trail-work",
+   "category_basis": "rule",
+   "discipline": "mtb",
+   "uid": "710d5ad48ee812af",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "title": "2026 Annual Meeting",
+   "start": "2026-12-07T17:30:00",
+   "end": "2026-12-07T19:30:00",
+   "all_day": false,
+   "url": "https://www.pisgahareasorba.org/",
+   "description": "Join Pisgah Area SORBA for our Annual Meeting as we vote in our 2027 Board of Directors, share updates on our projects, programs, and plans for the year ahead. We will also be hosting a panel discussion about this History of Pisgah. Come on out to connect with the local trail community and learn how we\u2019re working together to build and maintain better trails across Western North Carolina! No RSVP is required. Date: Monday, December 7th Time: 5:30pm - 7:30pm (panel will begin at 6:30pm) Location: The Mule at Devils Foot in Asheville",
+   "venue": "131 Sweeten Creek Rd, Asheville, NC 28803, USA",
+   "city": "Asheville",
+   "state": "NC",
+   "source": "pisgah-area-sorba",
+   "source_name": "Pisgah Area SORBA",
+   "source_url": "https://www.pisgahareasorba.org/",
+   "trust": 80,
+   "bucket": "local",
+   "category": "advocacy",
+   "category_basis": "rule",
+   "discipline": "mtb",
+   "uid": "c6d926388b7bb98b",
+   "last_seen": "2026-10-21"
   },
   {
    "title": "Dust 'til Dusk Short Track Race Series - Conative MTB Apparel Night: Reverse Handicap",

@@ -7,24 +7,10 @@ X-WR-CALNAME:WNC Trail Work Days — Altar Cycles
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Trek Tuesday Volunteer Trail Day - Star Gap East Project
-DTSTART:20261020T100000
-DTEND:20261020T140000
-DTSTAMP:20261020T142127Z
-UID:3f02a48ba682704a@altar.bike
-CATEGORIES:trail-work
-DESCRIPTION:Join G5 X Trek AVL for a monthly partner workday. We'll be fix
- ing up a section of trail damaged during Hurricane Helene using locust and
-  rock.\n\nMore: https://www.g5trailcollective.org/volunteer\n\nSource: G5 
- Trail Collective\n\nListed by Altar Cycles — altar.bike/calendar
-LOCATION:245 Graphite Rd\, Old Fort\, NC
-URL:https://www.g5trailcollective.org/volunteer
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:G5 Fall Trail Work Weekend!
 DTSTART:20261106T150000
 DTEND:20261108T130000
-DTSTAMP:20261020T142127Z
+DTSTAMP:20261021T143218Z
 UID:135b22c437e79833@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Pisgah Grandfather Outdoor Community & Stewardship Party! Volu
@@ -39,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Women's + Workday - Fall Trail Weekend 2026
 DTSTART:20261107T090000
 DTEND:20261107T150000
-DTSTAMP:20261020T142127Z
+DTSTAMP:20261021T143218Z
 UID:2f7479c6a35dd56e@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:First Women's + Workday at Fall Trail Weekend 2026\n\nMore: ht
@@ -52,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:PAS Bike In Movie Night
 DTSTART:20261110T173000
 DTEND:20261110T200000
-DTSTAMP:20261020T142127Z
+DTSTAMP:20261021T143218Z
 UID:96df9b901a193987@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:More: https://www.pisgahareasorba.org/events-volunteer\n\nSour
@@ -63,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:Black Mountain Work Day - Tree Clearing
 DTSTART:20261114T090000
 DTEND:20261114T140000
-DTSTAMP:20261020T142127Z
+DTSTAMP:20261021T143218Z
 UID:3bcf22eebb199532@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Join Pisgah Area SORBA for a work day on the! No experience is
@@ -82,17 +68,38 @@ LOCATION:77MH+C7 Brevard\, NC\, USA\, 77MH+C7 Brevard\, NC
 URL:https://www.pisgahareasorba.org/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Boyd Branch Work Day
+DTSTART:20261114T100000
+DTEND:20261114T130000
+DTSTAMP:20261021T143218Z
+UID:710d5ad48ee812af@altar.bike
+CATEGORIES:trail-work
+DESCRIPTION:Join Pisgah Area SORBA for a work day on the! No experience is
+  necessary - our Pisgah SORBA Trail Crew Leaders will provide all tools\, 
+ guidance\, and instruction. Date: Saturday\, November 14th from 10:00am-1:
+ 00pm Trail Work Location: Boyd Branch Meetup Location: Campground Connecto
+ r Work description: Clearing drains and general maintenance TCL: David Tat
+ e Required items: Long pants\, boots that cover your ankles\, safety glass
+ es (can be provided)\, gloves (can be provided)\, hardhat (bike helmets DO
+  NOT count\, but climbing helmets do\, also can be provided)\, snacks/lunc
+ h and water. All tools will be provided. Come out and give back to the tra
+ ils!\n\nMore: https://www.pisgahareasorba.org/\n\nSource: Pisgah Area SORB
+ A\n\nListed by Altar Cycles — altar.bike/calendar
+LOCATION:Campground Connector
+URL:https://www.pisgahareasorba.org/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Volunteer Appreciation Party
 DTSTART:20261117T180000
 DTEND:20261117T200000
-DTSTAMP:20261020T142127Z
+DTSTAMP:20261021T143218Z
 UID:7772a0f9bc08744e@altar.bike
 CATEGORIES:trail-work
-DESCRIPTION:Celebration for past volunteers with prizes\, giveaways\, food
- \, and one complimentary drink. Partners welcome.\n\nMore: https://www.dir
- tskrrts.com/schedule\n\nSource: Blue Ridge Dirt Skrrts\n\nListed by Altar 
- Cycles — altar.bike/calendar
-LOCATION:Wrong Way River Lodge & Cabins\, Marshall\, NC
+DESCRIPTION:Celebration for past volunteers. Prizes\, giveaways\, food\, a
+ nd one drink provided. No bikes needed. Partners welcome.\n\nMore: https:/
+ /www.dirtskrrts.com/schedule\n\nSource: Blue Ridge Dirt Skrrts\n\nListed b
+ y Altar Cycles — altar.bike/calendar
+LOCATION:Wrong Way River Lodge & Cabins\, Asheville\, NC
 URL:https://www.dirtskrrts.com/schedule
 END:VEVENT
 END:VCALENDAR

@@ -1,29 +1,6 @@
 {
- "at": "2026-10-20T14:19:28.502180+00:00",
+ "at": "2026-10-21T14:30:30.196990+00:00",
  "events": [
-  {
-   "title": "Trek Tuesday Volunteer Trail Day - Star Gap East Project",
-   "start": "2026-10-20T10:00:00",
-   "end": "2026-10-20T14:00:00",
-   "all_day": false,
-   "url": "https://www.g5trailcollective.org/volunteer",
-   "description": "Join G5 X Trek AVL for a monthly partner workday. We'll be fixing up a section of trail damaged during Hurricane Helene using locust and rock.",
-   "venue": "245 Graphite Rd",
-   "city": "Old Fort",
-   "state": "NC",
-   "cost": null,
-   "extracted_by": "llm",
-   "source": "g5-trail-collective",
-   "source_name": "G5 Trail Collective",
-   "source_url": "https://www.g5trailcollective.org/",
-   "trust": 80,
-   "bucket": "local",
-   "category": "trail-work",
-   "category_basis": "rule",
-   "discipline": "mtb",
-   "uid": "3f02a48ba682704a",
-   "last_seen": "2026-10-20"
-  },
   {
    "title": "G5 Fall Trail Work Weekend!",
    "start": "2026-11-06T15:00:00",
@@ -45,7 +22,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "135b22c437e79833",
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-21"
   },
   {
    "title": "G5 Fall Trail Work Weekend! Nov 6-8",
