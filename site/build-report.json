@@ -1,24 +1,35 @@
 {
- "generated": "2026-10-21T14:32:18.134823+00:00",
- "total": 73,
+ "generated": "2026-10-22T14:32:03.632401+00:00",
+ "total": 65,
  "world": 4,
- "needs_attention": [],
+ "needs_attention": [
+  "asheville-on-bikes",
+  "darc",
+  "blue-ridge-dirt-skrrts",
+  "g5-trail-collective",
+  "nica-nc",
+  "pisgah-rage"
+ ],
  "sources": {
   "asheville-on-bikes": {
-   "status": "ok",
-   "adapter": "llm",
-   "fetched": 29,
-   "kept": 10,
-   "held": 0,
-   "at": "2026-10-21T14:29:56.186925+00:00"
+   "status": "cached",
+   "errors": [
+    "llm: https://api.anthropic.com/v1/messages: 401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+   ],
+   "cached_events": 3,
+   "cache_age_days": 1,
+   "optional": false,
+   "off_season": false
   },
   "asheville-on-bikes-pages": {
-   "status": "ok",
-   "adapter": "llm",
-   "fetched": 2,
-   "kept": 0,
-   "held": 0,
-   "at": "2026-10-21T14:30:02.820256+00:00"
+   "status": "failed",
+   "errors": [
+    "llm: https://api.anthropic.com/v1/messages: 401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+   ],
+   "cached_events": 0,
+   "cache_age_days": 1,
+   "optional": true,
+   "off_season": false
   },
   "asheville-on-bikes-rwgps": {
    "status": "failed",
@@ -31,20 +42,24 @@
    "off_season": false
   },
   "darc": {
-   "status": "ok",
-   "adapter": "llm",
-   "fetched": 1,
-   "kept": 0,
-   "held": 0,
-   "at": "2026-10-21T14:30:08.698788+00:00"
+   "status": "failed",
+   "errors": [
+    "llm: https://api.anthropic.com/v1/messages: 401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+   ],
+   "cached_events": 0,
+   "cache_age_days": 1,
+   "optional": false,
+   "off_season": false
   },
   "blue-ridge-dirt-skrrts": {
-   "status": "ok",
-   "adapter": "llm",
-   "fetched": 5,
-   "kept": 5,
-   "held": 0,
-   "at": "2026-10-21T14:30:19.168941+00:00"
+   "status": "cached",
+   "errors": [
+    "llm: https://api.anthropic.com/v1/messages: 401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+   ],
+   "cached_events": 5,
+   "cache_age_days": 1,
+   "optional": false,
+   "off_season": false
   },
   "gravelo-workshop": {
    "status": "ok",
@@ -52,15 +67,17 @@
    "fetched": 182,
    "kept": 12,
    "held": 0,
-   "at": "2026-10-21T14:30:19.908095+00:00"
+   "at": "2026-10-22T14:31:07.547489+00:00"
   },
   "velosports-ring-of-fire": {
-   "status": "ok",
-   "adapter": "llm",
-   "fetched": 1,
-   "kept": 0,
-   "held": 0,
-   "at": "2026-10-21T14:30:23.674220+00:00"
+   "status": "failed",
+   "errors": [
+    "llm: https://api.anthropic.com/v1/messages: 401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+   ],
+   "cached_events": 0,
+   "cache_age_days": 1,
+   "optional": true,
+   "off_season": false
   },
   "blue-ridge-bicycle-club": {
    "status": "failed",
@@ -75,39 +92,42 @@
   "pisgah-area-sorba": {
    "status": "ok",
    "adapter": "volunteerhub",
-   "fetched": 3,
+   "fetched": 5,
    "kept": 6,
-   "held": 3,
-   "at": "2026-10-21T14:30:28.094931+00:00"
+   "held": 1,
+   "at": "2026-10-22T14:31:15.511541+00:00"
   },
   "g5-trail-collective": {
-   "status": "ok",
-   "adapter": "llm",
-   "fetched": 1,
-   "kept": 3,
-   "held": 2,
-   "at": "2026-10-21T14:30:30.198957+00:00"
+   "status": "cached",
+   "errors": [
+    "wix: wix: no JSON-LD events found \u2014 falling through to llm",
+    "llm: https://api.anthropic.com/v1/messages: 401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
+   ],
+   "cached_events": 3,
+   "cache_age_days": 1,
+   "optional": false,
+   "off_season": false
   },
   "nica-nc": {
-   "status": "off-season",
+   "status": "failed",
    "errors": [
     "jsonld: https://northcarolinamtb.org/event-weekends: no schema.org Event blocks",
-    "llm: returned 0 events"
+    "llm: https://api.anthropic.com/v1/messages: 401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
    ],
    "cached_events": 0,
-   "cache_age_days": 61,
+   "cache_age_days": 62,
    "optional": false,
-   "off_season": true
+   "off_season": false
   },
   "pisgah-rage": {
-   "status": "off-season",
+   "status": "cached",
    "errors": [
-    "llm: returned 0 events"
+    "llm: https://api.anthropic.com/v1/messages: 401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
    ],
    "cached_events": 1,
-   "cache_age_days": 5,
+   "cache_age_days": 6,
    "optional": false,
-   "off_season": true
+   "off_season": false
   },
   "ic-imagine-cycling": {
    "status": "failed",
@@ -125,7 +145,7 @@
    "fetched": 43,
    "kept": 34,
    "held": 0,
-   "at": "2026-10-21T14:30:42.113262+00:00"
+   "at": "2026-10-22T14:31:34.786835+00:00"
   },
   "runsignup": {
    "status": "ok",
@@ -133,15 +153,15 @@
    "fetched": 250,
    "kept": 1,
    "held": 0,
-   "at": "2026-10-21T14:30:44.223834+00:00"
+   "at": "2026-10-22T14:31:36.946466+00:00"
   },
   "uci": {
    "status": "cached",
    "errors": [
-    "llm: https://api.anthropic.com/v1/messages: HTTPSConnectionPool(host='api.anthropic.com', port=443): Read timed out. (read timeout=25)"
+    "llm: https://api.anthropic.com/v1/messages: 401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
    ],
    "cached_events": 4,
-   "cache_age_days": 25,
+   "cache_age_days": 26,
    "optional": true,
    "off_season": false
   },
@@ -151,7 +171,7 @@
    "fetched": 500,
    "kept": 0,
    "held": 0,
-   "at": "2026-10-21T14:32:17.256333+00:00"
+   "at": "2026-10-22T14:32:02.814104+00:00"
   }
  }
 }

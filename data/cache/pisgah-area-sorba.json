@@ -1,6 +1,48 @@
 {
- "at": "2026-10-21T14:30:28.094516+00:00",
+ "at": "2026-10-22T14:31:15.510968+00:00",
  "events": [
+  {
+   "title": "Dust til' Dusk | Short Track Race Series",
+   "start": "2026-10-28T17:30:00",
+   "end": "2026-10-28T19:30:00",
+   "all_day": false,
+   "url": "https://www.pisgahareasorba.org/",
+   "description": "On-site registration starts at 4:30pm Race begins at 5:30 pm Pick your Poison: Have Funners, Plug Ins, Kids, and Hammerheads FREE ENTRY! In partnership with Pisgah SORBA and The Hub and Pisgah Tavern We're closing out the series with a Halloween-week party presented by Fox Factory. Show up in your best costume and race in it (safely!). The podium goes to the best costumes of the night , picked by our judges and the crowd. Group costumes, homemade outfits and full commitment are all welcome, and the scarier (or sillier) the better. Stick around after the race for the raffle, which benefits local trails.",
+   "venue": "The Hub and Pisgah Tavern, 11 Mama's Pl, Pisgah Forest, NC 28768, USA",
+   "city": "Pisgah Forest",
+   "state": "NC",
+   "source": "pisgah-area-sorba",
+   "source_name": "Pisgah Area SORBA",
+   "source_url": "https://www.pisgahareasorba.org/",
+   "trust": 80,
+   "bucket": "local",
+   "category": "festival",
+   "category_basis": "rule",
+   "discipline": "mtb",
+   "uid": "833243b5ef16fc7f",
+   "last_seen": "2026-10-22"
+  },
+  {
+   "title": "PAS Bike In Movie Night",
+   "start": "2026-11-10T17:30:00",
+   "end": "2026-11-10T20:00:00",
+   "all_day": false,
+   "url": "https://www.pisgahareasorba.org/",
+   "description": "Location: Oskar Blue Brewery Time: Doors at 5:30, films at 6:30. Ride in and use the bike parking from Brevard Bike Alliance , check out Made X Mtns and other bike industry vendors, and grab raffle tickets to support the trails. A night of short films, good beer, and good people, all for Pisgah trails.",
+   "venue": "342 Mountain Industrial Dr, Brevard, NC 28712, USA",
+   "city": "Brevard",
+   "state": "NC",
+   "source": "pisgah-area-sorba",
+   "source_name": "Pisgah Area SORBA",
+   "source_url": "https://www.pisgahareasorba.org/",
+   "trust": 80,
+   "bucket": "local",
+   "category": "trail-work",
+   "category_basis": "default",
+   "discipline": "mtb",
+   "uid": "96df9b901a193987",
+   "last_seen": "2026-10-22"
+  },
   {
    "title": "Black Mountain Work Day - Tree Clearing",
    "start": "2026-11-14T09:00:00",
@@ -20,7 +62,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "3bcf22eebb199532",
-   "last_seen": "2026-10-21"
+   "last_seen": "2026-10-22"
   },
   {
    "title": "Boyd Branch Work Day",
@@ -41,7 +83,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "710d5ad48ee812af",
-   "last_seen": "2026-10-21"
+   "last_seen": "2026-10-22"
   },
   {
    "title": "2026 Annual Meeting",
@@ -62,31 +104,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "c6d926388b7bb98b",
-   "last_seen": "2026-10-21"
-  },
-  {
-   "title": "Dust 'til Dusk Short Track Race Series - Conative MTB Apparel Night: Reverse Handicap",
-   "start": "2026-10-21T16:30:00",
-   "end": "2026-10-21T19:30:00",
-   "all_day": false,
-   "url": "https://www.pisgahareasorba.org/events-volunteer",
-   "description": "In a reverse handicap race, everyone chooses a random number at registration. Each racer takes their random number and subtracts it from their race position at the finish.",
-   "venue": "",
-   "city": "",
-   "state": "",
-   "cost": null,
-   "extracted_by": "llm",
-   "source": "pisgah-area-sorba",
-   "source_name": "Pisgah Area SORBA",
-   "source_url": "https://www.pisgahareasorba.org/",
-   "trust": 80,
-   "bucket": "local",
-   "category": "race",
-   "category_basis": "rule",
-   "discipline": "mtb",
-   "uid": "dd63bfea9284a887",
-   "last_seen": "2026-10-18",
-   "held_since": "2026-10-18"
+   "last_seen": "2026-10-22"
   },
   {
    "title": "Dust 'til Dusk Short Track Race Series - Fox Factory Night: Best Costume",
@@ -109,30 +127,6 @@
    "category_basis": "rule",
    "discipline": "other",
    "uid": "e23cf6dda7770e68",
-   "last_seen": "2026-10-18",
-   "held_since": "2026-10-18"
-  },
-  {
-   "title": "PAS Bike In Movie Night",
-   "start": "2026-11-10T17:30:00",
-   "end": "2026-11-10T20:00:00",
-   "all_day": false,
-   "url": "https://www.pisgahareasorba.org/events-volunteer",
-   "description": "",
-   "venue": "",
-   "city": "",
-   "state": "",
-   "cost": null,
-   "extracted_by": "llm",
-   "source": "pisgah-area-sorba",
-   "source_name": "Pisgah Area SORBA",
-   "source_url": "https://www.pisgahareasorba.org/",
-   "trust": 80,
-   "bucket": "local",
-   "category": "trail-work",
-   "category_basis": "default",
-   "discipline": "other",
-   "uid": "96df9b901a193987",
    "last_seen": "2026-10-18",
    "held_since": "2026-10-18"
   }

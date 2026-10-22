@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:G5 Fall Trail Work Weekend!
 DTSTART:20261106T150000
 DTEND:20261108T130000
-DTSTAMP:20261021T143218Z
+DTSTAMP:20261022T143203Z
 UID:135b22c437e79833@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Pisgah Grandfather Outdoor Community & Stewardship Party! Volu
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Women's + Workday - Fall Trail Weekend 2026
 DTSTART:20261107T090000
 DTEND:20261107T150000
-DTSTAMP:20261021T143218Z
+DTSTAMP:20261022T143203Z
 UID:2f7479c6a35dd56e@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:First Women's + Workday at Fall Trail Weekend 2026\n\nMore: ht
@@ -38,18 +38,24 @@ BEGIN:VEVENT
 SUMMARY:PAS Bike In Movie Night
 DTSTART:20261110T173000
 DTEND:20261110T200000
-DTSTAMP:20261021T143218Z
+DTSTAMP:20261022T143203Z
 UID:96df9b901a193987@altar.bike
 CATEGORIES:trail-work
-DESCRIPTION:More: https://www.pisgahareasorba.org/events-volunteer\n\nSour
- ce: Pisgah Area SORBA\n\nListed by Altar Cycles — altar.bike/calendar
-URL:https://www.pisgahareasorba.org/events-volunteer
+DESCRIPTION:Location: Oskar Blue Brewery Time: Doors at 5:30\, films at 6:
+ 30. Ride in and use the bike parking from Brevard Bike Alliance \, check o
+ ut Made X Mtns and other bike industry vendors\, and grab raffle tickets t
+ o support the trails. A night of short films\, good beer\, and good people
+ \, all for Pisgah trails.\n\nMore: https://www.pisgahareasorba.org/\n\nSou
+ rce: Pisgah Area SORBA\n\nListed by Altar Cycles — altar.bike/calendar
+LOCATION:342 Mountain Industrial Dr\, Brevard\, NC 28712\, USA\, Brevard\,
+  NC
+URL:https://www.pisgahareasorba.org/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Black Mountain Work Day - Tree Clearing
 DTSTART:20261114T090000
 DTEND:20261114T140000
-DTSTAMP:20261021T143218Z
+DTSTAMP:20261022T143203Z
 UID:3bcf22eebb199532@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Join Pisgah Area SORBA for a work day on the! No experience is
@@ -71,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:Boyd Branch Work Day
 DTSTART:20261114T100000
 DTEND:20261114T130000
-DTSTAMP:20261021T143218Z
+DTSTAMP:20261022T143203Z
 UID:710d5ad48ee812af@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Join Pisgah Area SORBA for a work day on the! No experience is
@@ -92,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Volunteer Appreciation Party
 DTSTART:20261117T180000
 DTEND:20261117T200000
-DTSTAMP:20261021T143218Z
+DTSTAMP:20261022T143203Z
 UID:7772a0f9bc08744e@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Celebration for past volunteers. Prizes\, giveaways\, food\, a
