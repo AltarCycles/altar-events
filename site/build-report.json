@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-22T14:32:03.632401+00:00",
- "total": 65,
+ "generated": "2026-10-23T14:15:36.717243+00:00",
+ "total": 64,
  "world": 4,
  "needs_attention": [
   "asheville-on-bikes",
@@ -67,7 +67,7 @@
    "fetched": 182,
    "kept": 12,
    "held": 0,
-   "at": "2026-10-22T14:31:07.547489+00:00"
+   "at": "2026-10-23T14:14:41.735235+00:00"
   },
   "velosports-ring-of-fire": {
    "status": "failed",
@@ -95,7 +95,7 @@
    "fetched": 5,
    "kept": 6,
    "held": 1,
-   "at": "2026-10-22T14:31:15.511541+00:00"
+   "at": "2026-10-23T14:14:51.301904+00:00"
   },
   "g5-trail-collective": {
    "status": "cached",
@@ -125,7 +125,7 @@
     "llm: https://api.anthropic.com/v1/messages: 401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
    ],
    "cached_events": 1,
-   "cache_age_days": 6,
+   "cache_age_days": 7,
    "optional": false,
    "off_season": false
   },
@@ -145,7 +145,7 @@
    "fetched": 43,
    "kept": 34,
    "held": 0,
-   "at": "2026-10-22T14:31:34.786835+00:00"
+   "at": "2026-10-23T14:15:09.463228+00:00"
   },
   "runsignup": {
    "status": "ok",
@@ -153,7 +153,7 @@
    "fetched": 250,
    "kept": 1,
    "held": 0,
-   "at": "2026-10-22T14:31:36.946466+00:00"
+   "at": "2026-10-23T14:15:12.914584+00:00"
   },
   "uci": {
    "status": "cached",
@@ -161,7 +161,7 @@
     "llm: https://api.anthropic.com/v1/messages: 401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
    ],
    "cached_events": 4,
-   "cache_age_days": 26,
+   "cache_age_days": 27,
    "optional": true,
    "off_season": false
   },
@@ -171,7 +171,7 @@
    "fetched": 500,
    "kept": 0,
    "held": 0,
-   "at": "2026-10-22T14:32:02.814104+00:00"
+   "at": "2026-10-23T14:15:36.271432+00:00"
   }
  }
 }
