@@ -1,5 +1,5 @@
 {
- "at": "2026-10-25T13:43:24.157520+00:00",
+ "at": "2026-10-26T16:08:04.927872+00:00",
  "events": [
   {
    "title": "Dust til' Dusk | Short Track Race Series",
@@ -20,7 +20,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "833243b5ef16fc7f",
-   "last_seen": "2026-10-25"
+   "last_seen": "2026-10-26"
   },
   {
    "title": "PAS Bike In Movie Night",
@@ -41,7 +41,7 @@
    "category_basis": "default",
    "discipline": "mtb",
    "uid": "96df9b901a193987",
-   "last_seen": "2026-10-25"
+   "last_seen": "2026-10-26"
   },
   {
    "title": "Black Mountain Work Day - Tree Clearing",
@@ -62,7 +62,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "3bcf22eebb199532",
-   "last_seen": "2026-10-25"
+   "last_seen": "2026-10-26"
   },
   {
    "title": "Boyd Branch Work Day",
@@ -83,7 +83,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "710d5ad48ee812af",
-   "last_seen": "2026-10-25"
+   "last_seen": "2026-10-26"
   },
   {
    "title": "2026 Annual Meeting",
@@ -104,31 +104,28 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "c6d926388b7bb98b",
-   "last_seen": "2026-10-25"
+   "last_seen": "2026-10-26"
   },
   {
-   "title": "Dust 'til Dusk Short Track Race Series - Fox Factory Night: Best Costume",
-   "start": "2026-10-28T16:30:00",
-   "end": "2026-10-28T19:30:00",
+   "title": "Bent Creek work day with CMC!",
+   "start": "2027-03-11T09:00:00",
+   "end": "2027-03-11T12:00:00",
    "all_day": false,
-   "url": "https://www.pisgahareasorba.org/events-volunteer",
-   "description": "Halloween-week party. Show up in your best costume and race in it (safely!). The podium goes to the best costumes of the night. Group costumes, homemade outfits and full commitment are all welcome.",
+   "url": "https://www.pisgahareasorba.org/",
+   "description": "Join Pisgah Area SORBA for a Trail Work Day! Meeting location and trail will be shared as the date approaches Come lend a hand as we work together to maintain and improve the trails we all love. No experience is necessary\u2014our crew leaders will provide tools, guidance, and instruction. What to Bring: Required: Long pants, boots that cover your ankles, safety glasses, gloves, hardhat (bike helmets DO NOT count, but climbing helmets do), snacks/lunch and water. Note: Hardhats, gloves and safety glasses can be provided if needed. All tools will be provided",
    "venue": "",
    "city": "",
    "state": "",
-   "cost": null,
-   "extracted_by": "llm",
    "source": "pisgah-area-sorba",
    "source_name": "Pisgah Area SORBA",
    "source_url": "https://www.pisgahareasorba.org/",
    "trust": 80,
    "bucket": "local",
-   "category": "festival",
+   "category": "trail-work",
    "category_basis": "rule",
-   "discipline": "other",
-   "uid": "e23cf6dda7770e68",
-   "last_seen": "2026-10-18",
-   "held_since": "2026-10-18"
+   "discipline": "mtb",
+   "uid": "10e5e360fcddd515",
+   "last_seen": "2026-10-26"
   }
  ]
 }
