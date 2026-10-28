@@ -7,10 +7,32 @@ X-WR-CALNAME:WNC Trail Work Days — Altar Cycles
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:Bent Creek HALLOWEEN Work Day
+DTSTART:20261031T084500
+DTEND:20261031T130000
+DTSTAMP:20261028T160355Z
+UID:55f55fb07da93dcf@altar.bike
+CATEGORIES:trail-work
+DESCRIPTION:Join Pisgah Area SORBA for a SPOOKY HALLOWEEN work day on Ingl
+ es Field Gap! No experience is necessary - our Pisgah SORBA Trail Crew Lea
+ ders will provide all tools\, guidance\, and instruction. Date: Saturday\,
+  October 31 from 9:00am-1:00pm (report at 8:45am) Trail Work Location: Ing
+ les Field Gap Meetup Location: Ledford Parking Lot Work description: Clear
+ ing drains\, tread work\, and brushing TCL: Craig Ruhland Required items: 
+ Long pants\, boots that cover your ankles\, safety glasses (can be provide
+ d)\, gloves (can be provided)\, hardhat (bike helmets DO NOT count\, but c
+ limbing helmets do\, also can be provided)\, snacks/lunch and water. All t
+ ools will be provided. Come out and give back to the trails!\n\nMore: http
+ s://www.pisgahareasorba.org/\n\nSource: Pisgah Area SORBA\n\nListed by Alt
+ ar Cycles — altar.bike/calendar
+LOCATION:Ledford Parking Lot
+URL:https://www.pisgahareasorba.org/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:G5 Fall Trail Work Weekend!
 DTSTART:20261106T150000
 DTEND:20261108T130000
-DTSTAMP:20261027T152239Z
+DTSTAMP:20261028T160355Z
 UID:135b22c437e79833@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Pisgah Grandfather Outdoor Community & Stewardship Party! Volu
@@ -25,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Women's + Workday - Fall Trail Weekend 2026
 DTSTART:20261107T090000
 DTEND:20261107T150000
-DTSTAMP:20261027T152239Z
+DTSTAMP:20261028T160355Z
 UID:2f7479c6a35dd56e@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:First Women's + Workday at Fall Trail Weekend 2026\n\nMore: ht
@@ -38,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:PAS Bike In Movie Night
 DTSTART:20261110T173000
 DTEND:20261110T200000
-DTSTAMP:20261027T152239Z
+DTSTAMP:20261028T160355Z
 UID:96df9b901a193987@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Location: Oskar Blue Brewery Time: Doors at 5:30\, films at 6:
@@ -55,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:Black Mountain Work Day - Tree Clearing
 DTSTART:20261114T090000
 DTEND:20261114T140000
-DTSTAMP:20261027T152239Z
+DTSTAMP:20261028T160355Z
 UID:3bcf22eebb199532@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Join Pisgah Area SORBA for a work day on the! No experience is
@@ -77,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:Boyd Branch Work Day
 DTSTART:20261114T100000
 DTEND:20261114T130000
-DTSTAMP:20261027T152239Z
+DTSTAMP:20261028T160355Z
 UID:710d5ad48ee812af@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Join Pisgah Area SORBA for a work day on the! No experience is
@@ -98,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:Volunteer Appreciation Party
 DTSTART:20261117T180000
 DTEND:20261117T200000
-DTSTAMP:20261027T152239Z
+DTSTAMP:20261028T160355Z
 UID:7772a0f9bc08744e@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Celebration for past volunteers. Prizes\, giveaways\, food\, a
@@ -112,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:Bent Creek work day with CMC!
 DTSTART:20270311T090000
 DTEND:20270311T120000
-DTSTAMP:20261027T152239Z
+DTSTAMP:20261028T160355Z
 UID:10e5e360fcddd515@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Join Pisgah Area SORBA for a Trail Work Day! Meeting location 
