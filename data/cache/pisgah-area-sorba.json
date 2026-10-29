@@ -1,27 +1,6 @@
 {
- "at": "2026-10-28T16:03:20.229508+00:00",
+ "at": "2026-10-29T16:07:32.643862+00:00",
  "events": [
-  {
-   "title": "Dust til' Dusk | Short Track Race Series",
-   "start": "2026-10-28T17:30:00",
-   "end": "2026-10-28T19:30:00",
-   "all_day": false,
-   "url": "https://www.pisgahareasorba.org/",
-   "description": "On-site registration starts at 4:30pm Race begins at 5:30 pm Pick your Poison: Have Funners, Plug Ins, Kids, and Hammerheads FREE ENTRY! In partnership with Pisgah SORBA and The Hub and Pisgah Tavern We're closing out the series with a Halloween-week party presented by Fox Factory. Show up in your best costume and race in it (safely!). The podium goes to the best costumes of the night , picked by our judges and the crowd. Group costumes, homemade outfits and full commitment are all welcome, and the scarier (or sillier) the better. Stick around after the race for the raffle, which benefits local trails.",
-   "venue": "The Hub and Pisgah Tavern, 11 Mama's Pl, Pisgah Forest, NC 28768, USA",
-   "city": "Pisgah Forest",
-   "state": "NC",
-   "source": "pisgah-area-sorba",
-   "source_name": "Pisgah Area SORBA",
-   "source_url": "https://www.pisgahareasorba.org/",
-   "trust": 80,
-   "bucket": "local",
-   "category": "festival",
-   "category_basis": "rule",
-   "discipline": "mtb",
-   "uid": "833243b5ef16fc7f",
-   "last_seen": "2026-10-28"
-  },
   {
    "title": "Bent Creek HALLOWEEN Work Day",
    "start": "2026-10-31T08:45:00",
@@ -41,7 +20,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "55f55fb07da93dcf",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
   },
   {
    "title": "PAS Bike In Movie Night",
@@ -62,7 +41,7 @@
    "category_basis": "default",
    "discipline": "mtb",
    "uid": "96df9b901a193987",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
   },
   {
    "title": "Black Mountain Work Day - Tree Clearing",
@@ -83,7 +62,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "3bcf22eebb199532",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
   },
   {
    "title": "Boyd Branch Work Day",
@@ -104,7 +83,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "710d5ad48ee812af",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
   },
   {
    "title": "2026 Annual Meeting",
@@ -125,7 +104,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "c6d926388b7bb98b",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
   },
   {
    "title": "Bent Creek work day with CMC!",
@@ -146,7 +125,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "10e5e360fcddd515",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-10-29"
   }
  ]
 }
