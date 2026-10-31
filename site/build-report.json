@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-30T15:57:26.595668+00:00",
+ "generated": "2026-10-31T15:20:43.991585+00:00",
  "total": 62,
- "world": 3,
+ "world": 2,
  "needs_attention": [
   "asheville-on-bikes",
   "darc",
@@ -17,7 +17,7 @@
     "llm: https://api.anthropic.com/v1/messages: 401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
    ],
    "cached_events": 3,
-   "cache_age_days": 9,
+   "cache_age_days": 10,
    "optional": false,
    "off_season": false
   },
@@ -27,7 +27,7 @@
     "llm: https://api.anthropic.com/v1/messages: 401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
    ],
    "cached_events": 0,
-   "cache_age_days": 9,
+   "cache_age_days": 10,
    "optional": true,
    "off_season": false
   },
@@ -47,7 +47,7 @@
     "llm: https://api.anthropic.com/v1/messages: 401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
    ],
    "cached_events": 0,
-   "cache_age_days": 9,
+   "cache_age_days": 10,
    "optional": false,
    "off_season": false
   },
@@ -57,7 +57,7 @@
     "llm: https://api.anthropic.com/v1/messages: 401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
    ],
    "cached_events": 4,
-   "cache_age_days": 9,
+   "cache_age_days": 10,
    "optional": false,
    "off_season": false
   },
@@ -67,7 +67,7 @@
    "fetched": 182,
    "kept": 12,
    "held": 0,
-   "at": "2026-10-30T15:56:30.645470+00:00"
+   "at": "2026-10-31T15:19:49.627871+00:00"
   },
   "velosports-ring-of-fire": {
    "status": "failed",
@@ -75,7 +75,7 @@
     "llm: https://api.anthropic.com/v1/messages: 401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
    ],
    "cached_events": 0,
-   "cache_age_days": 9,
+   "cache_age_days": 10,
    "optional": true,
    "off_season": false
   },
@@ -95,7 +95,7 @@
    "fetched": 6,
    "kept": 6,
    "held": 0,
-   "at": "2026-10-30T15:56:37.602366+00:00"
+   "at": "2026-10-31T15:19:57.450246+00:00"
   },
   "g5-trail-collective": {
    "status": "cached",
@@ -104,7 +104,7 @@
     "llm: https://api.anthropic.com/v1/messages: 401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
    ],
    "cached_events": 3,
-   "cache_age_days": 9,
+   "cache_age_days": 10,
    "optional": false,
    "off_season": false
   },
@@ -115,7 +115,7 @@
     "llm: https://api.anthropic.com/v1/messages: 401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
    ],
    "cached_events": 0,
-   "cache_age_days": 70,
+   "cache_age_days": 71,
    "optional": false,
    "off_season": false
   },
@@ -125,7 +125,7 @@
     "llm: https://api.anthropic.com/v1/messages: 401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
    ],
    "cached_events": 1,
-   "cache_age_days": 14,
+   "cache_age_days": 15,
    "optional": false,
    "off_season": false
   },
@@ -142,10 +142,10 @@
   "bikereg": {
    "status": "ok",
    "adapter": "bikereg",
-   "fetched": 40,
+   "fetched": 39,
    "kept": 33,
    "held": 0,
-   "at": "2026-10-30T15:56:55.359887+00:00"
+   "at": "2026-10-31T15:20:15.723495+00:00"
   },
   "runsignup": {
    "status": "ok",
@@ -153,15 +153,15 @@
    "fetched": 250,
    "kept": 1,
    "held": 0,
-   "at": "2026-10-30T15:56:58.051901+00:00"
+   "at": "2026-10-31T15:20:18.607597+00:00"
   },
   "uci": {
    "status": "cached",
    "errors": [
     "llm: https://api.anthropic.com/v1/messages: 401 Client Error: Unauthorized for url: https://api.anthropic.com/v1/messages"
    ],
-   "cached_events": 3,
-   "cache_age_days": 35,
+   "cached_events": 2,
+   "cache_age_days": 36,
    "optional": true,
    "off_season": false
   },
@@ -171,7 +171,7 @@
    "fetched": 500,
    "kept": 0,
    "held": 0,
-   "at": "2026-10-30T15:57:26.214680+00:00"
+   "at": "2026-10-31T15:20:43.667533+00:00"
   }
  }
 }
