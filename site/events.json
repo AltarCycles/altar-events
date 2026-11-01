@@ -1,105 +1,7 @@
 {
- "generated": "2026-10-31T15:20:43.991585+00:00",
- "count": 62,
+ "generated": "2026-11-01T16:02:39.697272+00:00",
+ "count": 59,
  "events": [
-  {
-   "title": "9:30am Bakery Ride B Group Start at Gravelo",
-   "all_day": true,
-   "url": "https://www.gravelo-workshop.com/",
-   "description": "More info: https://www.gravelo-workshop.com/bakery-ride",
-   "venue": "Gravelo Workshop - Bicycles & Coffee, 793 Merrimon Ave, Asheville, NC 28804, USA",
-   "lat": null,
-   "lng": null,
-   "uid_hint": "pr04pn9hpl01c4soaf9dg340la@google.com",
-   "start": "2026-10-31",
-   "end": null,
-   "source": "gravelo-workshop",
-   "source_name": "Gravelo Workshop",
-   "source_url": "https://www.gravelo-workshop.com/",
-   "trust": 80,
-   "bucket": "local",
-   "category": "group-ride",
-   "category_basis": "default",
-   "discipline": "other",
-   "uid": "0e9327a6cec9678a",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "title": "The Middle Fork Fondo 2026",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "all_day": true,
-   "url": "http://www.BikeReg.com/the-middle-fork-fondo-2026",
-   "description": "The Middle Fork Fondo 2026 benefits Bikes 4 Kids NC, supporting the year-round work that makes it possible to provide bicycles to children in need at Christmas. There are four scenic routes with minimal elevation to choose from at distances of 64, 50, 35, 21 miles. An aid station will be available for hydration and snacks. There will be 3 optional timed sectors for those that want to test their fitness and win the bragging rights for this years event! Must have Strava if you want your time recorded. 9am start time. Beer ticket included with registration for those 21+ ***Download your route from the links below *** The roads will not be marked. 64 miler https://ridewithgps.com/routes/53353523 50 miler https://ridewithgps.com/routes/53353522 35 miler https://ridewithgps.com/routes/53353520 2",
-   "venue": "336 Banner Farm Rd",
-   "city": "Mills River",
-   "state": "NC",
-   "lat": 35.3804629,
-   "lng": -82.5654982,
-   "image": "/BR/VirtualImages/EventLogos/60e8d02f-25e2-410a-bceb-a2f87d511d25.png",
-   "discipline_hint": "Gran Fondo",
-   "tags": [
-    "Gran Fondo",
-    "Recreational"
-   ],
-   "source": "bikereg",
-   "source_name": "BikeReg",
-   "source_url": "https://www.bikereg.com/",
-   "trust": 60,
-   "bucket": "local",
-   "category": "race",
-   "category_basis": "rule",
-   "discipline": "road",
-   "uid": "0186abed2e6b428b",
-   "distance_mi": 14.9,
-   "last_seen": "2026-10-31"
-  },
-  {
-   "title": "1000 Mile BikeWalk for Prevention",
-   "start": "2026-10-31T00:00:00",
-   "end": "2026-10-31T00:00:00",
-   "all_day": false,
-   "url": "https://runsignup.com/Race/TN/Morristown/1000MileBikeWalkForPrevention",
-   "description": "The 1000 Mile BikeWalk for Prevention \u2014 Halloween Edition \u2014 launches on Halloween morning \u2014 October 31, 2026 at Morristown Landing. Check-in and new registrations open at 8:00 am, with the first events starting at 9:00 am. Costumes and bike decorations are highly encouraged. Teams, too. Family-friendly pricing applies. The \" Spooktacular \" 1000 Miler is a regional fun ride/walk/run for kids, teens, adults... the whole family... to enjoy a fun and healthy morning while helping a good cause. I Not a timed race, the travel distance reported by every participant will be accumulated toward the event goal of 1000 miles. The Central Course is a spectator-friendly one-mile per lap loop on closed roads, offering walkers, runners and rider healthy fun for families and kids. Three laps = 5K. Start - ",
-   "venue": "4355 Durham Landing Morristown",
-   "city": "Morristown",
-   "state": "TN",
-   "lat": null,
-   "lng": null,
-   "image": "https://d368g9lw5ileu7.cloudfront.net/uploads/generic/genericImage-websiteLogo-282549-1785608444.4242-0.bQBJJ8.jpg",
-   "pre_geofenced": true,
-   "source": "runsignup",
-   "source_name": "RunSignup",
-   "source_url": "https://runsignup.com/",
-   "trust": 60,
-   "bucket": "local",
-   "category": "race",
-   "category_basis": "rule",
-   "discipline": "other",
-   "uid": "ca69c113117cd0e8",
-   "last_seen": "2026-10-31"
-  },
-  {
-   "title": "Bent Creek HALLOWEEN Work Day",
-   "start": "2026-10-31T08:45:00",
-   "end": "2026-10-31T13:00:00",
-   "all_day": false,
-   "url": "https://www.pisgahareasorba.org/",
-   "description": "Join Pisgah Area SORBA for a SPOOKY HALLOWEEN work day on Ingles Field Gap! No experience is necessary - our Pisgah SORBA Trail Crew Leaders will provide all tools, guidance, and instruction. Date: Saturday, October 31 from 9:00am-1:00pm (report at 8:45am) Trail Work Location: Ingles Field Gap Meetup Location: Ledford Parking Lot Work description: Clearing drains, tread work, and brushing TCL: Craig Ruhland Required items: Long pants, boots that cover your ankles, safety glasses (can be provided), gloves (can be provided), hardhat (bike helmets DO NOT count, but climbing helmets do, also can be provided), snacks/lunch and water. All tools will be provided. Come out and give back to the trails!",
-   "venue": "Ledford Parking Lot",
-   "city": "",
-   "state": "",
-   "source": "pisgah-area-sorba",
-   "source_name": "Pisgah Area SORBA",
-   "source_url": "https://www.pisgahareasorba.org/",
-   "trust": 80,
-   "bucket": "local",
-   "category": "trail-work",
-   "category_basis": "rule",
-   "discipline": "mtb",
-   "uid": "55f55fb07da93dcf",
-   "last_seen": "2026-10-31"
-  },
   {
    "title": "Smart Cycling Class",
    "start": "2026-11-01",
@@ -170,7 +72,7 @@
    "category_basis": "default",
    "discipline": "other",
    "uid": "31df84e9ac8b006c",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Couch Potato",
@@ -199,7 +101,7 @@
    "discipline": "mtb",
    "uid": "2e02b8a758b849f1",
    "distance_mi": 23.6,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "2026 Ride For Wellness",
@@ -228,7 +130,7 @@
    "discipline": "other",
    "uid": "23cb428284ee99c1",
    "distance_mi": 66.8,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "DARC Fall Gathering",
@@ -257,7 +159,7 @@
    "discipline": "gravel",
    "uid": "3e09670b5456db3c",
    "distance_mi": 20.4,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Women's + Workday - Fall Trail Weekend 2026",
@@ -335,7 +237,7 @@
    "discipline": "mtb",
    "uid": "808d5262f339b592",
    "distance_mi": 23.6,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "2026 NCCX Race #8 Hickory",
@@ -365,7 +267,7 @@
    "discipline": "cx",
    "uid": "6ce7ed1f4106eec0",
    "distance_mi": 66.7,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "PAS Bike In Movie Night",
@@ -386,7 +288,7 @@
    "category_basis": "default",
    "discipline": "mtb",
    "uid": "96df9b901a193987",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Cane Creek Club Night",
@@ -415,7 +317,7 @@
    "discipline": "other",
    "uid": "2f57f2450573b0dc",
    "distance_mi": 11.0,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "9:30am Bakery Ride B Group Start at Gravelo",
@@ -437,7 +339,7 @@
    "category_basis": "default",
    "discipline": "other",
    "uid": "3854cb867bb3b05b",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "We Shred Rock Creek",
@@ -467,7 +369,7 @@
    "discipline": "mtb",
    "uid": "0a67e54dee113b1a",
    "distance_mi": 27.4,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "XCC GVL - Greenville, SC., Short Track",
@@ -498,7 +400,7 @@
    "discipline": "mtb",
    "uid": "86cf16c78645fbfd",
    "distance_mi": 44.6,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Black Mountain Work Day - Tree Clearing",
@@ -519,7 +421,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "3bcf22eebb199532",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "November Group Ride + Social",
@@ -564,7 +466,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "710d5ad48ee812af",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Volunteer Appreciation Party",
@@ -618,7 +520,7 @@
    "discipline": "mtb",
    "uid": "f6e27f0091d07db2",
    "distance_mi": 45.9,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "9:30am Bakery Ride B Group Start at Gravelo",
@@ -640,7 +542,7 @@
    "category_basis": "default",
    "discipline": "other",
    "uid": "aebfef844e768835",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Pisgah DOUBLE DARE",
@@ -669,7 +571,7 @@
    "discipline": "mtb",
    "uid": "59bf1e39a66ae34b",
    "distance_mi": 26.3,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "2026 NORTH CAROLINA GRAND PRIX - R#1 & R#2 - NCCX Race #10 & Race #11 Hendersonville",
@@ -700,7 +602,7 @@
    "discipline": "cx",
    "uid": "1ea4003af619eb35",
    "distance_mi": 20.1,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Go Nuts Biking Nut Gobbler XC",
@@ -730,7 +632,7 @@
    "discipline": "mtb",
    "uid": "5d605450c7d6e77a",
    "distance_mi": 63.3,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "9:30am Bakery Ride B Group Start at Gravelo",
@@ -752,7 +654,7 @@
    "category_basis": "default",
    "discipline": "other",
    "uid": "5aac60792a0e466c",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Pisgah Rage Regular Season",
@@ -798,7 +700,7 @@
    "category_basis": "default",
    "discipline": "other",
    "uid": "c5aa7127c6175622",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "2026 Annual Meeting",
@@ -819,7 +721,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "c6d926388b7bb98b",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "9:30am Bakery Ride B Group Start at Gravelo",
@@ -841,7 +743,7 @@
    "category_basis": "default",
    "discipline": "other",
    "uid": "92f3cbdb2d27a8c1",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "December Group Ride + Social",
@@ -887,7 +789,7 @@
    "category_basis": "default",
    "discipline": "other",
    "uid": "8e1132f7f2635654",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "9:30am Bakery Ride B Group Start at Gravelo",
@@ -909,7 +811,7 @@
    "category_basis": "default",
    "discipline": "other",
    "uid": "1d99450259f62df8",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "9:30am Bakery Ride B Group Start at Gravelo",
@@ -931,7 +833,7 @@
    "category_basis": "default",
    "discipline": "other",
    "uid": "437a2e385ac303cc",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "9:30am Bakery Ride B Group Start at Gravelo",
@@ -953,7 +855,7 @@
    "category_basis": "default",
    "discipline": "other",
    "uid": "50d885a6738a4e0d",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "9:30am Bakery Ride B Group Start at Gravelo",
@@ -975,7 +877,29 @@
    "category_basis": "default",
    "discipline": "other",
    "uid": "09b527919dd2eb86",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
+  },
+  {
+   "title": "9:30am Bakery Ride B Group Start at Gravelo",
+   "all_day": true,
+   "url": "https://www.gravelo-workshop.com/",
+   "description": "More info: https://www.gravelo-workshop.com/bakery-ride",
+   "venue": "Gravelo Workshop - Bicycles & Coffee, 793 Merrimon Ave, Asheville, NC 28804, USA",
+   "lat": null,
+   "lng": null,
+   "uid_hint": "pr04pn9hpl01c4soaf9dg340la@google.com",
+   "start": "2027-01-23",
+   "end": null,
+   "source": "gravelo-workshop",
+   "source_name": "Gravelo Workshop",
+   "source_url": "https://www.gravelo-workshop.com/",
+   "trust": 80,
+   "bucket": "local",
+   "category": "group-ride",
+   "category_basis": "default",
+   "discipline": "other",
+   "uid": "79526bafc40a2ce3",
+   "last_seen": "2026-11-01"
   },
   {
    "title": "CCNS Winter Training Camp Deposit Week 1 (Week 1: February 21\u201327)",
@@ -1005,7 +929,7 @@
    "discipline": "other",
    "uid": "94f1fbe486a9f458",
    "distance_mi": 52.3,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "CCNS Winter Training Camp Deposit Week 2 (Feb 28th - Mar 6th)",
@@ -1035,7 +959,7 @@
    "discipline": "other",
    "uid": "7bfe8cfcafdaeab5",
    "distance_mi": 53.5,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Smart Cycling Class",
@@ -1081,7 +1005,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "10e5e360fcddd515",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Pisgah Stage Race",
@@ -1110,7 +1034,7 @@
    "discipline": "mtb",
    "uid": "d3258e3b4cd45a6b",
    "distance_mi": 26.9,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Bootlegger",
@@ -1140,7 +1064,7 @@
    "discipline": "gravel",
    "uid": "f0fa19e43a2adce0",
    "distance_mi": 60.8,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Pisgah Mountain Bike Adventure Race",
@@ -1169,7 +1093,7 @@
    "discipline": "mtb",
    "uid": "996261671a499518",
    "distance_mi": 23.6,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Strive Not To Drive Week",
@@ -1224,7 +1148,7 @@
    "discipline": "road",
    "uid": "6cb81637a4faee67",
    "distance_mi": 58.6,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Mars Hill Cycling Camp Road and Gravel Bike",
@@ -1254,7 +1178,7 @@
    "discipline": "gravel",
    "uid": "3897c58e7e5f8756",
    "distance_mi": 15.8,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Mars Hill Cycling Camp Mountain Bike 1",
@@ -1284,7 +1208,7 @@
    "discipline": "mtb",
    "uid": "c488335f568356e6",
    "distance_mi": 15.8,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Mars Hill Cycling Camp Mountain Bike 2",
@@ -1314,7 +1238,7 @@
    "discipline": "mtb",
    "uid": "c42c941805879632",
    "distance_mi": 15.8,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Gran Fondo Asheville, p/b Applewood Manor Foundation, a SENA Gran Fondo National Series event",
@@ -1344,7 +1268,7 @@
    "discipline": "road",
    "uid": "19cc3e2cb7f4ed33",
    "distance_mi": 0.3,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Mars Hill Cycling Camp Mountain Bike 3",
@@ -1374,7 +1298,7 @@
    "discipline": "mtb",
    "uid": "f4d3d0737e0d22cc",
    "distance_mi": 15.8,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "HARDford 50 and HARDERford 75",
@@ -1403,7 +1327,7 @@
    "discipline": "gravel",
    "uid": "fbb7b952544d9b16",
    "distance_mi": 36.6,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Boone Gran Fondo, a SENA Gran Fondo National Series event",
@@ -1434,7 +1358,7 @@
    "discipline": "road",
    "uid": "eaf10f6e0cd70f9a",
    "distance_mi": 64.8,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Old Fort Fifty",
@@ -1464,7 +1388,7 @@
    "discipline": "mtb",
    "uid": "574c90ce85701ccd",
    "distance_mi": 20.5,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Pisgah Enduro",
@@ -1494,7 +1418,7 @@
    "discipline": "mtb",
    "uid": "903f0caa2f7afb82",
    "distance_mi": 20.5,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Gravel Roll - The Holler in Walhalla",
@@ -1524,7 +1448,7 @@
    "discipline": "gravel",
    "uid": "578d116d110cb6d2",
    "distance_mi": 64.5,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Pisgah Monster-Cross Challenge",
@@ -1554,7 +1478,7 @@
    "discipline": "gravel",
    "uid": "b200a71231055f5c",
    "distance_mi": 23.6,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Downtown Asheville Racing Club (DARC)/Asheville Youth Cycling (AYC) 2027 Membership",
@@ -1583,7 +1507,7 @@
    "discipline": "other",
    "uid": "ed2195eb310bcece",
    "distance_mi": 0.3,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "Pisgah 111 / 555",
@@ -1613,7 +1537,7 @@
    "discipline": "mtb",
    "uid": "f6fb2bcb9eae90d0",
    "distance_mi": 23.6,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   },
   {
    "title": "2027 Gran Fondo Hincapie-Greenville",
@@ -1643,7 +1567,7 @@
    "discipline": "road",
    "uid": "283a9ed4782a297c",
    "distance_mi": 34.5,
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-01"
   }
  ],
  "world": [
@@ -1703,8 +1627,7 @@
   "G5 Trail Collective",
   "Gravelo Workshop",
   "Pisgah Area SORBA",
-  "Pisgah Rage (NICA composite team)",
-  "RunSignup"
+  "Pisgah Rage (NICA composite team)"
  ],
  "categories": [
   "advocacy",

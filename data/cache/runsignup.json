@@ -1,30 +1,4 @@
 {
- "at": "2026-10-31T15:20:18.603997+00:00",
- "events": [
-  {
-   "title": "1000 Mile BikeWalk for Prevention",
-   "start": "2026-10-31T00:00:00",
-   "end": "2026-10-31T00:00:00",
-   "all_day": false,
-   "url": "https://runsignup.com/Race/TN/Morristown/1000MileBikeWalkForPrevention",
-   "description": "The 1000 Mile BikeWalk for Prevention \u2014 Halloween Edition \u2014 launches on Halloween morning \u2014 October 31, 2026 at Morristown Landing. Check-in and new registrations open at 8:00 am, with the first events starting at 9:00 am. Costumes and bike decorations are highly encouraged. Teams, too. Family-friendly pricing applies. The \" Spooktacular \" 1000 Miler is a regional fun ride/walk/run for kids, teens, adults... the whole family... to enjoy a fun and healthy morning while helping a good cause. I Not a timed race, the travel distance reported by every participant will be accumulated toward the event goal of 1000 miles. The Central Course is a spectator-friendly one-mile per lap loop on closed roads, offering walkers, runners and rider healthy fun for families and kids. Three laps = 5K. Start - ",
-   "venue": "4355 Durham Landing Morristown",
-   "city": "Morristown",
-   "state": "TN",
-   "lat": null,
-   "lng": null,
-   "image": "https://d368g9lw5ileu7.cloudfront.net/uploads/generic/genericImage-websiteLogo-282549-1785608444.4242-0.bQBJJ8.jpg",
-   "pre_geofenced": true,
-   "source": "runsignup",
-   "source_name": "RunSignup",
-   "source_url": "https://runsignup.com/",
-   "trust": 60,
-   "bucket": "local",
-   "category": "race",
-   "category_basis": "rule",
-   "discipline": "other",
-   "uid": "ca69c113117cd0e8",
-   "last_seen": "2026-10-31"
-  }
- ]
+ "at": "2026-11-01T16:02:19.337867+00:00",
+ "events": []
 }
