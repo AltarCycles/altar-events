@@ -1,27 +1,6 @@
 {
- "at": "2026-11-10T17:02:26.789458+00:00",
+ "at": "2026-11-11T17:08:17.072584+00:00",
  "events": [
-  {
-   "title": "PAS Bike In Movie Night",
-   "start": "2026-11-10T17:30:00",
-   "end": "2026-11-10T20:00:00",
-   "all_day": false,
-   "url": "https://www.pisgahareasorba.org/",
-   "description": "Location: Oskar Blue Brewery Time: Doors at 5:30, films at 6:30. Ride in and use the bike parking from Brevard Bike Alliance , check out Made X Mtns and other bike industry vendors, and grab raffle tickets to support the trails. A night of short films, good beer, and good people, all for Pisgah trails.",
-   "venue": "342 Mountain Industrial Dr, Brevard, NC 28712, USA",
-   "city": "Brevard",
-   "state": "NC",
-   "source": "pisgah-area-sorba",
-   "source_name": "Pisgah Area SORBA",
-   "source_url": "https://www.pisgahareasorba.org/",
-   "trust": 80,
-   "bucket": "local",
-   "category": "trail-work",
-   "category_basis": "default",
-   "discipline": "mtb",
-   "uid": "96df9b901a193987",
-   "last_seen": "2026-11-10"
-  },
   {
    "title": "Black Mountain Work Day - Tree Clearing",
    "start": "2026-11-14T09:00:00",
@@ -41,7 +20,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "3bcf22eebb199532",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "title": "Boyd Branch Work Day",
@@ -62,7 +41,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "710d5ad48ee812af",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "title": "2026 Annual Meeting",
@@ -83,7 +62,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "c6d926388b7bb98b",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   },
   {
    "title": "Bent Creek work day with CMC!",
@@ -104,7 +83,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "10e5e360fcddd515",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-11"
   }
  ]
 }

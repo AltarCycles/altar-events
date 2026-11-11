@@ -7,27 +7,10 @@ X-WR-CALNAME:WNC Trail Work Days — Altar Cycles
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:PAS Bike In Movie Night
-DTSTART:20261110T173000
-DTEND:20261110T200000
-DTSTAMP:20261110T170304Z
-UID:96df9b901a193987@altar.bike
-CATEGORIES:trail-work
-DESCRIPTION:Location: Oskar Blue Brewery Time: Doors at 5:30\, films at 6:
- 30. Ride in and use the bike parking from Brevard Bike Alliance \, check o
- ut Made X Mtns and other bike industry vendors\, and grab raffle tickets t
- o support the trails. A night of short films\, good beer\, and good people
- \, all for Pisgah trails.\n\nMore: https://www.pisgahareasorba.org/\n\nSou
- rce: Pisgah Area SORBA\n\nListed by Altar Cycles — altar.bike/calendar
-LOCATION:342 Mountain Industrial Dr\, Brevard\, NC 28712\, USA\, Brevard\,
-  NC
-URL:https://www.pisgahareasorba.org/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Black Mountain Work Day - Tree Clearing
 DTSTART:20261114T090000
 DTEND:20261114T140000
-DTSTAMP:20261110T170304Z
+DTSTAMP:20261111T170907Z
 UID:3bcf22eebb199532@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Join Pisgah Area SORBA for a work day on the! No experience is
@@ -49,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:Boyd Branch Work Day
 DTSTART:20261114T100000
 DTEND:20261114T130000
-DTSTAMP:20261110T170304Z
+DTSTAMP:20261111T170907Z
 UID:710d5ad48ee812af@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Join Pisgah Area SORBA for a work day on the! No experience is
@@ -70,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Volunteer Appreciation Party
 DTSTART:20261117T180000
 DTEND:20261117T200000
-DTSTAMP:20261110T170304Z
+DTSTAMP:20261111T170907Z
 UID:7772a0f9bc08744e@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Celebration for past volunteers. Prizes\, giveaways\, food\, a
@@ -84,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:Bent Creek work day with CMC!
 DTSTART:20270311T090000
 DTEND:20270311T120000
-DTSTAMP:20261110T170304Z
+DTSTAMP:20261111T170907Z
 UID:10e5e360fcddd515@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Join Pisgah Area SORBA for a Trail Work Day! Meeting location 
