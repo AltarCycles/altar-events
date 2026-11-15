@@ -7,53 +7,10 @@ X-WR-CALNAME:WNC Trail Work Days — Altar Cycles
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Black Mountain Work Day - Tree Clearing
-DTSTART:20261114T090000
-DTEND:20261114T140000
-DTSTAMP:20261114T154943Z
-UID:3bcf22eebb199532@altar.bike
-CATEGORIES:trail-work
-DESCRIPTION:Join Pisgah Area SORBA for a work day on the! No experience is
-  necessary - our Pisgah SORBA Trail Crew Leaders will provide all tools\, 
- guidance\, and instruction. Date: Saturday\, November 14th from 9:00am-2:0
- 0pm Trail Work Location: Lower Black Mountain Trail Meetup Location: Black
-  Mountain Trailhead Parking Lot Work description: Removing previously cut 
- wood from the area TCL: Jack Duffey Required items: Long pants\, boots tha
- t cover your ankles\, safety glasses (can be provided)\, gloves (can be pr
- ovided)\, hardhat (bike helmets DO NOT count\, but climbing helmets do\, a
- lso can be provided)\, snacks/lunch and water. All tools will be provided.
-  Come out and give back to the trails!\n\nMore: https://www.pisgahareasorb
- a.org/\n\nSource: Pisgah Area SORBA\n\nListed by Altar Cycles — altar.bi
- ke/calendar
-LOCATION:77MH+C7 Brevard\, NC\, USA\, 77MH+C7 Brevard\, NC
-URL:https://www.pisgahareasorba.org/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Boyd Branch Work Day
-DTSTART:20261114T100000
-DTEND:20261114T130000
-DTSTAMP:20261114T154943Z
-UID:710d5ad48ee812af@altar.bike
-CATEGORIES:trail-work
-DESCRIPTION:Join Pisgah Area SORBA for a work day on the! No experience is
-  necessary - our Pisgah SORBA Trail Crew Leaders will provide all tools\, 
- guidance\, and instruction. Date: Saturday\, November 14th from 10:00am-1:
- 00pm Trail Work Location: Boyd Branch Meetup Location: Campground Connecto
- r Work description: Clearing drains and general maintenance TCL: David Tat
- e Required items: Long pants\, boots that cover your ankles\, safety glass
- es (can be provided)\, gloves (can be provided)\, hardhat (bike helmets DO
-  NOT count\, but climbing helmets do\, also can be provided)\, snacks/lunc
- h and water. All tools will be provided. Come out and give back to the tra
- ils!\n\nMore: https://www.pisgahareasorba.org/\n\nSource: Pisgah Area SORB
- A\n\nListed by Altar Cycles — altar.bike/calendar
-LOCATION:Campground Connector
-URL:https://www.pisgahareasorba.org/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Volunteer Appreciation Party
 DTSTART:20261117T180000
 DTEND:20261117T200000
-DTSTAMP:20261114T154943Z
+DTSTAMP:20261115T162232Z
 UID:7772a0f9bc08744e@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Celebration for past volunteers. Prizes\, giveaways\, food\, a
@@ -67,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Bent Creek work day with CMC!
 DTSTART:20270311T090000
 DTEND:20270311T120000
-DTSTAMP:20261114T154943Z
+DTSTAMP:20261115T162232Z
 UID:10e5e360fcddd515@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Join Pisgah Area SORBA for a Trail Work Day! Meeting location 

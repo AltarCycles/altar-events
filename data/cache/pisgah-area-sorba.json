@@ -1,48 +1,6 @@
 {
- "at": "2026-11-14T15:49:02.438825+00:00",
+ "at": "2026-11-15T16:21:44.550278+00:00",
  "events": [
-  {
-   "title": "Black Mountain Work Day - Tree Clearing",
-   "start": "2026-11-14T09:00:00",
-   "end": "2026-11-14T14:00:00",
-   "all_day": false,
-   "url": "https://www.pisgahareasorba.org/",
-   "description": "Join Pisgah Area SORBA for a work day on the! No experience is necessary - our Pisgah SORBA Trail Crew Leaders will provide all tools, guidance, and instruction. Date: Saturday, November 14th from 9:00am-2:00pm Trail Work Location: Lower Black Mountain Trail Meetup Location: Black Mountain Trailhead Parking Lot Work description: Removing previously cut wood from the area TCL: Jack Duffey Required items: Long pants, boots that cover your ankles, safety glasses (can be provided), gloves (can be provided), hardhat (bike helmets DO NOT count, but climbing helmets do, also can be provided), snacks/lunch and water. All tools will be provided. Come out and give back to the trails!",
-   "venue": "77MH+C7 Brevard, NC, USA",
-   "city": "77MH+C7 Brevard",
-   "state": "NC",
-   "source": "pisgah-area-sorba",
-   "source_name": "Pisgah Area SORBA",
-   "source_url": "https://www.pisgahareasorba.org/",
-   "trust": 80,
-   "bucket": "local",
-   "category": "trail-work",
-   "category_basis": "rule",
-   "discipline": "mtb",
-   "uid": "3bcf22eebb199532",
-   "last_seen": "2026-11-14"
-  },
-  {
-   "title": "Boyd Branch Work Day",
-   "start": "2026-11-14T10:00:00",
-   "end": "2026-11-14T13:00:00",
-   "all_day": false,
-   "url": "https://www.pisgahareasorba.org/",
-   "description": "Join Pisgah Area SORBA for a work day on the! No experience is necessary - our Pisgah SORBA Trail Crew Leaders will provide all tools, guidance, and instruction. Date: Saturday, November 14th from 10:00am-1:00pm Trail Work Location: Boyd Branch Meetup Location: Campground Connector Work description: Clearing drains and general maintenance TCL: David Tate Required items: Long pants, boots that cover your ankles, safety glasses (can be provided), gloves (can be provided), hardhat (bike helmets DO NOT count, but climbing helmets do, also can be provided), snacks/lunch and water. All tools will be provided. Come out and give back to the trails!",
-   "venue": "Campground Connector",
-   "city": "",
-   "state": "",
-   "source": "pisgah-area-sorba",
-   "source_name": "Pisgah Area SORBA",
-   "source_url": "https://www.pisgahareasorba.org/",
-   "trust": 80,
-   "bucket": "local",
-   "category": "trail-work",
-   "category_basis": "rule",
-   "discipline": "mtb",
-   "uid": "710d5ad48ee812af",
-   "last_seen": "2026-11-14"
-  },
   {
    "title": "2026 Annual Meeting",
    "start": "2026-12-07T17:30:00",
@@ -62,7 +20,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "c6d926388b7bb98b",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-15"
   },
   {
    "title": "Bent Creek work day with CMC!",
@@ -83,7 +41,7 @@
    "category_basis": "rule",
    "discipline": "mtb",
    "uid": "10e5e360fcddd515",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-15"
   }
  ]
 }
