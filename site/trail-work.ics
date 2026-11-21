@@ -7,32 +7,10 @@ X-WR-CALNAME:WNC Trail Work Days — Altar Cycles
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Bent Creek Workday: Ingles Field
-DTSTART:20261120T100000
-DTEND:20261120T140000
-DTSTAMP:20261120T174917Z
-UID:6478495e0e24ce21@altar.bike
-CATEGORIES:trail-work
-DESCRIPTION:Join Pisgah Area SORBA for a work day on Ingles Field Gap! No 
- experience is necessary - our Pisgah SORBA Trail Crew Leaders will provide
-  all tools\, guidance\, and instruction. Date: Friday\, November 20 from 1
- 0:00AM - 2:00PM Trail Work Location: Ingles Field Gap Meetup Location: Led
- ford Parking Lot Work description: Clearing drains\, tread work\, and brus
- hing TCL: Craig Ruhland Required items: Long pants\, boots that cover your
-  ankles\, safety glasses (can be provided)\, gloves (can be provided)\, ha
- rdhat (bike helmets DO NOT count\, but climbing helmets do\, and helmets c
- an be provided)\, snacks/lunch and water. All tools will be provided. Come
-  out and give back to the trails!\n\nMore: https://www.pisgahareasorba.org
- /\n\nSource: Pisgah Area SORBA\n\nListed by Altar Cycles — altar.bike/ca
- lendar
-LOCATION:Ledford Parking Lot
-URL:https://www.pisgahareasorba.org/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bent Creek work day with CMC!
 DTSTART:20270311T090000
 DTEND:20270311T120000
-DTSTAMP:20261120T174917Z
+DTSTAMP:20261121T164804Z
 UID:10e5e360fcddd515@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Join Pisgah Area SORBA for a Trail Work Day! Meeting location 
