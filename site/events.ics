@@ -8,82 +8,9 @@ X-WR-CALNAME:WNC Cycling — by Altar Cycles
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Pisgah DOUBLE DARE
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-DTSTAMP:20261122T171021Z
-UID:59bf1e39a66ae34b@altar.bike
-CATEGORIES:race
-DESCRIPTION:Every year an event comes along that tests mental and physical
-  strengths of its racers like no other. Pisgah Productions proudly present
- s the hardest (and most fun) thing you will do this year….. the DOUBLE D
- ARE. Teams of two riders will race to reach up to 10 checkpoints (CPs) per
-  day\, two days in a row. The race begins at 10AM on Saturday and every te
- am must be back before 10PM. The race resumes at 6AM Sunday with 10 brand 
- new checkpoints. Every team must finish before 6PM on Sunday. Teams ‘in 
- the running’ should expect up to 70 miles of riding with 12\,000-15\,000
-  feet of climbing each day. SINGLE-DARE! The one-day category at Double-Da
- re!!! Teams of two riders will race up to 10 checkpoints\, in any order\, 
- and return to the start/finish the fastest. Checkpoint locations will rema
- in secret\n\nMore: http://www.BikeReg.com/pisgah-double-dare-2026\n\nSourc
- e: BikeReg\n\nListed by Altar Cycles — altar.bike/calendar
-GEO:35.2844925407938;-82.8203944998303
-LOCATION:1 Davidson River Circle\, Brevard\, NC
-URL:http://www.BikeReg.com/pisgah-double-dare-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2026 NORTH CAROLINA GRAND PRIX - R1 and R2 - NCCX Race 10 and Race
-  11 Hendersonville
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-DTSTAMP:20261122T171021Z
-UID:60d052cd13a7b011@altar.bike
-CATEGORIES:race
-DESCRIPTION:Review the event website here. The 2026 guide is now available
-  here . Pre-registration for collegiate\, category\, master's\, and elite 
- racers is open online until Thursday\, November 19\, 2026\, at 11:59 p.m. 
- ET. UCI categories must pre-register. Day-of registration is available onl
- ine for non-UCI races and closes 60 minutes before the start of each desig
- nated race. There is an additional $15 fee for the day of registration. Al
- l racers must collect a new bib number for the NCGP. Timing chips will rem
- ain the same for NCCX series racers. Staging and call-ups begin 15 minutes
-  before each race start. Be prompt\, as our UCI officials will be staging 
- racers and strictly staying on schedule. The early bell and/or 80% rule wi
- ll be in effect\, so pay attention to your elapsed race time and where the
-  race \n\nMore: http://www.BikeReg.com/nccxncgp2026\n\nSource: BikeReg\n\n
- Listed by Altar Cycles — altar.bike/calendar
-GEO:35.3169908;-82.4463546
-LOCATION:708 Glover St\, Hendersonville\, NC
-URL:http://www.BikeReg.com/nccxncgp2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Go Nuts Biking Nut Gobbler XC
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261122
-DTSTAMP:20261122T171021Z
-UID:5d605450c7d6e77a@altar.bike
-CATEGORIES:youth
-DESCRIPTION:Time & Location November 22\, 2026 - Stumphouse Mountain Bike 
- Park\, 667 Ross Mountain Road\, Walhalla\, SC 29691 Description Saturday\,
-  November 21\, 2026 Pre-ride will open at noon with taped course. Sunday\,
-  November 22\, 2026 XC Race for Juniors\, Adults & EMTB Mark your calendar
- s for November 22\, 2026 \, at Stumphouse Bike Park for the Nut Gobbler XC
-  — the ultimate cross-country race just before the Thanksgiving break! T
- his exhilarating event is packed with excitement for riders of all ages an
- d skill levels\, from juniors to adults\, beginners to pros. Cash payout f
- or overall Expert winners Podium prizes for top finishers in every age gro
- up It’s fast\, fun\, and family-friendly — don’t miss out on one of 
- the most thrilling races of the season! Online registration only. XC Regul
- ar Registration Price\n\nMore: http://www.BikeReg.com/go-nuts-stumphouse\n
- \nSource: BikeReg\n\nListed by Altar Cycles — altar.bike/calendar
-GEO:34.8068556;-83.1245633
-LOCATION:105 Stumphouse Tunnel Rd\, Walhalla\, SC
-URL:http://www.BikeReg.com/go-nuts-stumphouse
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:9:30am Bakery Ride B Group Start at Gravelo
 DTSTART;VALUE=DATE:20261128
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:5aac60792a0e466c@altar.bike
 CATEGORIES:group-ride
 DESCRIPTION:More info: https://www.gravelo-workshop.com/bakery-ride\n\nMor
@@ -96,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pisgah Rage Regular Season
 DTSTART;VALUE=DATE:20261201
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:670937aa0418b08a@altar.bike
 CATEGORIES:race
 DESCRIPTION:Runs 1 Dec 2026 to 30 May 2027. Regular season including train
@@ -110,7 +37,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:9:30am Bakery Ride B Group Start at Gravelo
 DTSTART;VALUE=DATE:20261205
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:c5aa7127c6175622@altar.bike
 CATEGORIES:group-ride
 DESCRIPTION:More info: https://www.gravelo-workshop.com/bakery-ride\n\nMor
@@ -124,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Annual Meeting
 DTSTART:20261207T173000
 DTEND:20261207T193000
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:c6d926388b7bb98b@altar.bike
 CATEGORIES:advocacy
 DESCRIPTION:Join Pisgah Area SORBA for our Annual Meeting as we vote in ou
@@ -144,7 +71,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:9:30am Bakery Ride B Group Start at Gravelo
 DTSTART;VALUE=DATE:20261212
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:92f3cbdb2d27a8c1@altar.bike
 CATEGORIES:group-ride
 DESCRIPTION:More info: https://www.gravelo-workshop.com/bakery-ride\n\nMor
@@ -158,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:December Group Ride + Social
 DTSTART:20261212T130000
 DTEND:20261212T153000
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:b68ee4e9e36aad4a@altar.bike
 CATEGORIES:group-ride
 DESCRIPTION:Group ride in Hot Springs. Post-ride social at Big Pillow Brew
@@ -172,7 +99,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:9:30am Bakery Ride B Group Start at Gravelo
 DTSTART;VALUE=DATE:20261219
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:8e1132f7f2635654@altar.bike
 CATEGORIES:group-ride
 DESCRIPTION:More info: https://www.gravelo-workshop.com/bakery-ride\n\nMor
@@ -185,7 +112,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:9:30am Bakery Ride B Group Start at Gravelo
 DTSTART;VALUE=DATE:20261226
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:1d99450259f62df8@altar.bike
 CATEGORIES:group-ride
 DESCRIPTION:More info: https://www.gravelo-workshop.com/bakery-ride\n\nMor
@@ -198,7 +125,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:9:30am Bakery Ride B Group Start at Gravelo
 DTSTART;VALUE=DATE:20270102
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:437a2e385ac303cc@altar.bike
 CATEGORIES:group-ride
 DESCRIPTION:More info: https://www.gravelo-workshop.com/bakery-ride\n\nMor
@@ -211,7 +138,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:9:30am Bakery Ride B Group Start at Gravelo
 DTSTART;VALUE=DATE:20270109
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:50d885a6738a4e0d@altar.bike
 CATEGORIES:group-ride
 DESCRIPTION:More info: https://www.gravelo-workshop.com/bakery-ride\n\nMor
@@ -224,7 +151,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:9:30am Bakery Ride B Group Start at Gravelo
 DTSTART;VALUE=DATE:20270116
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:09b527919dd2eb86@altar.bike
 CATEGORIES:group-ride
 DESCRIPTION:More info: https://www.gravelo-workshop.com/bakery-ride\n\nMor
@@ -237,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:9:30am Bakery Ride B Group Start at Gravelo
 DTSTART;VALUE=DATE:20270123
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:79526bafc40a2ce3@altar.bike
 CATEGORIES:group-ride
 DESCRIPTION:More info: https://www.gravelo-workshop.com/bakery-ride\n\nMor
@@ -250,7 +177,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:9:30am Bakery Ride B Group Start at Gravelo
 DTSTART;VALUE=DATE:20270130
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:9a84952a3d5105e0@altar.bike
 CATEGORIES:group-ride
 DESCRIPTION:More info: https://www.gravelo-workshop.com/bakery-ride\n\nMor
@@ -263,7 +190,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:9:30am Bakery Ride B Group Start at Gravelo
 DTSTART;VALUE=DATE:20270206
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:0895498124c36453@altar.bike
 CATEGORIES:group-ride
 DESCRIPTION:More info: https://www.gravelo-workshop.com/bakery-ride\n\nMor
@@ -276,7 +203,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:9:30am Bakery Ride B Group Start at Gravelo
 DTSTART;VALUE=DATE:20270213
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:d04c3ce611160206@altar.bike
 CATEGORIES:group-ride
 DESCRIPTION:More info: https://www.gravelo-workshop.com/bakery-ride\n\nMor
@@ -291,7 +218,7 @@ SUMMARY:CCNS Winter Training Camp Deposit Week 1 (Week 1: February 21–27
  )
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270227
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:94f1fbe486a9f458@altar.bike
 CATEGORIES:clinic
 DESCRIPTION:Click here for more info\n\nMore: http://www.BikeReg.com/ccns-
@@ -305,7 +232,7 @@ BEGIN:VEVENT
 SUMMARY:CCNS Winter Training Camp Deposit Week 2 (Feb 28th - Mar 6th)
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270306
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:7bfe8cfcafdaeab5@altar.bike
 CATEGORIES:clinic
 DESCRIPTION:Click here for more info\n\nMore: http://www.BikeReg.com/ccns-
@@ -318,7 +245,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Smart Cycling Class (date TBA)
 DTSTART;VALUE=DATE:20270301
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:3d04c78472303ea6@altar.bike
 CATEGORIES:clinic
 DESCRIPTION:Date not yet announced. Asheville on Bikes lists this as a Mar
@@ -332,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:Bent Creek work day with CMC!
 DTSTART:20270311T090000
 DTEND:20270311T120000
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:10e5e360fcddd515@altar.bike
 CATEGORIES:trail-work
 DESCRIPTION:Join Pisgah Area SORBA for a Trail Work Day! Meeting location 
@@ -351,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:Pisgah Stage Race
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270410
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:d3258e3b4cd45a6b@altar.bike
 CATEGORIES:race
 DESCRIPTION:Pisgah Stage Race is now running as a Three-Day Race. It's not
@@ -375,7 +302,7 @@ BEGIN:VEVENT
 SUMMARY:Bootlegger
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270417
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:f0fa19e43a2adce0@altar.bike
 CATEGORIES:race
 DESCRIPTION:The Bootlegger is one of the most challenging and scenic grave
@@ -399,7 +326,7 @@ BEGIN:VEVENT
 SUMMARY:Pisgah Mountain Bike Adventure Race
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270501
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:996261671a499518@altar.bike
 CATEGORIES:race
 DESCRIPTION:The Pisgah Mountain Bike Adventure Race (PMBAR) is the absolut
@@ -423,7 +350,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Strive Not To Drive Week (date TBA)
 DTSTART;VALUE=DATE:20270501
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:26dba6bf08e3e357@altar.bike
 CATEGORIES:group-ride
 DESCRIPTION:Date not yet announced. Asheville on Bikes lists this as a May
@@ -438,7 +365,7 @@ BEGIN:VEVENT
 SUMMARY:Carolina Reaper Road Race
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270515
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:6cb81637a4faee67@altar.bike
 CATEGORIES:race
 DESCRIPTION:Please visit www.reaperroadrace.com for more information.\n\nM
@@ -452,7 +379,7 @@ BEGIN:VEVENT
 SUMMARY:2027 Stump Jump
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270516
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:c0f72f09aeb77016@altar.bike
 CATEGORIES:race
 DESCRIPTION:More: http://www.BikeReg.com/stump-jump\n\nSource: BikeReg\n\n
@@ -465,7 +392,7 @@ BEGIN:VEVENT
 SUMMARY:Mars Hill Cycling Camp Road and Gravel Bike
 DTSTART;VALUE=DATE:20270614
 DTEND;VALUE=DATE:20270619
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:3897c58e7e5f8756@altar.bike
 CATEGORIES:clinic
 DESCRIPTION:Registration Process: Please Read! 1: Make sure your 2027 USAC
@@ -489,7 +416,7 @@ BEGIN:VEVENT
 SUMMARY:Mars Hill Cycling Camp Mountain Bike 1
 DTSTART;VALUE=DATE:20270621
 DTEND;VALUE=DATE:20270626
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:c488335f568356e6@altar.bike
 CATEGORIES:clinic
 DESCRIPTION:Registration Process: Please Read! 1: Make sure your 2027 USAC
@@ -513,7 +440,7 @@ BEGIN:VEVENT
 SUMMARY:Mars Hill Cycling Camp Mountain Bike 2
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270703
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:c42c941805879632@altar.bike
 CATEGORIES:clinic
 DESCRIPTION:Registration Process: Please Read! 1: Make sure your 2027 USAC
@@ -538,7 +465,7 @@ SUMMARY:Gran Fondo Asheville\, p/b Applewood Manor Foundation\, a SENA Gra
  n Fondo National Series event
 DTSTART;VALUE=DATE:20270718
 DTEND;VALUE=DATE:20270718
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:19cc3e2cb7f4ed33@altar.bike
 CATEGORIES:race
 DESCRIPTION:THIS REGISTRATION IS FOR 2027 THESE DETAILS ARE FOR 2026 EVENT
@@ -562,7 +489,7 @@ BEGIN:VEVENT
 SUMMARY:Mars Hill Cycling Camp Mountain Bike 3
 DTSTART;VALUE=DATE:20270719
 DTEND;VALUE=DATE:20270724
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:f4d3d0737e0d22cc@altar.bike
 CATEGORIES:clinic
 DESCRIPTION:Registration Process: Please Read! 1: Make sure your 2027 USAC
@@ -586,7 +513,7 @@ BEGIN:VEVENT
 SUMMARY:HARDford 50 and HARDERford 75
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270801
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:fbb7b952544d9b16@altar.bike
 CATEGORIES:race
 DESCRIPTION:Riders have two course options: The HARDford 50 and the HARDER
@@ -610,7 +537,7 @@ BEGIN:VEVENT
 SUMMARY:Boone Gran Fondo\, a SENA Gran Fondo National Series event
 DTSTART;VALUE=DATE:20270808
 DTEND;VALUE=DATE:20270808
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:eaf10f6e0cd70f9a@altar.bike
 CATEGORIES:race
 DESCRIPTION:THIS REGISTRATION IS FOR THE 2027 EVENT DETAILS BELOW SUBJECT 
@@ -634,7 +561,7 @@ BEGIN:VEVENT
 SUMMARY:Old Fort Fifty
 DTSTART;VALUE=DATE:20270814
 DTEND;VALUE=DATE:20270814
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:574c90ce85701ccd@altar.bike
 CATEGORIES:race
 DESCRIPTION:The Old Fort Fifty will be held on the rugged\, legendary trai
@@ -658,7 +585,7 @@ BEGIN:VEVENT
 SUMMARY:Pisgah Enduro
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270815
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:903f0caa2f7afb82@altar.bike
 CATEGORIES:race
 DESCRIPTION:High-speed East Coast technical rocky rooty singletrack ENDURO
@@ -682,7 +609,7 @@ BEGIN:VEVENT
 SUMMARY:Gravel Roll - The Holler in Walhalla
 DTSTART;VALUE=DATE:20270821
 DTEND;VALUE=DATE:20270821
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:578d116d110cb6d2@altar.bike
 CATEGORIES:race
 DESCRIPTION:The Gravel Roll is Hollerin' for more in Walhalla in 2027! Gua
@@ -706,7 +633,7 @@ BEGIN:VEVENT
 SUMMARY:Pisgah Monster-Cross Challenge
 DTSTART;VALUE=DATE:20270911
 DTEND;VALUE=DATE:20270911
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:b200a71231055f5c@altar.bike
 CATEGORIES:festival
 DESCRIPTION:The Pisgah Monster-Cross Challenge is the premiere all-road ra
@@ -732,7 +659,7 @@ SUMMARY:Downtown Asheville Racing Club (DARC)/Asheville Youth Cycling (AYC
  ) 2027 Membership
 DTSTART;VALUE=DATE:20270930
 DTEND;VALUE=DATE:20270930
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:ed2195eb310bcece@altar.bike
 CATEGORIES:youth
 DESCRIPTION:Membership forms must be filled out and dues must be paid each
@@ -757,7 +684,7 @@ BEGIN:VEVENT
 SUMMARY:Pisgah 111 / 555
 DTSTART;VALUE=DATE:20271002
 DTEND;VALUE=DATE:20271002
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:f6fb2bcb9eae90d0@altar.bike
 CATEGORIES:race
 DESCRIPTION:The Pisgah 111 is the quintessential crusher of a cross-countr
@@ -781,7 +708,7 @@ BEGIN:VEVENT
 SUMMARY:2027 Gran Fondo Hincapie-Greenville
 DTSTART;VALUE=DATE:20271016
 DTEND;VALUE=DATE:20271016
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:283a9ed4782a297c@altar.bike
 CATEGORIES:race
 DESCRIPTION:Not sure which distance is right for you? Visit our website to
@@ -797,7 +724,7 @@ BEGIN:VEVENT
 SUMMARY:The Middle Fork Fondo 2027
 DTSTART;VALUE=DATE:20271030
 DTEND;VALUE=DATE:20271030
-DTSTAMP:20261122T171021Z
+DTSTAMP:20261123T212548Z
 UID:d2354fbdeb60f57a@altar.bike
 CATEGORIES:race
 DESCRIPTION:The Middle Fork Fondo 2027 benefits Bikes 4 Kids NC\, supporti
